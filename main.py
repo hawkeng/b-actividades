@@ -14,8 +14,8 @@ import time
 from os.path import join, realpath
 from datetime import timedelta
 
-USER = "7162@utcv.edu.mx"
-PASSWORD = "PASSPORT"
+USER = "FOO@utcv.edu.mx"
+PASSWORD = "FOO"
 
 URLS = [
     "https://b-learning.utcv.edu.mx/mod/quiz/view.php?id=11270",
