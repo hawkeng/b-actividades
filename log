@@ -1,0 +1,2299 @@
+INFO:root:Starting session with user: 7162@UTCV.EDU.MX
+INFO:root:
+Starting attempt #1 for M8: KA 3rd -1
+INFO:root:Getting answer 0 for question q496510:1_answer
+INFO:root:Filling # 1 question: q496510:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:2_answer
+INFO:root:Filling # 2 question: q496510:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:3_answer
+INFO:root:Filling # 3 question: q496510:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:4_answer
+INFO:root:Filling # 4 question: q496510:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:5_answer
+INFO:root:Filling # 5 question: q496510:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:6_answer
+INFO:root:Filling # 6 question: q496510:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:7_answer
+INFO:root:Filling # 7 question: q496510:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:8_answer
+INFO:root:Filling # 8 question: q496510:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:9_answer
+INFO:root:Filling # 9 question: q496510:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:10_answer
+INFO:root:Filling # 10 question: q496510:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:11_answer
+INFO:root:Filling # 11 question: q496510:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:12_answer
+INFO:root:Filling # 12 question: q496510:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:13_answer
+INFO:root:Filling # 13 question: q496510:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:14_answer
+INFO:root:Filling # 14 question: q496510:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496510:15_answer
+INFO:root:Filling # 15 question: q496510:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (4:  hasn't been)
+INFO:root:Saving answer (5:  has believed)
+INFO:root:Saving answer (13:  flood)
+INFO:root:{'13': ' flood', '5': ' has believed', '4': " hasn't been"}
+INFO:root:{'11': [' I has been working'], '10': [' been'], '12': [' bored'], '15': [' I have been read'], '14': [' storm'], '1': [' 1c,2a,3e,4b.'], '3': [' has been Jack spending'], '2': [u' 1 a,b\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2 d,e'], '7': [' Has you did'], '6': [' have you been sending'], '9': [' has being writing'], '8': [' He is not doing well/he feels depressed.']}
+INFO:root:
+Starting attempt #2 for M8: KA 3rd -1
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:1_answer') and text()!=concat('a.',' 1c,2a,3e,4b.') and text()!=concat('b.',' 1c,2a,3e,4b.') and text()!=concat('c.',' 1c,2a,3e,4b.') and text()!=concat('d.',' 1c,2a,3e,4b.')]
+INFO:root:Getting answer 1 for question q496513:1_answer
+INFO:root:Filling # 1 question: q496513:1_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:2_answer') and text()!=concat('a.',' 1 a,b          2 d,e') and text()!=concat('b.',' 1 a,b          2 d,e') and text()!=concat('c.',' 1 a,b          2 d,e') and text()!=concat('d.',' 1 a,b          2 d,e')]
+INFO:root:Getting answer 0 for question q496513:2_answer
+INFO:root:Filling # 2 question: q496513:2_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:3_answer') and text()!=concat('a.',' has been Jack spending') and text()!=concat('b.',' has been Jack spending') and text()!=concat('c.',' has been Jack spending') and text()!=concat('d.',' has been Jack spending')]
+INFO:root:Getting answer 1 for question q496513:3_answer
+INFO:root:Filling # 3 question: q496513:3_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:4_answer') and contains(text(), concat(' hasn',"'",'t been'))]
+INFO:root:Getting answer 0 for question q496513:4_answer
+INFO:root:Filling # 4 question: q496513:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:5_answer') and contains(text(), ' has believed')]
+INFO:root:Getting answer 0 for question q496513:5_answer
+INFO:root:Filling # 5 question: q496513:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:6_answer') and text()!=concat('a.',' have you been sending') and text()!=concat('b.',' have you been sending') and text()!=concat('c.',' have you been sending') and text()!=concat('d.',' have you been sending')]
+INFO:root:Getting answer 0 for question q496513:6_answer
+INFO:root:Filling # 6 question: q496513:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:7_answer') and text()!=concat('a.',' Has you did') and text()!=concat('b.',' Has you did') and text()!=concat('c.',' Has you did') and text()!=concat('d.',' Has you did')]
+INFO:root:Getting answer 0 for question q496513:7_answer
+INFO:root:Filling # 7 question: q496513:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:8_answer') and text()!=concat('a.',' He is not doing well/he feels depressed.') and text()!=concat('b.',' He is not doing well/he feels depressed.') and text()!=concat('c.',' He is not doing well/he feels depressed.') and text()!=concat('d.',' He is not doing well/he feels depressed.')]
+INFO:root:Getting answer 0 for question q496513:8_answer
+INFO:root:Filling # 8 question: q496513:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:9_answer') and text()!=concat('a.',' has being writing') and text()!=concat('b.',' has being writing') and text()!=concat('c.',' has being writing') and text()!=concat('d.',' has being writing')]
+INFO:root:Getting answer 0 for question q496513:9_answer
+INFO:root:Filling # 9 question: q496513:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:10_answer') and text()!=concat('a.',' been') and text()!=concat('b.',' been') and text()!=concat('c.',' been') and text()!=concat('d.',' been')]
+INFO:root:Getting answer 0 for question q496513:10_answer
+INFO:root:Filling # 10 question: q496513:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:11_answer') and text()!=concat('a.',' I has been working') and text()!=concat('b.',' I has been working') and text()!=concat('c.',' I has been working') and text()!=concat('d.',' I has been working')]
+INFO:root:Getting answer 0 for question q496513:11_answer
+INFO:root:Filling # 11 question: q496513:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:12_answer') and text()!=concat('a.',' bored') and text()!=concat('b.',' bored') and text()!=concat('c.',' bored') and text()!=concat('d.',' bored')]
+INFO:root:Getting answer 0 for question q496513:12_answer
+INFO:root:Filling # 12 question: q496513:12_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:13_answer') and contains(text(), ' flood')]
+INFO:root:Getting answer 2 for question q496513:13_answer
+INFO:root:Filling # 13 question: q496513:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:14_answer') and text()!=concat('a.',' storm') and text()!=concat('b.',' storm') and text()!=concat('c.',' storm') and text()!=concat('d.',' storm')]
+INFO:root:Getting answer 0 for question q496513:14_answer
+INFO:root:Filling # 14 question: q496513:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496513:15_answer') and text()!=concat('a.',' I have been read') and text()!=concat('b.',' I have been read') and text()!=concat('c.',' I have been read') and text()!=concat('d.',' I have been read')]
+INFO:root:Getting answer 0 for question q496513:15_answer
+INFO:root:Filling # 15 question: q496513:15_answer with answer: 0
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (3:  has Jack been spending)
+INFO:root:Saving answer (4:  hasn't been)
+INFO:root:Saving answer (5:  has believed)
+INFO:root:Saving answer (11:  I have been working)
+INFO:root:Saving answer (13:  flood)
+INFO:root:{'11': ' I have been working', '13': ' flood', '5': ' has believed', '4': " hasn't been", '3': ' has Jack been spending'}
+INFO:root:{'11': [' I has been working'], '10': [' been', ' have'], '12': [' bored', ' satisfied'], '15': [' I have been read', ' Have I been reading'], '14': [' storm', ' wind'], '1': [' 1c,2a,3e,4b.', ' 1c,2e,3d,4b.'], '3': [' has been Jack spending'], '2': [u' 1 a,b\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2 d,e', u' 1 b,c\xa0\xa0\xa0\xa0\xa0\xa0 2 e,d'], '7': [' Has you did', ' Have you do'], '6': [' have you been sending', ' have you send'], '9': [' has being writing', ' has been writting'], '8': [' He is not doing well/he feels depressed.', ' He is not doing well/he is not doing a good job.']}
+INFO:root:
+Starting attempt #3 for M8: KA 3rd -1
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:1_answer') and text()!=concat('a.',' 1c,2a,3e,4b.') and text()!=concat('b.',' 1c,2a,3e,4b.') and text()!=concat('c.',' 1c,2a,3e,4b.') and text()!=concat('d.',' 1c,2a,3e,4b.') and text()!=concat('a.',' 1c,2e,3d,4b.') and text()!=concat('b.',' 1c,2e,3d,4b.') and text()!=concat('c.',' 1c,2e,3d,4b.') and text()!=concat('d.',' 1c,2e,3d,4b.')]
+INFO:root:Getting answer 0 for question q496516:1_answer
+INFO:root:Filling # 1 question: q496516:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:2_answer') and text()!=concat('a.',' 1 a,b          2 d,e') and text()!=concat('b.',' 1 a,b          2 d,e') and text()!=concat('c.',' 1 a,b          2 d,e') and text()!=concat('d.',' 1 a,b          2 d,e') and text()!=concat('a.',' 1 b,c       2 e,d') and text()!=concat('b.',' 1 b,c       2 e,d') and text()!=concat('c.',' 1 b,c       2 e,d') and text()!=concat('d.',' 1 b,c       2 e,d')]
+INFO:root:Getting answer 0 for question q496516:2_answer
+INFO:root:Filling # 2 question: q496516:2_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:3_answer') and contains(text(), ' has Jack been spending')]
+INFO:root:Getting answer 3 for question q496516:3_answer
+INFO:root:Filling # 3 question: q496516:3_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:4_answer') and contains(text(), concat(' hasn',"'",'t been'))]
+INFO:root:Getting answer 0 for question q496516:4_answer
+INFO:root:Filling # 4 question: q496516:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:5_answer') and contains(text(), ' has believed')]
+INFO:root:Getting answer 3 for question q496516:5_answer
+INFO:root:Filling # 5 question: q496516:5_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:6_answer') and text()!=concat('a.',' have you been sending') and text()!=concat('b.',' have you been sending') and text()!=concat('c.',' have you been sending') and text()!=concat('d.',' have you been sending') and text()!=concat('a.',' have you send') and text()!=concat('b.',' have you send') and text()!=concat('c.',' have you send') and text()!=concat('d.',' have you send')]
+INFO:root:Getting answer 1 for question q496516:6_answer
+INFO:root:Filling # 6 question: q496516:6_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:7_answer') and text()!=concat('a.',' Has you did') and text()!=concat('b.',' Has you did') and text()!=concat('c.',' Has you did') and text()!=concat('d.',' Has you did') and text()!=concat('a.',' Have you do') and text()!=concat('b.',' Have you do') and text()!=concat('c.',' Have you do') and text()!=concat('d.',' Have you do')]
+INFO:root:Getting answer 0 for question q496516:7_answer
+INFO:root:Filling # 7 question: q496516:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:8_answer') and text()!=concat('a.',' He is not doing well/he feels depressed.') and text()!=concat('b.',' He is not doing well/he feels depressed.') and text()!=concat('c.',' He is not doing well/he feels depressed.') and text()!=concat('d.',' He is not doing well/he feels depressed.') and text()!=concat('a.',' He is not doing well/he is not doing a good job.') and text()!=concat('b.',' He is not doing well/he is not doing a good job.') and text()!=concat('c.',' He is not doing well/he is not doing a good job.') and text()!=concat('d.',' He is not doing well/he is not doing a good job.')]
+INFO:root:Getting answer 1 for question q496516:8_answer
+INFO:root:Filling # 8 question: q496516:8_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:9_answer') and text()!=concat('a.',' has being writing') and text()!=concat('b.',' has being writing') and text()!=concat('c.',' has being writing') and text()!=concat('d.',' has being writing') and text()!=concat('a.',' has been writting') and text()!=concat('b.',' has been writting') and text()!=concat('c.',' has been writting') and text()!=concat('d.',' has been writting')]
+INFO:root:Getting answer 0 for question q496516:9_answer
+INFO:root:Filling # 9 question: q496516:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:10_answer') and text()!=concat('a.',' been') and text()!=concat('b.',' been') and text()!=concat('c.',' been') and text()!=concat('d.',' been') and text()!=concat('a.',' have') and text()!=concat('b.',' have') and text()!=concat('c.',' have') and text()!=concat('d.',' have')]
+INFO:root:Getting answer 1 for question q496516:10_answer
+INFO:root:Filling # 10 question: q496516:10_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:11_answer') and contains(text(), ' I have been working')]
+INFO:root:Getting answer 0 for question q496516:11_answer
+INFO:root:Filling # 11 question: q496516:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:12_answer') and text()!=concat('a.',' bored') and text()!=concat('b.',' bored') and text()!=concat('c.',' bored') and text()!=concat('d.',' bored') and text()!=concat('a.',' satisfied') and text()!=concat('b.',' satisfied') and text()!=concat('c.',' satisfied') and text()!=concat('d.',' satisfied')]
+INFO:root:Getting answer 0 for question q496516:12_answer
+INFO:root:Filling # 12 question: q496516:12_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:13_answer') and contains(text(), ' flood')]
+INFO:root:Getting answer 0 for question q496516:13_answer
+INFO:root:Filling # 13 question: q496516:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:14_answer') and text()!=concat('a.',' storm') and text()!=concat('b.',' storm') and text()!=concat('c.',' storm') and text()!=concat('d.',' storm') and text()!=concat('a.',' wind') and text()!=concat('b.',' wind') and text()!=concat('c.',' wind') and text()!=concat('d.',' wind')]
+INFO:root:Getting answer 1 for question q496516:14_answer
+INFO:root:Filling # 14 question: q496516:14_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496516:15_answer') and text()!=concat('a.',' I have been read') and text()!=concat('b.',' I have been read') and text()!=concat('c.',' I have been read') and text()!=concat('d.',' I have been read') and text()!=concat('a.',' Have I been reading') and text()!=concat('b.',' Have I been reading') and text()!=concat('c.',' Have I been reading') and text()!=concat('d.',' Have I been reading')]
+INFO:root:Getting answer 1 for question q496516:15_answer
+INFO:root:Filling # 15 question: q496516:15_answer with answer: 1
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (1:  1c,2d,3e,4b.)
+INFO:root:Saving answer (3:  has Jack been spending)
+INFO:root:Saving answer (5:  has believed)
+INFO:root:Saving answer (6:  have you sent)
+INFO:root:Saving answer (8:  He is not enjoying himself/he is not an interesting person.)
+INFO:root:Saving answer (10:  studing)
+INFO:root:Saving answer (11:  I have been working)
+INFO:root:Saving answer (12:  injured)
+INFO:root:Saving answer (13:  flood)
+INFO:root:Saving answer (15:  I’ve been reading)
+INFO:root:{'11': ' I have been working', '10': ' studing', '13': ' flood', '12': ' injured', '15': u' I\u2019ve been reading', '1': ' 1c,2d,3e,4b.', '3': ' has Jack been spending', '5': ' has believed', '4': " hasn't been", '6': ' have you sent', '8': ' He is not enjoying himself/he is not an interesting person.'}
+INFO:root:{'11': [' I has been working'], '10': [' been', ' have'], '12': [' bored', ' satisfied'], '15': [' I have been read', ' Have I been reading'], '14': [' storm', ' wind', ' flood'], '1': [' 1c,2a,3e,4b.', ' 1c,2e,3d,4b.'], '3': [' has been Jack spending'], '2': [u' 1 a,b\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2 d,e', u' 1 b,c\xa0\xa0\xa0\xa0\xa0\xa0 2 e,d', u' 1 b,c\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2 a,d'], '4': [" hasn't been being"], '7': [' Has you did', ' Have you do', ' Have you been doing'], '6': [' have you been sending', ' have you send'], '9': [' has being writing', ' has been writting', ' has been written'], '8': [' He is not doing well/he feels depressed.', ' He is not doing well/he is not doing a good job.']}
+INFO:root:
+Starting attempt #4 for M8: KA 3rd -1
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:1_answer') and contains(text(), ' 1c,2d,3e,4b.')]
+INFO:root:Getting answer 1 for question q496518:1_answer
+INFO:root:Filling # 1 question: q496518:1_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:2_answer') and text()!=concat('a.',' 1 a,b          2 d,e') and text()!=concat('b.',' 1 a,b          2 d,e') and text()!=concat('c.',' 1 a,b          2 d,e') and text()!=concat('d.',' 1 a,b          2 d,e') and text()!=concat('a.',' 1 b,c       2 e,d') and text()!=concat('b.',' 1 b,c       2 e,d') and text()!=concat('c.',' 1 b,c       2 e,d') and text()!=concat('d.',' 1 b,c       2 e,d') and text()!=concat('a.',' 1 b,c         2 a,d') and text()!=concat('b.',' 1 b,c         2 a,d') and text()!=concat('c.',' 1 b,c         2 a,d') and text()!=concat('d.',' 1 b,c         2 a,d')]
+INFO:root:Getting answer 1 for question q496518:2_answer
+INFO:root:Filling # 2 question: q496518:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:3_answer') and contains(text(), ' has Jack been spending')]
+INFO:root:Getting answer 0 for question q496518:3_answer
+INFO:root:Filling # 3 question: q496518:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:4_answer') and contains(text(), concat(' hasn',"'",'t been'))]
+INFO:root:Getting answer 0 for question q496518:4_answer
+INFO:root:Filling # 4 question: q496518:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:5_answer') and contains(text(), ' has believed')]
+INFO:root:Getting answer 2 for question q496518:5_answer
+INFO:root:Filling # 5 question: q496518:5_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:6_answer') and contains(text(), ' have you sent')]
+INFO:root:Getting answer 1 for question q496518:6_answer
+INFO:root:Filling # 6 question: q496518:6_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:7_answer') and text()!=concat('a.',' Has you did') and text()!=concat('b.',' Has you did') and text()!=concat('c.',' Has you did') and text()!=concat('d.',' Has you did') and text()!=concat('a.',' Have you do') and text()!=concat('b.',' Have you do') and text()!=concat('c.',' Have you do') and text()!=concat('d.',' Have you do') and text()!=concat('a.',' Have you been doing') and text()!=concat('b.',' Have you been doing') and text()!=concat('c.',' Have you been doing') and text()!=concat('d.',' Have you been doing')]
+INFO:root:Getting answer 3 for question q496518:7_answer
+INFO:root:Filling # 7 question: q496518:7_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:8_answer') and contains(text(), ' He is not enjoying himself/he is not an interesting person.')]
+INFO:root:Getting answer 0 for question q496518:8_answer
+INFO:root:Filling # 8 question: q496518:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:9_answer') and text()!=concat('a.',' has being writing') and text()!=concat('b.',' has being writing') and text()!=concat('c.',' has being writing') and text()!=concat('d.',' has being writing') and text()!=concat('a.',' has been writting') and text()!=concat('b.',' has been writting') and text()!=concat('c.',' has been writting') and text()!=concat('d.',' has been writting') and text()!=concat('a.',' has been written') and text()!=concat('b.',' has been written') and text()!=concat('c.',' has been written') and text()!=concat('d.',' has been written')]
+INFO:root:Getting answer 1 for question q496518:9_answer
+INFO:root:Filling # 9 question: q496518:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:10_answer') and contains(text(), ' studing')]
+INFO:root:Getting answer 0 for question q496518:10_answer
+INFO:root:Filling # 10 question: q496518:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:11_answer') and contains(text(), ' I have been working')]
+INFO:root:Getting answer 0 for question q496518:11_answer
+INFO:root:Filling # 11 question: q496518:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:12_answer') and contains(text(), ' injured')]
+INFO:root:Getting answer 2 for question q496518:12_answer
+INFO:root:Filling # 12 question: q496518:12_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:13_answer') and contains(text(), ' flood')]
+INFO:root:Getting answer 1 for question q496518:13_answer
+INFO:root:Filling # 13 question: q496518:13_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:14_answer') and text()!=concat('a.',' storm') and text()!=concat('b.',' storm') and text()!=concat('c.',' storm') and text()!=concat('d.',' storm') and text()!=concat('a.',' wind') and text()!=concat('b.',' wind') and text()!=concat('c.',' wind') and text()!=concat('d.',' wind') and text()!=concat('a.',' flood') and text()!=concat('b.',' flood') and text()!=concat('c.',' flood') and text()!=concat('d.',' flood')]
+INFO:root:Getting answer 3 for question q496518:14_answer
+INFO:root:Filling # 14 question: q496518:14_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496518:15_answer') and contains(text(), ' I’ve been reading')]
+INFO:root:Getting answer 0 for question q496518:15_answer
+INFO:root:Filling # 15 question: q496518:15_answer with answer: 0
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  1c,2d,3e,4b.)
+INFO:root:Saving answer (2:  1 b,e         2 c,d)
+INFO:root:Saving answer (3:  has Jack been spending)
+INFO:root:Saving answer (5:  has believed)
+INFO:root:Saving answer (6:  have you sent)
+INFO:root:Saving answer (7:  Have you done)
+INFO:root:Saving answer (8:  He is not enjoying himself/he is not an interesting person.)
+INFO:root:Saving answer (9:  has been writing)
+INFO:root:Saving answer (10:  studing)
+INFO:root:Saving answer (11:  I have been working)
+INFO:root:Saving answer (12:  injured)
+INFO:root:Saving answer (13:  flood)
+INFO:root:Saving answer (14:  mud)
+INFO:root:Saving answer (15:  I’ve been reading)
+INFO:root:{'11': ' I have been working', '10': ' studing', '13': ' flood', '12': ' injured', '15': u' I\u2019ve been reading', '14': ' mud', '1': ' 1c,2d,3e,4b.', '3': ' has Jack been spending', '2': u' 1 b,e\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2 c,d', '5': ' has believed', '4': " hasn't been", '7': ' Have you done', '6': ' have you sent', '9': ' has been writing', '8': ' He is not enjoying himself/he is not an interesting person.'}
+INFO:root:{'11': [' I has been working'], '10': [' been', ' have'], '12': [' bored', ' satisfied'], '15': [' I have been read', ' Have I been reading'], '14': [' storm', ' wind', ' flood'], '1': [' 1c,2a,3e,4b.', ' 1c,2e,3d,4b.'], '3': [' has been Jack spending'], '2': [u' 1 a,b\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2 d,e', u' 1 b,c\xa0\xa0\xa0\xa0\xa0\xa0 2 e,d', u' 1 b,c\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 2 a,d'], '4': [" hasn't been being", " hasn't been being"], '7': [' Has you did', ' Have you do', ' Have you been doing'], '6': [' have you been sending', ' have you send'], '9': [' has being writing', ' has been writting', ' has been written'], '8': [' He is not doing well/he feels depressed.', ' He is not doing well/he is not doing a good job.']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/M8__KA_3rd__1.html
+INFO:root:
+Starting attempt #1 for M8: KA 3rd-2
+INFO:root:Getting answer 0 for question q496520:1_answer
+INFO:root:Filling # 1 question: q496520:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:2_answer
+INFO:root:Filling # 2 question: q496520:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:3_answer
+INFO:root:Filling # 3 question: q496520:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:4_answer
+INFO:root:Filling # 4 question: q496520:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:5_answer
+INFO:root:Filling # 5 question: q496520:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:6_answer
+INFO:root:Filling # 6 question: q496520:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:7_answer
+INFO:root:Filling # 7 question: q496520:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:8_answer
+INFO:root:Filling # 8 question: q496520:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:9_answer
+INFO:root:Filling # 9 question: q496520:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:10_answer
+INFO:root:Filling # 10 question: q496520:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:11_answer
+INFO:root:Filling # 11 question: q496520:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:12_answer
+INFO:root:Filling # 12 question: q496520:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:13_answer
+INFO:root:Filling # 13 question: q496520:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:14_answer
+INFO:root:Filling # 14 question: q496520:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496520:15_answer
+INFO:root:Filling # 15 question: q496520:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (9:  A cup of tea is being drunk by Sheila.)
+INFO:root:Saving answer (10:  Beethoven’s Ninth Symphony is going to be performed by us next weekend)
+INFO:root:Saving answer (13:  The preparations had been finished by the time the guests arrived)
+INFO:root:{'9': ' A cup of tea is being drunk by Sheila.', '10': u' Beethoven\u2019s Ninth Symphony is going to be performed by us next weekend', '13': ' The preparations had been finished by the time the guests arrived'}
+INFO:root:{'11': [' Course by December the students will finish'], '12': [' "Red Sunset" were painted in 1986 by Smither.'], '15': [' Tools of plastic they make these.'], '14': [' Dinner was been cooked by Maggie when I arrived.'], '1': [' French will be at the meeting spoken.'], '3': [' installed'], '2': [' A new computer will be bought for Jane.'], '5': [' will sign'], '4': [' thousands'], '7': [' will be shown not'], '6': [' It will be not done by you.'], '8': [' The refreshments is going to be prepared by Jessica']}
+INFO:root:
+Starting attempt #2 for M8: KA 3rd-2
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:1_answer') and text()!=concat('a.',' French will be at the meeting spoken.') and text()!=concat('b.',' French will be at the meeting spoken.') and text()!=concat('c.',' French will be at the meeting spoken.') and text()!=concat('d.',' French will be at the meeting spoken.')]
+INFO:root:Getting answer 0 for question q496522:1_answer
+INFO:root:Filling # 1 question: q496522:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:2_answer') and text()!=concat('a.',' A new computer will be bought for Jane.') and text()!=concat('b.',' A new computer will be bought for Jane.') and text()!=concat('c.',' A new computer will be bought for Jane.') and text()!=concat('d.',' A new computer will be bought for Jane.')]
+INFO:root:Getting answer 1 for question q496522:2_answer
+INFO:root:Filling # 2 question: q496522:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:3_answer') and text()!=concat('a.',' installed') and text()!=concat('b.',' installed') and text()!=concat('c.',' installed') and text()!=concat('d.',' installed')]
+INFO:root:Getting answer 0 for question q496522:3_answer
+INFO:root:Filling # 3 question: q496522:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:4_answer') and text()!=concat('a.',' thousands') and text()!=concat('b.',' thousands') and text()!=concat('c.',' thousands') and text()!=concat('d.',' thousands')]
+INFO:root:Getting answer 0 for question q496522:4_answer
+INFO:root:Filling # 4 question: q496522:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:5_answer') and text()!=concat('a.',' will sign') and text()!=concat('b.',' will sign') and text()!=concat('c.',' will sign') and text()!=concat('d.',' will sign')]
+INFO:root:Getting answer 0 for question q496522:5_answer
+INFO:root:Filling # 5 question: q496522:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:6_answer') and text()!=concat('a.',' It will be not done by you.') and text()!=concat('b.',' It will be not done by you.') and text()!=concat('c.',' It will be not done by you.') and text()!=concat('d.',' It will be not done by you.')]
+INFO:root:Getting answer 0 for question q496522:6_answer
+INFO:root:Filling # 6 question: q496522:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:7_answer') and text()!=concat('a.',' will be shown not') and text()!=concat('b.',' will be shown not') and text()!=concat('c.',' will be shown not') and text()!=concat('d.',' will be shown not')]
+INFO:root:Getting answer 0 for question q496522:7_answer
+INFO:root:Filling # 7 question: q496522:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:8_answer') and text()!=concat('a.',' The refreshments is going to be prepared by Jessica') and text()!=concat('b.',' The refreshments is going to be prepared by Jessica') and text()!=concat('c.',' The refreshments is going to be prepared by Jessica') and text()!=concat('d.',' The refreshments is going to be prepared by Jessica')]
+INFO:root:Getting answer 0 for question q496522:8_answer
+INFO:root:Filling # 8 question: q496522:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:9_answer') and contains(text(), ' A cup of tea is being drunk by Sheila.')]
+INFO:root:Getting answer 3 for question q496522:9_answer
+INFO:root:Filling # 9 question: q496522:9_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:10_answer') and contains(text(), ' Beethoven’s Ninth Symphony is going to be performed by us next weekend')]
+INFO:root:Getting answer 2 for question q496522:10_answer
+INFO:root:Filling # 10 question: q496522:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:11_answer') and text()!=concat('a.',' Course by December the students will finish') and text()!=concat('b.',' Course by December the students will finish') and text()!=concat('c.',' Course by December the students will finish') and text()!=concat('d.',' Course by December the students will finish')]
+INFO:root:Getting answer 0 for question q496522:11_answer
+INFO:root:Filling # 11 question: q496522:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:12_answer') and text()!=concat('a.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('b.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('c.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('d.',concat(' "Red Sunset" were painted in 1986 by Smither.'))]
+INFO:root:Getting answer None for question q496522:12_answer
+INFO:root:Filling # 12 question: q496522:12_answer with answer: None
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:13_answer') and contains(text(), ' The preparations had been finished by the time the guests arrived')]
+INFO:root:Getting answer 2 for question q496522:13_answer
+INFO:root:Filling # 13 question: q496522:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:14_answer') and text()!=concat('a.',' Dinner was been cooked by Maggie when I arrived.') and text()!=concat('b.',' Dinner was been cooked by Maggie when I arrived.') and text()!=concat('c.',' Dinner was been cooked by Maggie when I arrived.') and text()!=concat('d.',' Dinner was been cooked by Maggie when I arrived.')]
+INFO:root:Getting answer 0 for question q496522:14_answer
+INFO:root:Filling # 14 question: q496522:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496522:15_answer') and text()!=concat('a.',' Tools of plastic they make these.') and text()!=concat('b.',' Tools of plastic they make these.') and text()!=concat('c.',' Tools of plastic they make these.') and text()!=concat('d.',' Tools of plastic they make these.')]
+INFO:root:Getting answer 1 for question q496522:15_answer
+INFO:root:Filling # 15 question: q496522:15_answer with answer: 1
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (1:  French will be spoken at the meeting.)
+INFO:root:Saving answer (2:  A new computer will be bought by Jane.)
+INFO:root:Saving answer (4:  visit)
+INFO:root:Saving answer (5:  will be signed)
+INFO:root:Saving answer (7:  will not be shown)
+INFO:root:Saving answer (8:  The refreshments are going to be prepared by Jessica.)
+INFO:root:Saving answer (9:  A cup of tea is being drunk by Sheila.)
+INFO:root:Saving answer (10:  Beethoven’s Ninth Symphony is going to be performed by us next weekend)
+INFO:root:Saving answer (13:  The preparations had been finished by the time the guests arrived)
+INFO:root:{'10': u' Beethoven\u2019s Ninth Symphony is going to be performed by us next weekend', '13': ' The preparations had been finished by the time the guests arrived', '1': ' French will be spoken at the meeting.', '2': ' A new computer will be bought by Jane.', '5': ' will be signed', '4': ' visit', '7': ' will not be shown', '9': ' A cup of tea is being drunk by Sheila.', '8': ' The refreshments are going to be prepared by Jessica.'}
+INFO:root:{'11': [' Course by December the students will finish', ' The course by December the students finish'], '12': [' "Red Sunset" were painted in 1986 by Smither.', u' \u201cRed Sunset\u201d in 1986 Smithers painted.'], '15': [' Tools of plastic they make these.', ' These tools are make by plastic.'], '14': [' Dinner was been cooked by Maggie when I arrived.', ' Cooking dinner when I arrive Maggie was.'], '1': [' French will be at the meeting spoken.'], '3': [' installed', ' will'], '2': [' A new computer will be bought for Jane.'], '5': [' will sign'], '4': [' thousands'], '7': [' will be shown not'], '6': [' It will be not done by you.', ' It will be done not by you'], '8': [' The refreshments is going to be prepared by Jessica']}
+INFO:root:
+Starting attempt #3 for M8: KA 3rd-2
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:1_answer') and contains(text(), ' French will be spoken at the meeting.')]
+INFO:root:Getting answer 3 for question q496530:1_answer
+INFO:root:Filling # 1 question: q496530:1_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:2_answer') and contains(text(), ' A new computer will be bought by Jane.')]
+INFO:root:Getting answer 1 for question q496530:2_answer
+INFO:root:Filling # 2 question: q496530:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:3_answer') and text()!=concat('a.',' installed') and text()!=concat('b.',' installed') and text()!=concat('c.',' installed') and text()!=concat('d.',' installed') and text()!=concat('a.',' will') and text()!=concat('b.',' will') and text()!=concat('c.',' will') and text()!=concat('d.',' will')]
+INFO:root:Getting answer 1 for question q496530:3_answer
+INFO:root:Filling # 3 question: q496530:3_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:4_answer') and contains(text(), ' visit')]
+INFO:root:Getting answer 0 for question q496530:4_answer
+INFO:root:Filling # 4 question: q496530:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:5_answer') and contains(text(), ' will be signed')]
+INFO:root:Getting answer 2 for question q496530:5_answer
+INFO:root:Filling # 5 question: q496530:5_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:6_answer') and text()!=concat('a.',' It will be not done by you.') and text()!=concat('b.',' It will be not done by you.') and text()!=concat('c.',' It will be not done by you.') and text()!=concat('d.',' It will be not done by you.') and text()!=concat('a.',' It will be done not by you') and text()!=concat('b.',' It will be done not by you') and text()!=concat('c.',' It will be done not by you') and text()!=concat('d.',' It will be done not by you')]
+INFO:root:Getting answer 0 for question q496530:6_answer
+INFO:root:Filling # 6 question: q496530:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:7_answer') and contains(text(), ' will not be shown')]
+INFO:root:Getting answer 1 for question q496530:7_answer
+INFO:root:Filling # 7 question: q496530:7_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:8_answer') and contains(text(), ' The refreshments are going to be prepared by Jessica.')]
+INFO:root:Getting answer 0 for question q496530:8_answer
+INFO:root:Filling # 8 question: q496530:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:9_answer') and contains(text(), ' A cup of tea is being drunk by Sheila.')]
+INFO:root:Getting answer 1 for question q496530:9_answer
+INFO:root:Filling # 9 question: q496530:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:10_answer') and contains(text(), ' Beethoven’s Ninth Symphony is going to be performed by us next weekend')]
+INFO:root:Getting answer 2 for question q496530:10_answer
+INFO:root:Filling # 10 question: q496530:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:11_answer') and text()!=concat('a.',' Course by December the students will finish') and text()!=concat('b.',' Course by December the students will finish') and text()!=concat('c.',' Course by December the students will finish') and text()!=concat('d.',' Course by December the students will finish') and text()!=concat('a.',' The course by December the students finish') and text()!=concat('b.',' The course by December the students finish') and text()!=concat('c.',' The course by December the students finish') and text()!=concat('d.',' The course by December the students finish')]
+INFO:root:Getting answer 1 for question q496530:11_answer
+INFO:root:Filling # 11 question: q496530:11_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:12_answer') and text()!=concat('a.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('b.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('c.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('d.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('a.',' “Red Sunset” in 1986 Smithers painted.') and text()!=concat('b.',' “Red Sunset” in 1986 Smithers painted.') and text()!=concat('c.',' “Red Sunset” in 1986 Smithers painted.') and text()!=concat('d.',' “Red Sunset” in 1986 Smithers painted.')]
+INFO:root:Getting answer None for question q496530:12_answer
+INFO:root:Filling # 12 question: q496530:12_answer with answer: None
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:13_answer') and contains(text(), ' The preparations had been finished by the time the guests arrived')]
+INFO:root:Getting answer 0 for question q496530:13_answer
+INFO:root:Filling # 13 question: q496530:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:14_answer') and text()!=concat('a.',' Dinner was been cooked by Maggie when I arrived.') and text()!=concat('b.',' Dinner was been cooked by Maggie when I arrived.') and text()!=concat('c.',' Dinner was been cooked by Maggie when I arrived.') and text()!=concat('d.',' Dinner was been cooked by Maggie when I arrived.') and text()!=concat('a.',' Cooking dinner when I arrive Maggie was.') and text()!=concat('b.',' Cooking dinner when I arrive Maggie was.') and text()!=concat('c.',' Cooking dinner when I arrive Maggie was.') and text()!=concat('d.',' Cooking dinner when I arrive Maggie was.')]
+INFO:root:Getting answer 0 for question q496530:14_answer
+INFO:root:Filling # 14 question: q496530:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496530:15_answer') and text()!=concat('a.',' Tools of plastic they make these.') and text()!=concat('b.',' Tools of plastic they make these.') and text()!=concat('c.',' Tools of plastic they make these.') and text()!=concat('d.',' Tools of plastic they make these.') and text()!=concat('a.',' These tools are make by plastic.') and text()!=concat('b.',' These tools are make by plastic.') and text()!=concat('c.',' These tools are make by plastic.') and text()!=concat('d.',' These tools are make by plastic.')]
+INFO:root:Getting answer 0 for question q496530:15_answer
+INFO:root:Filling # 15 question: q496530:15_answer with answer: 0
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (1:  French will be spoken at the meeting.)
+INFO:root:Saving answer (2:  A new computer will be bought by Jane.)
+INFO:root:Saving answer (4:  visit)
+INFO:root:Saving answer (5:  will be signed)
+INFO:root:Saving answer (8:  The refreshments are going to be prepared by Jessica.)
+INFO:root:Saving answer (9:  A cup of tea is being drunk by Sheila.)
+INFO:root:Saving answer (10:  Beethoven’s Ninth Symphony is going to be performed by us next weekend)
+INFO:root:Saving answer (13:  The preparations had been finished by the time the guests arrived)
+INFO:root:Saving answer (14:  Dinner was being cooked by Maggie when I arrived.)
+INFO:root:Saving answer (15:  These tools are made of plastic.)
+INFO:root:{'10': u' Beethoven\u2019s Ninth Symphony is going to be performed by us next weekend', '13': ' The preparations had been finished by the time the guests arrived', '15': ' These tools are made of plastic.', '14': ' Dinner was being cooked by Maggie when I arrived.', '1': ' French will be spoken at the meeting.', '2': ' A new computer will be bought by Jane.', '5': ' will be signed', '4': ' visit', '7': ' will not be shown', '9': ' A cup of tea is being drunk by Sheila.', '8': ' The refreshments are going to be prepared by Jessica.'}
+INFO:root:{'11': [' Course by December the students will finish', ' The course by December the students finish', ' The course will be finishing by December'], '12': [' "Red Sunset" were painted in 1986 by Smither.', u' \u201cRed Sunset\u201d in 1986 Smithers painted.', u' \u201cRed Sunset\u201d was paint in 1986 by Smithers.'], '15': [' Tools of plastic they make these.', ' These tools are make by plastic.'], '14': [' Dinner was been cooked by Maggie when I arrived.', ' Cooking dinner when I arrive Maggie was.'], '1': [' French will be at the meeting spoken.'], '3': [' installed', ' will', ' by'], '2': [' A new computer will be bought for Jane.'], '5': [' will sign'], '4': [' thousands'], '7': [' will be shown not', ' will not be shownn'], '6': [' It will be not done by you.', ' It will be done not by you', ' It not will be done by you.'], '8': [' The refreshments is going to be prepared by Jessica']}
+INFO:root:
+Starting attempt #4 for M8: KA 3rd-2
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:1_answer') and contains(text(), ' French will be spoken at the meeting.')]
+INFO:root:Getting answer 3 for question q496541:1_answer
+INFO:root:Filling # 1 question: q496541:1_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:2_answer') and contains(text(), ' A new computer will be bought by Jane.')]
+INFO:root:Getting answer 2 for question q496541:2_answer
+INFO:root:Filling # 2 question: q496541:2_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:3_answer') and text()!=concat('a.',' installed') and text()!=concat('b.',' installed') and text()!=concat('c.',' installed') and text()!=concat('d.',' installed') and text()!=concat('a.',' will') and text()!=concat('b.',' will') and text()!=concat('c.',' will') and text()!=concat('d.',' will') and text()!=concat('a.',' by') and text()!=concat('b.',' by') and text()!=concat('c.',' by') and text()!=concat('d.',' by')]
+INFO:root:Getting answer 1 for question q496541:3_answer
+INFO:root:Filling # 3 question: q496541:3_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:4_answer') and contains(text(), ' visit')]
+INFO:root:Getting answer 1 for question q496541:4_answer
+INFO:root:Filling # 4 question: q496541:4_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:5_answer') and contains(text(), ' will be signed')]
+INFO:root:Getting answer 1 for question q496541:5_answer
+INFO:root:Filling # 5 question: q496541:5_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:6_answer') and text()!=concat('a.',' It will be not done by you.') and text()!=concat('b.',' It will be not done by you.') and text()!=concat('c.',' It will be not done by you.') and text()!=concat('d.',' It will be not done by you.') and text()!=concat('a.',' It will be done not by you') and text()!=concat('b.',' It will be done not by you') and text()!=concat('c.',' It will be done not by you') and text()!=concat('d.',' It will be done not by you') and text()!=concat('a.',' It not will be done by you.') and text()!=concat('b.',' It not will be done by you.') and text()!=concat('c.',' It not will be done by you.') and text()!=concat('d.',' It not will be done by you.')]
+INFO:root:Getting answer 0 for question q496541:6_answer
+INFO:root:Filling # 6 question: q496541:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:7_answer') and contains(text(), ' will not be shown')]
+INFO:root:Getting answer 1 for question q496541:7_answer
+INFO:root:Filling # 7 question: q496541:7_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:8_answer') and contains(text(), ' The refreshments are going to be prepared by Jessica.')]
+INFO:root:Getting answer 1 for question q496541:8_answer
+INFO:root:Filling # 8 question: q496541:8_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:9_answer') and contains(text(), ' A cup of tea is being drunk by Sheila.')]
+INFO:root:Getting answer 2 for question q496541:9_answer
+INFO:root:Filling # 9 question: q496541:9_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:10_answer') and contains(text(), ' Beethoven’s Ninth Symphony is going to be performed by us next weekend')]
+INFO:root:Getting answer 0 for question q496541:10_answer
+INFO:root:Filling # 10 question: q496541:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:11_answer') and text()!=concat('a.',' Course by December the students will finish') and text()!=concat('b.',' Course by December the students will finish') and text()!=concat('c.',' Course by December the students will finish') and text()!=concat('d.',' Course by December the students will finish') and text()!=concat('a.',' The course by December the students finish') and text()!=concat('b.',' The course by December the students finish') and text()!=concat('c.',' The course by December the students finish') and text()!=concat('d.',' The course by December the students finish') and text()!=concat('a.',' The course will be finishing by December') and text()!=concat('b.',' The course will be finishing by December') and text()!=concat('c.',' The course will be finishing by December') and text()!=concat('d.',' The course will be finishing by December')]
+INFO:root:Getting answer 0 for question q496541:11_answer
+INFO:root:Filling # 11 question: q496541:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:12_answer') and text()!=concat('a.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('b.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('c.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('d.',concat(' "Red Sunset" were painted in 1986 by Smither.')) and text()!=concat('a.',' “Red Sunset” in 1986 Smithers painted.') and text()!=concat('b.',' “Red Sunset” in 1986 Smithers painted.') and text()!=concat('c.',' “Red Sunset” in 1986 Smithers painted.') and text()!=concat('d.',' “Red Sunset” in 1986 Smithers painted.') and text()!=concat('a.',' “Red Sunset” was paint in 1986 by Smithers.') and text()!=concat('b.',' “Red Sunset” was paint in 1986 by Smithers.') and text()!=concat('c.',' “Red Sunset” was paint in 1986 by Smithers.') and text()!=concat('d.',' “Red Sunset” was paint in 1986 by Smithers.')]
+INFO:root:Getting answer None for question q496541:12_answer
+INFO:root:Filling # 12 question: q496541:12_answer with answer: None
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:13_answer') and contains(text(), ' The preparations had been finished by the time the guests arrived')]
+INFO:root:Getting answer 3 for question q496541:13_answer
+INFO:root:Filling # 13 question: q496541:13_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:14_answer') and contains(text(), ' Dinner was being cooked by Maggie when I arrived.')]
+INFO:root:Getting answer 3 for question q496541:14_answer
+INFO:root:Filling # 14 question: q496541:14_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496541:15_answer') and contains(text(), ' These tools are made of plastic.')]
+INFO:root:Getting answer 0 for question q496541:15_answer
+INFO:root:Filling # 15 question: q496541:15_answer with answer: 0
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  French will be spoken at the meeting.)
+INFO:root:Saving answer (2:  A new computer will be bought by Jane.)
+INFO:root:Saving answer (3:  been)
+INFO:root:Saving answer (4:  visit)
+INFO:root:Saving answer (5:  will be signed)
+INFO:root:Saving answer (6:  It will not be done by you.)
+INFO:root:Saving answer (7:  will not be shown)
+INFO:root:Saving answer (8:  The refreshments are going to be prepared by Jessica.)
+INFO:root:Saving answer (9:  A cup of tea is being drunk by Sheila.)
+INFO:root:Saving answer (10:  Beethoven’s Ninth Symphony is going to be performed by us next weekend)
+INFO:root:Saving answer (11:  The course will be finished by December)
+INFO:root:Saving answer (13:  The preparations had been finished by the time the guests arrived)
+INFO:root:Saving answer (14:  Dinner was being cooked by Maggie when I arrived.)
+INFO:root:Saving answer (15:  These tools are made of plastic.)
+INFO:root:{'11': ' The course will be finished by December', '10': u' Beethoven\u2019s Ninth Symphony is going to be performed by us next weekend', '13': ' The preparations had been finished by the time the guests arrived', '15': ' These tools are made of plastic.', '14': ' Dinner was being cooked by Maggie when I arrived.', '1': ' French will be spoken at the meeting.', '3': ' been', '2': ' A new computer will be bought by Jane.', '5': ' will be signed', '4': ' visit', '7': ' will not be shown', '6': ' It will not be done by you.', '9': ' A cup of tea is being drunk by Sheila.', '8': ' The refreshments are going to be prepared by Jessica.'}
+INFO:root:{'11': [' Course by December the students will finish', ' The course by December the students finish', ' The course will be finishing by December'], '12': [' "Red Sunset" were painted in 1986 by Smither.', u' \u201cRed Sunset\u201d in 1986 Smithers painted.', u' \u201cRed Sunset\u201d was paint in 1986 by Smithers.', u' \u201cRed Sunset\u201d was paint in 1986 by Smithers.'], '15': [' Tools of plastic they make these.', ' These tools are make by plastic.'], '14': [' Dinner was been cooked by Maggie when I arrived.', ' Cooking dinner when I arrive Maggie was.'], '1': [' French will be at the meeting spoken.'], '3': [' installed', ' will', ' by'], '2': [' A new computer will be bought for Jane.'], '5': [' will sign'], '4': [' thousands'], '7': [' will be shown not', ' will not be shownn'], '6': [' It will be not done by you.', ' It will be done not by you', ' It not will be done by you.'], '8': [' The refreshments is going to be prepared by Jessica']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/M8__KA_3rd_2.html
+INFO:root:
+Starting attempt #1 for ITISISCALTI: P3A1
+INFO:root:Getting answer 0 for question q496546:1_answer
+INFO:root:Filling # 1 question: q496546:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:2_answer
+INFO:root:Filling # 2 question: q496546:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:3_answer
+INFO:root:Filling # 3 question: q496546:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:4_answer
+INFO:root:Filling # 4 question: q496546:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:5_answer
+INFO:root:Filling # 5 question: q496546:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:6_answer
+INFO:root:Filling # 6 question: q496546:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:7_answer
+INFO:root:Filling # 7 question: q496546:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:8_answer
+INFO:root:Filling # 8 question: q496546:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:9_answer
+INFO:root:Filling # 9 question: q496546:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:10_answer
+INFO:root:Filling # 10 question: q496546:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:11_answer
+INFO:root:Filling # 11 question: q496546:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:12_answer
+INFO:root:Filling # 12 question: q496546:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:13_answer
+INFO:root:Filling # 13 question: q496546:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:14_answer
+INFO:root:Filling # 14 question: q496546:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496546:15_answer
+INFO:root:Filling # 15 question: q496546:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (5:  implantación)
+INFO:root:Saving answer (6:  CMMI)
+INFO:root:Saving answer (9:  coherente)
+INFO:root:Saving answer (10:  actividades)
+INFO:root:Saving answer (11:  Nivel 0)
+INFO:root:{'9': ' coherente', '10': ' actividades', '11': ' Nivel 0', '5': u' implantaci\xf3n', '6': ' CMMI'}
+INFO:root:{'13': [' Nivel 3'], '12': [' SPICE'], '15': [' Nivel 2'], '14': [' Nivel 9'], '1': [' Propuesta'], '3': [' patrones'], '2': [' errores'], '4': [' indicadores'], '7': [' MOPROSOFT'], '8': [' Capability Maturity Moodle Integration']}
+INFO:root:
+Starting attempt #2 for ITISISCALTI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:1_answer') and text()!=concat('a.',' Propuesta') and text()!=concat('b.',' Propuesta') and text()!=concat('c.',' Propuesta') and text()!=concat('d.',' Propuesta')]
+INFO:root:Getting answer 0 for question q496547:1_answer
+INFO:root:Filling # 1 question: q496547:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:2_answer') and text()!=concat('a.',' errores') and text()!=concat('b.',' errores') and text()!=concat('c.',' errores') and text()!=concat('d.',' errores')]
+INFO:root:Getting answer 0 for question q496547:2_answer
+INFO:root:Filling # 2 question: q496547:2_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:3_answer') and text()!=concat('a.',' patrones') and text()!=concat('b.',' patrones') and text()!=concat('c.',' patrones') and text()!=concat('d.',' patrones')]
+INFO:root:Getting answer 0 for question q496547:3_answer
+INFO:root:Filling # 3 question: q496547:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:4_answer') and text()!=concat('a.',' indicadores') and text()!=concat('b.',' indicadores') and text()!=concat('c.',' indicadores') and text()!=concat('d.',' indicadores')]
+INFO:root:Getting answer 0 for question q496547:4_answer
+INFO:root:Filling # 4 question: q496547:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:5_answer') and contains(text(), ' implantación')]
+INFO:root:Getting answer 0 for question q496547:5_answer
+INFO:root:Filling # 5 question: q496547:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:6_answer') and contains(text(), ' CMMI')]
+INFO:root:Getting answer 2 for question q496547:6_answer
+INFO:root:Filling # 6 question: q496547:6_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:7_answer') and text()!=concat('a.',' MOPROSOFT') and text()!=concat('b.',' MOPROSOFT') and text()!=concat('c.',' MOPROSOFT') and text()!=concat('d.',' MOPROSOFT')]
+INFO:root:Getting answer 0 for question q496547:7_answer
+INFO:root:Filling # 7 question: q496547:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:8_answer') and text()!=concat('a.',' Capability Maturity Moodle Integration') and text()!=concat('b.',' Capability Maturity Moodle Integration') and text()!=concat('c.',' Capability Maturity Moodle Integration') and text()!=concat('d.',' Capability Maturity Moodle Integration')]
+INFO:root:Getting answer 0 for question q496547:8_answer
+INFO:root:Filling # 8 question: q496547:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:9_answer') and contains(text(), ' coherente')]
+INFO:root:Getting answer 0 for question q496547:9_answer
+INFO:root:Filling # 9 question: q496547:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:10_answer') and contains(text(), ' actividades')]
+INFO:root:Getting answer 2 for question q496547:10_answer
+INFO:root:Filling # 10 question: q496547:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:11_answer') and contains(text(), ' Nivel 0')]
+INFO:root:Getting answer 2 for question q496547:11_answer
+INFO:root:Filling # 11 question: q496547:11_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:12_answer') and text()!=concat('a.',' SPICE') and text()!=concat('b.',' SPICE') and text()!=concat('c.',' SPICE') and text()!=concat('d.',' SPICE')]
+INFO:root:Getting answer 1 for question q496547:12_answer
+INFO:root:Filling # 12 question: q496547:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:13_answer') and text()!=concat('a.',' Nivel 3') and text()!=concat('b.',' Nivel 3') and text()!=concat('c.',' Nivel 3') and text()!=concat('d.',' Nivel 3')]
+INFO:root:Getting answer 1 for question q496547:13_answer
+INFO:root:Filling # 13 question: q496547:13_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:14_answer') and text()!=concat('a.',' Nivel 9') and text()!=concat('b.',' Nivel 9') and text()!=concat('c.',' Nivel 9') and text()!=concat('d.',' Nivel 9')]
+INFO:root:Getting answer 0 for question q496547:14_answer
+INFO:root:Filling # 14 question: q496547:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496547:15_answer') and text()!=concat('a.',' Nivel 2') and text()!=concat('b.',' Nivel 2') and text()!=concat('c.',' Nivel 2') and text()!=concat('d.',' Nivel 2')]
+INFO:root:Getting answer 0 for question q496547:15_answer
+INFO:root:Filling # 15 question: q496547:15_answer with answer: 0
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (4:  referencia)
+INFO:root:Saving answer (5:  implantación)
+INFO:root:Saving answer (6:  CMMI)
+INFO:root:Saving answer (8:  Capability Maturity Model Integration)
+INFO:root:Saving answer (9:  coherente)
+INFO:root:Saving answer (10:  actividades)
+INFO:root:Saving answer (11:  Nivel 0)
+INFO:root:Saving answer (12:  Calidad)
+INFO:root:{'11': ' Nivel 0', '10': ' actividades', '12': ' Calidad', '5': u' implantaci\xf3n', '4': ' referencia', '6': ' CMMI', '9': ' coherente', '8': ' Capability Maturity Model Integration'}
+INFO:root:{'13': [' Nivel 3', ' Nivel 0'], '12': [' SPICE'], '15': [' Nivel 2', ' Nivel 1'], '14': [' Nivel 9', ' Nivel 0'], '1': [' Propuesta', ' Norma'], '3': [' patrones', ' indicadores'], '2': [' errores', ' ISO'], '4': [' indicadores'], '7': [' MOPROSOFT', ' SPICE'], '8': [' Capability Maturity Moodle Integration']}
+INFO:root:
+Starting attempt #3 for ITISISCALTI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:1_answer') and text()!=concat('a.',' Propuesta') and text()!=concat('b.',' Propuesta') and text()!=concat('c.',' Propuesta') and text()!=concat('d.',' Propuesta') and text()!=concat('a.',' Norma') and text()!=concat('b.',' Norma') and text()!=concat('c.',' Norma') and text()!=concat('d.',' Norma')]
+INFO:root:Getting answer 2 for question q496550:1_answer
+INFO:root:Filling # 1 question: q496550:1_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:2_answer') and text()!=concat('a.',' errores') and text()!=concat('b.',' errores') and text()!=concat('c.',' errores') and text()!=concat('d.',' errores') and text()!=concat('a.',' ISO') and text()!=concat('b.',' ISO') and text()!=concat('c.',' ISO') and text()!=concat('d.',' ISO')]
+INFO:root:Getting answer 0 for question q496550:2_answer
+INFO:root:Filling # 2 question: q496550:2_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:3_answer') and text()!=concat('a.',' patrones') and text()!=concat('b.',' patrones') and text()!=concat('c.',' patrones') and text()!=concat('d.',' patrones') and text()!=concat('a.',' indicadores') and text()!=concat('b.',' indicadores') and text()!=concat('c.',' indicadores') and text()!=concat('d.',' indicadores')]
+INFO:root:Getting answer 0 for question q496550:3_answer
+INFO:root:Filling # 3 question: q496550:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:4_answer') and contains(text(), ' referencia')]
+INFO:root:Getting answer 2 for question q496550:4_answer
+INFO:root:Filling # 4 question: q496550:4_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:5_answer') and contains(text(), ' implantación')]
+INFO:root:Getting answer 0 for question q496550:5_answer
+INFO:root:Filling # 5 question: q496550:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:6_answer') and contains(text(), ' CMMI')]
+INFO:root:Getting answer 1 for question q496550:6_answer
+INFO:root:Filling # 6 question: q496550:6_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:7_answer') and text()!=concat('a.',' MOPROSOFT') and text()!=concat('b.',' MOPROSOFT') and text()!=concat('c.',' MOPROSOFT') and text()!=concat('d.',' MOPROSOFT') and text()!=concat('a.',' SPICE') and text()!=concat('b.',' SPICE') and text()!=concat('c.',' SPICE') and text()!=concat('d.',' SPICE')]
+INFO:root:Getting answer 0 for question q496550:7_answer
+INFO:root:Filling # 7 question: q496550:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:8_answer') and contains(text(), ' Capability Maturity Model Integration')]
+INFO:root:Getting answer 3 for question q496550:8_answer
+INFO:root:Filling # 8 question: q496550:8_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:9_answer') and contains(text(), ' coherente')]
+INFO:root:Getting answer 3 for question q496550:9_answer
+INFO:root:Filling # 9 question: q496550:9_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:10_answer') and contains(text(), ' actividades')]
+INFO:root:Getting answer 2 for question q496550:10_answer
+INFO:root:Filling # 10 question: q496550:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:11_answer') and contains(text(), ' Nivel 0')]
+INFO:root:Getting answer 2 for question q496550:11_answer
+INFO:root:Filling # 11 question: q496550:11_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:12_answer') and contains(text(), ' Calidad')]
+INFO:root:Getting answer 1 for question q496550:12_answer
+INFO:root:Filling # 12 question: q496550:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:13_answer') and text()!=concat('a.',' Nivel 3') and text()!=concat('b.',' Nivel 3') and text()!=concat('c.',' Nivel 3') and text()!=concat('d.',' Nivel 3') and text()!=concat('a.',' Nivel 0') and text()!=concat('b.',' Nivel 0') and text()!=concat('c.',' Nivel 0') and text()!=concat('d.',' Nivel 0')]
+INFO:root:Getting answer 0 for question q496550:13_answer
+INFO:root:Filling # 13 question: q496550:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:14_answer') and text()!=concat('a.',' Nivel 9') and text()!=concat('b.',' Nivel 9') and text()!=concat('c.',' Nivel 9') and text()!=concat('d.',' Nivel 9') and text()!=concat('a.',' Nivel 0') and text()!=concat('b.',' Nivel 0') and text()!=concat('c.',' Nivel 0') and text()!=concat('d.',' Nivel 0')]
+INFO:root:Getting answer 0 for question q496550:14_answer
+INFO:root:Filling # 14 question: q496550:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496550:15_answer') and text()!=concat('a.',' Nivel 2') and text()!=concat('b.',' Nivel 2') and text()!=concat('c.',' Nivel 2') and text()!=concat('d.',' Nivel 2') and text()!=concat('a.',' Nivel 1') and text()!=concat('b.',' Nivel 1') and text()!=concat('c.',' Nivel 1') and text()!=concat('d.',' Nivel 1')]
+INFO:root:Getting answer 1 for question q496550:15_answer
+INFO:root:Filling # 15 question: q496550:15_answer with answer: 1
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (1:  Calidad)
+INFO:root:Saving answer (3:  modelos)
+INFO:root:Saving answer (4:  referencia)
+INFO:root:Saving answer (5:  implantación)
+INFO:root:Saving answer (6:  CMMI)
+INFO:root:Saving answer (8:  Capability Maturity Model Integration)
+INFO:root:Saving answer (9:  coherente)
+INFO:root:Saving answer (10:  actividades)
+INFO:root:Saving answer (11:  Nivel 0)
+INFO:root:Saving answer (12:  Calidad)
+INFO:root:Saving answer (13:  Nivel 1)
+INFO:root:Saving answer (14:  Nivel 2)
+INFO:root:Saving answer (15:  Nivel 3)
+INFO:root:{'11': ' Nivel 0', '10': ' actividades', '13': ' Nivel 1', '12': ' Calidad', '15': ' Nivel 3', '14': ' Nivel 2', '1': ' Calidad', '3': ' modelos', '5': u' implantaci\xf3n', '4': ' referencia', '6': ' CMMI', '9': ' coherente', '8': ' Capability Maturity Model Integration'}
+INFO:root:{'13': [' Nivel 3', ' Nivel 0'], '12': [' SPICE'], '15': [' Nivel 2', ' Nivel 1'], '14': [' Nivel 9', ' Nivel 0'], '1': [' Propuesta', ' Norma'], '3': [' patrones', ' indicadores'], '2': [' errores', ' ISO', ' calidad'], '4': [' indicadores'], '7': [' MOPROSOFT', ' SPICE', ' ISO'], '8': [' Capability Maturity Moodle Integration']}
+INFO:root:
+Starting attempt #4 for ITISISCALTI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:1_answer') and contains(text(), ' Calidad')]
+INFO:root:Getting answer 1 for question q496551:1_answer
+INFO:root:Filling # 1 question: q496551:1_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:2_answer') and text()!=concat('a.',' errores') and text()!=concat('b.',' errores') and text()!=concat('c.',' errores') and text()!=concat('d.',' errores') and text()!=concat('a.',' ISO') and text()!=concat('b.',' ISO') and text()!=concat('c.',' ISO') and text()!=concat('d.',' ISO') and text()!=concat('a.',' calidad') and text()!=concat('b.',' calidad') and text()!=concat('c.',' calidad') and text()!=concat('d.',' calidad')]
+INFO:root:Getting answer 3 for question q496551:2_answer
+INFO:root:Filling # 2 question: q496551:2_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:3_answer') and contains(text(), ' modelos')]
+INFO:root:Getting answer 1 for question q496551:3_answer
+INFO:root:Filling # 3 question: q496551:3_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:4_answer') and contains(text(), ' referencia')]
+INFO:root:Getting answer 2 for question q496551:4_answer
+INFO:root:Filling # 4 question: q496551:4_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:5_answer') and contains(text(), ' implantación')]
+INFO:root:Getting answer 1 for question q496551:5_answer
+INFO:root:Filling # 5 question: q496551:5_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:6_answer') and contains(text(), ' CMMI')]
+INFO:root:Getting answer 0 for question q496551:6_answer
+INFO:root:Filling # 6 question: q496551:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:7_answer') and text()!=concat('a.',' MOPROSOFT') and text()!=concat('b.',' MOPROSOFT') and text()!=concat('c.',' MOPROSOFT') and text()!=concat('d.',' MOPROSOFT') and text()!=concat('a.',' SPICE') and text()!=concat('b.',' SPICE') and text()!=concat('c.',' SPICE') and text()!=concat('d.',' SPICE') and text()!=concat('a.',' ISO') and text()!=concat('b.',' ISO') and text()!=concat('c.',' ISO') and text()!=concat('d.',' ISO')]
+INFO:root:Getting answer 3 for question q496551:7_answer
+INFO:root:Filling # 7 question: q496551:7_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:8_answer') and contains(text(), ' Capability Maturity Model Integration')]
+INFO:root:Getting answer 3 for question q496551:8_answer
+INFO:root:Filling # 8 question: q496551:8_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:9_answer') and contains(text(), ' coherente')]
+INFO:root:Getting answer 1 for question q496551:9_answer
+INFO:root:Filling # 9 question: q496551:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:10_answer') and contains(text(), ' actividades')]
+INFO:root:Getting answer 0 for question q496551:10_answer
+INFO:root:Filling # 10 question: q496551:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:11_answer') and contains(text(), ' Nivel 0')]
+INFO:root:Getting answer 2 for question q496551:11_answer
+INFO:root:Filling # 11 question: q496551:11_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:12_answer') and contains(text(), ' Calidad')]
+INFO:root:Getting answer 0 for question q496551:12_answer
+INFO:root:Filling # 12 question: q496551:12_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:13_answer') and contains(text(), ' Nivel 1')]
+INFO:root:Getting answer 2 for question q496551:13_answer
+INFO:root:Filling # 13 question: q496551:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:14_answer') and contains(text(), ' Nivel 2')]
+INFO:root:Getting answer 2 for question q496551:14_answer
+INFO:root:Filling # 14 question: q496551:14_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496551:15_answer') and contains(text(), ' Nivel 3')]
+INFO:root:Getting answer 1 for question q496551:15_answer
+INFO:root:Filling # 15 question: q496551:15_answer with answer: 1
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  Calidad)
+INFO:root:Saving answer (2:  mejora)
+INFO:root:Saving answer (3:  modelos)
+INFO:root:Saving answer (4:  referencia)
+INFO:root:Saving answer (5:  implantación)
+INFO:root:Saving answer (6:  CMMI)
+INFO:root:Saving answer (7:  CMMI)
+INFO:root:Saving answer (8:  Capability Maturity Model Integration)
+INFO:root:Saving answer (9:  coherente)
+INFO:root:Saving answer (10:  actividades)
+INFO:root:Saving answer (11:  Nivel 0)
+INFO:root:Saving answer (12:  Calidad)
+INFO:root:Saving answer (13:  Nivel 1)
+INFO:root:Saving answer (14:  Nivel 2)
+INFO:root:Saving answer (15:  Nivel 3)
+INFO:root:{'11': ' Nivel 0', '10': ' actividades', '13': ' Nivel 1', '12': ' Calidad', '15': ' Nivel 3', '14': ' Nivel 2', '1': ' Calidad', '3': ' modelos', '2': ' mejora', '5': u' implantaci\xf3n', '4': ' referencia', '7': ' CMMI', '6': ' CMMI', '9': ' coherente', '8': ' Capability Maturity Model Integration'}
+INFO:root:{'13': [' Nivel 3', ' Nivel 0'], '12': [' SPICE'], '15': [' Nivel 2', ' Nivel 1'], '14': [' Nivel 9', ' Nivel 0'], '1': [' Propuesta', ' Norma'], '3': [' patrones', ' indicadores'], '2': [' errores', ' ISO', ' calidad'], '4': [' indicadores'], '7': [' MOPROSOFT', ' SPICE', ' ISO'], '8': [' Capability Maturity Moodle Integration']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITISISCALTI__P3A1.html
+INFO:root:
+Starting attempt #1 for ITISISCALTI: P3A2
+INFO:root:Getting answer 0 for question q496554:1_answer
+INFO:root:Filling # 1 question: q496554:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:2_answer
+INFO:root:Filling # 2 question: q496554:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:3_answer
+INFO:root:Filling # 3 question: q496554:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:4_answer
+INFO:root:Filling # 4 question: q496554:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:5_answer
+INFO:root:Filling # 5 question: q496554:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:6_answer
+INFO:root:Filling # 6 question: q496554:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:7_answer
+INFO:root:Filling # 7 question: q496554:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:8_answer
+INFO:root:Filling # 8 question: q496554:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:9_answer
+INFO:root:Filling # 9 question: q496554:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:10_answer
+INFO:root:Filling # 10 question: q496554:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:11_answer
+INFO:root:Filling # 11 question: q496554:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:12_answer
+INFO:root:Filling # 12 question: q496554:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:13_answer
+INFO:root:Filling # 13 question: q496554:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:14_answer
+INFO:root:Filling # 14 question: q496554:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496554:15_answer
+INFO:root:Filling # 15 question: q496554:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (12:  Nivel 5)
+INFO:root:{'12': ' Nivel 5'}
+INFO:root:{'11': [' Nivel 1'], '10': [' Nivel 0'], '13': [' modelo'], '15': [' nivel de madurez 2'], '14': [' nivel de madurez 3'], '1': [' nivel de madurez 2'], '3': [' regla'], '2': [u' Pr\xe1cticas generica'], '5': [' norma'], '4': [' Norma'], '7': [' Premium'], '6': [' mejora'], '9': [' Manejo'], '8': [' Camino']}
+INFO:root:
+Starting attempt #2 for ITISISCALTI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:1_answer') and text()!=concat('a.',' nivel de madurez 2') and text()!=concat('b.',' nivel de madurez 2') and text()!=concat('c.',' nivel de madurez 2') and text()!=concat('d.',' nivel de madurez 2')]
+INFO:root:Getting answer 0 for question q496556:1_answer
+INFO:root:Filling # 1 question: q496556:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:2_answer') and text()!=concat('a.',' Prácticas generica') and text()!=concat('b.',' Prácticas generica') and text()!=concat('c.',' Prácticas generica') and text()!=concat('d.',' Prácticas generica')]
+INFO:root:Getting answer 0 for question q496556:2_answer
+INFO:root:Filling # 2 question: q496556:2_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:3_answer') and text()!=concat('a.',' regla') and text()!=concat('b.',' regla') and text()!=concat('c.',' regla') and text()!=concat('d.',' regla')]
+INFO:root:Getting answer 0 for question q496556:3_answer
+INFO:root:Filling # 3 question: q496556:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:4_answer') and text()!=concat('a.',' Norma') and text()!=concat('b.',' Norma') and text()!=concat('c.',' Norma') and text()!=concat('d.',' Norma')]
+INFO:root:Getting answer 0 for question q496556:4_answer
+INFO:root:Filling # 4 question: q496556:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:5_answer') and text()!=concat('a.',' norma') and text()!=concat('b.',' norma') and text()!=concat('c.',' norma') and text()!=concat('d.',' norma')]
+INFO:root:Getting answer 0 for question q496556:5_answer
+INFO:root:Filling # 5 question: q496556:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:6_answer') and text()!=concat('a.',' mejora') and text()!=concat('b.',' mejora') and text()!=concat('c.',' mejora') and text()!=concat('d.',' mejora')]
+INFO:root:Getting answer 0 for question q496556:6_answer
+INFO:root:Filling # 6 question: q496556:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:7_answer') and text()!=concat('a.',' Premium') and text()!=concat('b.',' Premium') and text()!=concat('c.',' Premium') and text()!=concat('d.',' Premium')]
+INFO:root:Getting answer 1 for question q496556:7_answer
+INFO:root:Filling # 7 question: q496556:7_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:8_answer') and text()!=concat('a.',' Camino') and text()!=concat('b.',' Camino') and text()!=concat('c.',' Camino') and text()!=concat('d.',' Camino')]
+INFO:root:Getting answer 0 for question q496556:8_answer
+INFO:root:Filling # 8 question: q496556:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:9_answer') and text()!=concat('a.',' Manejo') and text()!=concat('b.',' Manejo') and text()!=concat('c.',' Manejo') and text()!=concat('d.',' Manejo')]
+INFO:root:Getting answer 0 for question q496556:9_answer
+INFO:root:Filling # 9 question: q496556:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:10_answer') and text()!=concat('a.',' Nivel 0') and text()!=concat('b.',' Nivel 0') and text()!=concat('c.',' Nivel 0') and text()!=concat('d.',' Nivel 0')]
+INFO:root:Getting answer 0 for question q496556:10_answer
+INFO:root:Filling # 10 question: q496556:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:11_answer') and text()!=concat('a.',' Nivel 1') and text()!=concat('b.',' Nivel 1') and text()!=concat('c.',' Nivel 1') and text()!=concat('d.',' Nivel 1')]
+INFO:root:Getting answer 0 for question q496556:11_answer
+INFO:root:Filling # 11 question: q496556:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:12_answer') and contains(text(), ' Nivel 5')]
+INFO:root:Getting answer 1 for question q496556:12_answer
+INFO:root:Filling # 12 question: q496556:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:13_answer') and text()!=concat('a.',' modelo') and text()!=concat('b.',' modelo') and text()!=concat('c.',' modelo') and text()!=concat('d.',' modelo')]
+INFO:root:Getting answer 0 for question q496556:13_answer
+INFO:root:Filling # 13 question: q496556:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:14_answer') and text()!=concat('a.',' nivel de madurez 3') and text()!=concat('b.',' nivel de madurez 3') and text()!=concat('c.',' nivel de madurez 3') and text()!=concat('d.',' nivel de madurez 3')]
+INFO:root:Getting answer 0 for question q496556:14_answer
+INFO:root:Filling # 14 question: q496556:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496556:15_answer') and text()!=concat('a.',' nivel de madurez 2') and text()!=concat('b.',' nivel de madurez 2') and text()!=concat('c.',' nivel de madurez 2') and text()!=concat('d.',' nivel de madurez 2')]
+INFO:root:Getting answer 1 for question q496556:15_answer
+INFO:root:Filling # 15 question: q496556:15_answer with answer: 1
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (1:  nivel de madurez 1)
+INFO:root:Saving answer (11:  Nivel 4)
+INFO:root:Saving answer (12:  Nivel 5)
+INFO:root:Saving answer (13:  área)
+INFO:root:{'1': ' nivel de madurez 1', '11': ' Nivel 4', '13': u' \xe1rea', '12': ' Nivel 5'}
+INFO:root:{'11': [' Nivel 1'], '10': [' Nivel 0', ' Nivel 1'], '13': [' modelo'], '15': [' nivel de madurez 2', ' nivel de madurez 1'], '14': [' nivel de madurez 3', ' nivel de madurez 5'], '1': [' nivel de madurez 2'], '3': [' regla', ' ley'], '2': [u' Pr\xe1cticas generica', ' politica de calidad'], '5': [' norma', ' calidad'], '4': [' Norma', ' ISO'], '7': [' Premium', ' Norma'], '6': [' mejora', ' excelencia'], '9': [' Manejo', ' Derecho'], '8': [' Camino', ' Lider']}
+INFO:root:
+Starting attempt #3 for ITISISCALTI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:1_answer') and contains(text(), ' nivel de madurez 1')]
+INFO:root:Getting answer 1 for question q496557:1_answer
+INFO:root:Filling # 1 question: q496557:1_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:2_answer') and text()!=concat('a.',' Prácticas generica') and text()!=concat('b.',' Prácticas generica') and text()!=concat('c.',' Prácticas generica') and text()!=concat('d.',' Prácticas generica') and text()!=concat('a.',' politica de calidad') and text()!=concat('b.',' politica de calidad') and text()!=concat('c.',' politica de calidad') and text()!=concat('d.',' politica de calidad')]
+INFO:root:Getting answer 1 for question q496557:2_answer
+INFO:root:Filling # 2 question: q496557:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:3_answer') and text()!=concat('a.',' regla') and text()!=concat('b.',' regla') and text()!=concat('c.',' regla') and text()!=concat('d.',' regla') and text()!=concat('a.',' ley') and text()!=concat('b.',' ley') and text()!=concat('c.',' ley') and text()!=concat('d.',' ley')]
+INFO:root:Getting answer 0 for question q496557:3_answer
+INFO:root:Filling # 3 question: q496557:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:4_answer') and text()!=concat('a.',' Norma') and text()!=concat('b.',' Norma') and text()!=concat('c.',' Norma') and text()!=concat('d.',' Norma') and text()!=concat('a.',' ISO') and text()!=concat('b.',' ISO') and text()!=concat('c.',' ISO') and text()!=concat('d.',' ISO')]
+INFO:root:Getting answer 2 for question q496557:4_answer
+INFO:root:Filling # 4 question: q496557:4_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:5_answer') and text()!=concat('a.',' norma') and text()!=concat('b.',' norma') and text()!=concat('c.',' norma') and text()!=concat('d.',' norma') and text()!=concat('a.',' calidad') and text()!=concat('b.',' calidad') and text()!=concat('c.',' calidad') and text()!=concat('d.',' calidad')]
+INFO:root:Getting answer 0 for question q496557:5_answer
+INFO:root:Filling # 5 question: q496557:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:6_answer') and text()!=concat('a.',' mejora') and text()!=concat('b.',' mejora') and text()!=concat('c.',' mejora') and text()!=concat('d.',' mejora') and text()!=concat('a.',' excelencia') and text()!=concat('b.',' excelencia') and text()!=concat('c.',' excelencia') and text()!=concat('d.',' excelencia')]
+INFO:root:Getting answer 1 for question q496557:6_answer
+INFO:root:Filling # 6 question: q496557:6_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:7_answer') and text()!=concat('a.',' Premium') and text()!=concat('b.',' Premium') and text()!=concat('c.',' Premium') and text()!=concat('d.',' Premium') and text()!=concat('a.',' Norma') and text()!=concat('b.',' Norma') and text()!=concat('c.',' Norma') and text()!=concat('d.',' Norma')]
+INFO:root:Getting answer 1 for question q496557:7_answer
+INFO:root:Filling # 7 question: q496557:7_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:8_answer') and text()!=concat('a.',' Camino') and text()!=concat('b.',' Camino') and text()!=concat('c.',' Camino') and text()!=concat('d.',' Camino') and text()!=concat('a.',' Lider') and text()!=concat('b.',' Lider') and text()!=concat('c.',' Lider') and text()!=concat('d.',' Lider')]
+INFO:root:Getting answer 1 for question q496557:8_answer
+INFO:root:Filling # 8 question: q496557:8_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:9_answer') and text()!=concat('a.',' Manejo') and text()!=concat('b.',' Manejo') and text()!=concat('c.',' Manejo') and text()!=concat('d.',' Manejo') and text()!=concat('a.',' Derecho') and text()!=concat('b.',' Derecho') and text()!=concat('c.',' Derecho') and text()!=concat('d.',' Derecho')]
+INFO:root:Getting answer 1 for question q496557:9_answer
+INFO:root:Filling # 9 question: q496557:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:10_answer') and text()!=concat('a.',' Nivel 0') and text()!=concat('b.',' Nivel 0') and text()!=concat('c.',' Nivel 0') and text()!=concat('d.',' Nivel 0') and text()!=concat('a.',' Nivel 1') and text()!=concat('b.',' Nivel 1') and text()!=concat('c.',' Nivel 1') and text()!=concat('d.',' Nivel 1')]
+INFO:root:Getting answer 0 for question q496557:10_answer
+INFO:root:Filling # 10 question: q496557:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:11_answer') and contains(text(), ' Nivel 4')]
+INFO:root:Getting answer 0 for question q496557:11_answer
+INFO:root:Filling # 11 question: q496557:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:12_answer') and contains(text(), ' Nivel 5')]
+INFO:root:Getting answer 1 for question q496557:12_answer
+INFO:root:Filling # 12 question: q496557:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:13_answer') and contains(text(), ' área')]
+INFO:root:Getting answer 0 for question q496557:13_answer
+INFO:root:Filling # 13 question: q496557:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:14_answer') and text()!=concat('a.',' nivel de madurez 3') and text()!=concat('b.',' nivel de madurez 3') and text()!=concat('c.',' nivel de madurez 3') and text()!=concat('d.',' nivel de madurez 3') and text()!=concat('a.',' nivel de madurez 5') and text()!=concat('b.',' nivel de madurez 5') and text()!=concat('c.',' nivel de madurez 5') and text()!=concat('d.',' nivel de madurez 5')]
+INFO:root:Getting answer 1 for question q496557:14_answer
+INFO:root:Filling # 14 question: q496557:14_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496557:15_answer') and text()!=concat('a.',' nivel de madurez 2') and text()!=concat('b.',' nivel de madurez 2') and text()!=concat('c.',' nivel de madurez 2') and text()!=concat('d.',' nivel de madurez 2') and text()!=concat('a.',' nivel de madurez 1') and text()!=concat('b.',' nivel de madurez 1') and text()!=concat('c.',' nivel de madurez 1') and text()!=concat('d.',' nivel de madurez 1')]
+INFO:root:Getting answer 0 for question q496557:15_answer
+INFO:root:Filling # 15 question: q496557:15_answer with answer: 0
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (1:  nivel de madurez 1)
+INFO:root:Saving answer (6:  calidad)
+INFO:root:Saving answer (9:  Aseguramiento)
+INFO:root:Saving answer (10:  Nivel 3)
+INFO:root:Saving answer (11:  Nivel 4)
+INFO:root:Saving answer (12:  Nivel 5)
+INFO:root:Saving answer (13:  área)
+INFO:root:Saving answer (14:  nivel de madurez 4)
+INFO:root:{'11': ' Nivel 4', '10': ' Nivel 3', '13': u' \xe1rea', '12': ' Nivel 5', '14': ' nivel de madurez 4', '1': ' nivel de madurez 1', '6': ' calidad', '9': ' Aseguramiento'}
+INFO:root:{'11': [' Nivel 1'], '10': [' Nivel 0', ' Nivel 1'], '13': [' modelo'], '15': [' nivel de madurez 2', ' nivel de madurez 1', ' nivel de madurez 4'], '14': [' nivel de madurez 3', ' nivel de madurez 5'], '1': [' nivel de madurez 2'], '3': [' regla', ' ley', ' ISO'], '2': [u' Pr\xe1cticas generica', ' politica de calidad', ' Encuensta'], '5': [' norma', ' calidad', ' estandar'], '4': [' Norma', ' ISO', ' Ley'], '7': [' Premium', ' Norma', ' Calidad'], '6': [' mejora', ' excelencia'], '9': [' Manejo', ' Derecho'], '8': [' Camino', ' Lider', ' Mejora']}
+INFO:root:
+Starting attempt #4 for ITISISCALTI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:1_answer') and contains(text(), ' nivel de madurez 1')]
+INFO:root:Getting answer 3 for question q496559:1_answer
+INFO:root:Filling # 1 question: q496559:1_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:2_answer') and text()!=concat('a.',' Prácticas generica') and text()!=concat('b.',' Prácticas generica') and text()!=concat('c.',' Prácticas generica') and text()!=concat('d.',' Prácticas generica') and text()!=concat('a.',' politica de calidad') and text()!=concat('b.',' politica de calidad') and text()!=concat('c.',' politica de calidad') and text()!=concat('d.',' politica de calidad') and text()!=concat('a.',' Encuensta') and text()!=concat('b.',' Encuensta') and text()!=concat('c.',' Encuensta') and text()!=concat('d.',' Encuensta')]
+INFO:root:Getting answer 2 for question q496559:2_answer
+INFO:root:Filling # 2 question: q496559:2_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:3_answer') and text()!=concat('a.',' regla') and text()!=concat('b.',' regla') and text()!=concat('c.',' regla') and text()!=concat('d.',' regla') and text()!=concat('a.',' ley') and text()!=concat('b.',' ley') and text()!=concat('c.',' ley') and text()!=concat('d.',' ley') and text()!=concat('a.',' ISO') and text()!=concat('b.',' ISO') and text()!=concat('c.',' ISO') and text()!=concat('d.',' ISO')]
+INFO:root:Getting answer 0 for question q496559:3_answer
+INFO:root:Filling # 3 question: q496559:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:4_answer') and text()!=concat('a.',' Norma') and text()!=concat('b.',' Norma') and text()!=concat('c.',' Norma') and text()!=concat('d.',' Norma') and text()!=concat('a.',' ISO') and text()!=concat('b.',' ISO') and text()!=concat('c.',' ISO') and text()!=concat('d.',' ISO') and text()!=concat('a.',' Ley') and text()!=concat('b.',' Ley') and text()!=concat('c.',' Ley') and text()!=concat('d.',' Ley')]
+INFO:root:Getting answer 0 for question q496559:4_answer
+INFO:root:Filling # 4 question: q496559:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:5_answer') and text()!=concat('a.',' norma') and text()!=concat('b.',' norma') and text()!=concat('c.',' norma') and text()!=concat('d.',' norma') and text()!=concat('a.',' calidad') and text()!=concat('b.',' calidad') and text()!=concat('c.',' calidad') and text()!=concat('d.',' calidad') and text()!=concat('a.',' estandar') and text()!=concat('b.',' estandar') and text()!=concat('c.',' estandar') and text()!=concat('d.',' estandar')]
+INFO:root:Getting answer 2 for question q496559:5_answer
+INFO:root:Filling # 5 question: q496559:5_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:6_answer') and contains(text(), ' calidad')]
+INFO:root:Getting answer 0 for question q496559:6_answer
+INFO:root:Filling # 6 question: q496559:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:7_answer') and text()!=concat('a.',' Premium') and text()!=concat('b.',' Premium') and text()!=concat('c.',' Premium') and text()!=concat('d.',' Premium') and text()!=concat('a.',' Norma') and text()!=concat('b.',' Norma') and text()!=concat('c.',' Norma') and text()!=concat('d.',' Norma') and text()!=concat('a.',' Calidad') and text()!=concat('b.',' Calidad') and text()!=concat('c.',' Calidad') and text()!=concat('d.',' Calidad')]
+INFO:root:Getting answer 1 for question q496559:7_answer
+INFO:root:Filling # 7 question: q496559:7_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:8_answer') and text()!=concat('a.',' Camino') and text()!=concat('b.',' Camino') and text()!=concat('c.',' Camino') and text()!=concat('d.',' Camino') and text()!=concat('a.',' Lider') and text()!=concat('b.',' Lider') and text()!=concat('c.',' Lider') and text()!=concat('d.',' Lider') and text()!=concat('a.',' Mejora') and text()!=concat('b.',' Mejora') and text()!=concat('c.',' Mejora') and text()!=concat('d.',' Mejora')]
+INFO:root:Getting answer 3 for question q496559:8_answer
+INFO:root:Filling # 8 question: q496559:8_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:9_answer') and contains(text(), ' Aseguramiento')]
+INFO:root:Getting answer 3 for question q496559:9_answer
+INFO:root:Filling # 9 question: q496559:9_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:10_answer') and contains(text(), ' Nivel 3')]
+INFO:root:Getting answer 2 for question q496559:10_answer
+INFO:root:Filling # 10 question: q496559:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:11_answer') and contains(text(), ' Nivel 4')]
+INFO:root:Getting answer 0 for question q496559:11_answer
+INFO:root:Filling # 11 question: q496559:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:12_answer') and contains(text(), ' Nivel 5')]
+INFO:root:Getting answer 1 for question q496559:12_answer
+INFO:root:Filling # 12 question: q496559:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:13_answer') and contains(text(), ' área')]
+INFO:root:Getting answer 1 for question q496559:13_answer
+INFO:root:Filling # 13 question: q496559:13_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:14_answer') and contains(text(), ' nivel de madurez 4')]
+INFO:root:Getting answer 2 for question q496559:14_answer
+INFO:root:Filling # 14 question: q496559:14_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496559:15_answer') and text()!=concat('a.',' nivel de madurez 2') and text()!=concat('b.',' nivel de madurez 2') and text()!=concat('c.',' nivel de madurez 2') and text()!=concat('d.',' nivel de madurez 2') and text()!=concat('a.',' nivel de madurez 1') and text()!=concat('b.',' nivel de madurez 1') and text()!=concat('c.',' nivel de madurez 1') and text()!=concat('d.',' nivel de madurez 1') and text()!=concat('a.',' nivel de madurez 4') and text()!=concat('b.',' nivel de madurez 4') and text()!=concat('c.',' nivel de madurez 4') and text()!=concat('d.',' nivel de madurez 4')]
+INFO:root:Getting answer 0 for question q496559:15_answer
+INFO:root:Filling # 15 question: q496559:15_answer with answer: 0
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  nivel de madurez 1)
+INFO:root:Saving answer (2:  Práctica específica)
+INFO:root:Saving answer (3:  norma)
+INFO:root:Saving answer (4:  Estandar)
+INFO:root:Saving answer (5:  proceso)
+INFO:root:Saving answer (6:  calidad)
+INFO:root:Saving answer (7:  Calidad Total)
+INFO:root:Saving answer (8:  Control)
+INFO:root:Saving answer (9:  Aseguramiento)
+INFO:root:Saving answer (10:  Nivel 3)
+INFO:root:Saving answer (11:  Nivel 4)
+INFO:root:Saving answer (12:  Nivel 5)
+INFO:root:Saving answer (13:  área)
+INFO:root:Saving answer (14:  nivel de madurez 4)
+INFO:root:Saving answer (15:  nivel de madurez 3)
+INFO:root:{'11': ' Nivel 4', '10': ' Nivel 3', '13': u' \xe1rea', '12': ' Nivel 5', '15': ' nivel de madurez 3', '14': ' nivel de madurez 4', '1': ' nivel de madurez 1', '3': ' norma', '2': u' Pr\xe1ctica espec\xedfica', '5': ' proceso', '4': ' Estandar', '7': ' Calidad Total', '6': ' calidad', '9': ' Aseguramiento', '8': ' Control'}
+INFO:root:{'11': [' Nivel 1'], '10': [' Nivel 0', ' Nivel 1'], '13': [' modelo'], '15': [' nivel de madurez 2', ' nivel de madurez 1', ' nivel de madurez 4'], '14': [' nivel de madurez 3', ' nivel de madurez 5'], '1': [' nivel de madurez 2'], '3': [' regla', ' ley', ' ISO'], '2': [u' Pr\xe1cticas generica', ' politica de calidad', ' Encuensta'], '5': [' norma', ' calidad', ' estandar'], '4': [' Norma', ' ISO', ' Ley'], '7': [' Premium', ' Norma', ' Calidad'], '6': [' mejora', ' excelencia'], '9': [' Manejo', ' Derecho'], '8': [' Camino', ' Lider', ' Mejora']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITISISCALTI__P3A2.html
+INFO:root:
+Starting attempt #1 for ITIBDPAPLI: P3A1
+INFO:root:Getting answer 0 for question q496560:1_answer
+INFO:root:Filling # 1 question: q496560:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:2_answer
+INFO:root:Filling # 2 question: q496560:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:3_answer
+INFO:root:Filling # 3 question: q496560:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:4_answer
+INFO:root:Filling # 4 question: q496560:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:5_answer
+INFO:root:Filling # 5 question: q496560:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:6_answer
+INFO:root:Filling # 6 question: q496560:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:7_answer
+INFO:root:Filling # 7 question: q496560:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:8_answer
+INFO:root:Filling # 8 question: q496560:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:9_answer
+INFO:root:Filling # 9 question: q496560:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:10_answer
+INFO:root:Filling # 10 question: q496560:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:11_answer
+INFO:root:Filling # 11 question: q496560:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:12_answer
+INFO:root:Filling # 12 question: q496560:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:13_answer
+INFO:root:Filling # 13 question: q496560:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:14_answer
+INFO:root:Filling # 14 question: q496560:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496560:15_answer
+INFO:root:Filling # 15 question: q496560:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (1:  named)
+INFO:root:Saving answer (2:  Impedance mismatch)
+INFO:root:Saving answer (4:  atomicity)
+INFO:root:Saving answer (9:  Data Warehouse de dos niveles)
+INFO:root:Saving answer (11:  Data Warehouse central)
+INFO:root:Saving answer (12:  Data Mart)
+INFO:root:Saving answer (14:  Middleware)
+INFO:root:{'11': ' Data Warehouse central', '12': ' Data Mart', '14': ' Middleware', '1': ' named', '2': ' Impedance mismatch', '4': ' atomicity', '9': ' Data Warehouse de dos niveles'}
+INFO:root:{'10': [' Cualquiera de los tres'], '13': [' Ninguno de los anteriores'], '15': [' Data Mining'], '3': [' Feasibility'], '5': [' Feasibility'], '7': [' centralized (or one-shot)'], '6': [' Feasibility analysis'], '8': [' Requirements collection and analysis']}
+INFO:root:
+Starting attempt #2 for ITIBDPAPLI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:1_answer') and contains(text(), ' named')]
+INFO:root:Getting answer 2 for question q496562:1_answer
+INFO:root:Filling # 1 question: q496562:1_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:2_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 3 for question q496562:2_answer
+INFO:root:Filling # 2 question: q496562:2_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:3_answer') and text()!=concat('a.',' Feasibility') and text()!=concat('b.',' Feasibility') and text()!=concat('c.',' Feasibility') and text()!=concat('d.',' Feasibility')]
+INFO:root:Getting answer 1 for question q496562:3_answer
+INFO:root:Filling # 3 question: q496562:3_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:4_answer') and contains(text(), ' atomicity')]
+INFO:root:Getting answer 2 for question q496562:4_answer
+INFO:root:Filling # 4 question: q496562:4_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:5_answer') and text()!=concat('a.',' Feasibility') and text()!=concat('b.',' Feasibility') and text()!=concat('c.',' Feasibility') and text()!=concat('d.',' Feasibility')]
+INFO:root:Getting answer 0 for question q496562:5_answer
+INFO:root:Filling # 5 question: q496562:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:6_answer') and text()!=concat('a.',' Feasibility analysis') and text()!=concat('b.',' Feasibility analysis') and text()!=concat('c.',' Feasibility analysis') and text()!=concat('d.',' Feasibility analysis')]
+INFO:root:Getting answer 0 for question q496562:6_answer
+INFO:root:Filling # 6 question: q496562:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:7_answer') and text()!=concat('a.',' centralized (or one-shot)') and text()!=concat('b.',' centralized (or one-shot)') and text()!=concat('c.',' centralized (or one-shot)') and text()!=concat('d.',' centralized (or one-shot)')]
+INFO:root:Getting answer 0 for question q496562:7_answer
+INFO:root:Filling # 7 question: q496562:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:8_answer') and text()!=concat('a.',' Requirements collection and analysis') and text()!=concat('b.',' Requirements collection and analysis') and text()!=concat('c.',' Requirements collection and analysis') and text()!=concat('d.',' Requirements collection and analysis')]
+INFO:root:Getting answer 0 for question q496562:8_answer
+INFO:root:Filling # 8 question: q496562:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:9_answer') and contains(text(), ' Data Warehouse de dos niveles')]
+INFO:root:Getting answer 1 for question q496562:9_answer
+INFO:root:Filling # 9 question: q496562:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:10_answer') and text()!=concat('a.',' Cualquiera de los tres') and text()!=concat('b.',' Cualquiera de los tres') and text()!=concat('c.',' Cualquiera de los tres') and text()!=concat('d.',' Cualquiera de los tres')]
+INFO:root:Getting answer 0 for question q496562:10_answer
+INFO:root:Filling # 10 question: q496562:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:11_answer') and contains(text(), ' Data Warehouse central')]
+INFO:root:Getting answer 0 for question q496562:11_answer
+INFO:root:Filling # 11 question: q496562:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:12_answer') and contains(text(), ' Data Mart')]
+INFO:root:Getting answer 0 for question q496562:12_answer
+INFO:root:Filling # 12 question: q496562:12_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:13_answer') and text()!=concat('a.',' Ninguno de los anteriores') and text()!=concat('b.',' Ninguno de los anteriores') and text()!=concat('c.',' Ninguno de los anteriores') and text()!=concat('d.',' Ninguno de los anteriores')]
+INFO:root:Getting answer 0 for question q496562:13_answer
+INFO:root:Filling # 13 question: q496562:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:14_answer') and contains(text(), ' Middleware')]
+INFO:root:Getting answer 0 for question q496562:14_answer
+INFO:root:Filling # 14 question: q496562:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496562:15_answer') and text()!=concat('a.',' Data Mining') and text()!=concat('b.',' Data Mining') and text()!=concat('c.',' Data Mining') and text()!=concat('d.',' Data Mining')]
+INFO:root:Getting answer 1 for question q496562:15_answer
+INFO:root:Filling # 15 question: q496562:15_answer with answer: 1
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (1:  named)
+INFO:root:Saving answer (2:  Impedance mismatch)
+INFO:root:Saving answer (4:  atomicity)
+INFO:root:Saving answer (8:  Feasibility analysis)
+INFO:root:Saving answer (9:  Data Warehouse de dos niveles)
+INFO:root:Saving answer (10:  Data Warehouse distribuido)
+INFO:root:Saving answer (11:  Data Warehouse central)
+INFO:root:Saving answer (12:  Data Mart)
+INFO:root:Saving answer (14:  Middleware)
+INFO:root:{'11': ' Data Warehouse central', '10': ' Data Warehouse distribuido', '12': ' Data Mart', '14': ' Middleware', '1': ' named', '2': ' Impedance mismatch', '4': ' atomicity', '9': ' Data Warehouse de dos niveles', '8': ' Feasibility analysis'}
+INFO:root:{'10': [' Cualquiera de los tres'], '13': [' Ninguno de los anteriores', u' Validaci\xf3n de Consistencia de los datos'], '15': [' Data Mining', ' On-Line Transaction Processing'], '3': [' Feasibility', ' atomicity'], '5': [' Feasibility', ' concurrency'], '7': [' centralized (or one-shot)', ' Feasibility analysis'], '6': [' Feasibility analysis', ' centralized (or one-shot)'], '8': [' Requirements collection and analysis']}
+INFO:root:
+Starting attempt #3 for ITIBDPAPLI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:1_answer') and contains(text(), ' named')]
+INFO:root:Getting answer 1 for question q496565:1_answer
+INFO:root:Filling # 1 question: q496565:1_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:2_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 1 for question q496565:2_answer
+INFO:root:Filling # 2 question: q496565:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:3_answer') and text()!=concat('a.',' Feasibility') and text()!=concat('b.',' Feasibility') and text()!=concat('c.',' Feasibility') and text()!=concat('d.',' Feasibility') and text()!=concat('a.',' atomicity') and text()!=concat('b.',' atomicity') and text()!=concat('c.',' atomicity') and text()!=concat('d.',' atomicity')]
+INFO:root:Getting answer 0 for question q496565:3_answer
+INFO:root:Filling # 3 question: q496565:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:4_answer') and contains(text(), ' atomicity')]
+INFO:root:Getting answer 2 for question q496565:4_answer
+INFO:root:Filling # 4 question: q496565:4_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:5_answer') and text()!=concat('a.',' Feasibility') and text()!=concat('b.',' Feasibility') and text()!=concat('c.',' Feasibility') and text()!=concat('d.',' Feasibility') and text()!=concat('a.',' concurrency') and text()!=concat('b.',' concurrency') and text()!=concat('c.',' concurrency') and text()!=concat('d.',' concurrency')]
+INFO:root:Getting answer 2 for question q496565:5_answer
+INFO:root:Filling # 5 question: q496565:5_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:6_answer') and text()!=concat('a.',' Feasibility analysis') and text()!=concat('b.',' Feasibility analysis') and text()!=concat('c.',' Feasibility analysis') and text()!=concat('d.',' Feasibility analysis') and text()!=concat('a.',' centralized (or one-shot)') and text()!=concat('b.',' centralized (or one-shot)') and text()!=concat('c.',' centralized (or one-shot)') and text()!=concat('d.',' centralized (or one-shot)')]
+INFO:root:Getting answer 0 for question q496565:6_answer
+INFO:root:Filling # 6 question: q496565:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:7_answer') and text()!=concat('a.',' centralized (or one-shot)') and text()!=concat('b.',' centralized (or one-shot)') and text()!=concat('c.',' centralized (or one-shot)') and text()!=concat('d.',' centralized (or one-shot)') and text()!=concat('a.',' Feasibility analysis') and text()!=concat('b.',' Feasibility analysis') and text()!=concat('c.',' Feasibility analysis') and text()!=concat('d.',' Feasibility analysis')]
+INFO:root:Getting answer 1 for question q496565:7_answer
+INFO:root:Filling # 7 question: q496565:7_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:8_answer') and contains(text(), ' Feasibility analysis')]
+INFO:root:Getting answer 2 for question q496565:8_answer
+INFO:root:Filling # 8 question: q496565:8_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:9_answer') and contains(text(), ' Data Warehouse de dos niveles')]
+INFO:root:Getting answer 0 for question q496565:9_answer
+INFO:root:Filling # 9 question: q496565:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:10_answer') and contains(text(), ' Data Warehouse distribuido')]
+INFO:root:Getting answer 2 for question q496565:10_answer
+INFO:root:Filling # 10 question: q496565:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:11_answer') and contains(text(), ' Data Warehouse central')]
+INFO:root:Getting answer 2 for question q496565:11_answer
+INFO:root:Filling # 11 question: q496565:11_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:12_answer') and contains(text(), ' Data Mart')]
+INFO:root:Getting answer 1 for question q496565:12_answer
+INFO:root:Filling # 12 question: q496565:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:13_answer') and text()!=concat('a.',' Ninguno de los anteriores') and text()!=concat('b.',' Ninguno de los anteriores') and text()!=concat('c.',' Ninguno de los anteriores') and text()!=concat('d.',' Ninguno de los anteriores') and text()!=concat('a.',' Validación de Consistencia de los datos') and text()!=concat('b.',' Validación de Consistencia de los datos') and text()!=concat('c.',' Validación de Consistencia de los datos') and text()!=concat('d.',' Validación de Consistencia de los datos')]
+INFO:root:Getting answer 2 for question q496565:13_answer
+INFO:root:Filling # 13 question: q496565:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:14_answer') and contains(text(), ' Middleware')]
+INFO:root:Getting answer 0 for question q496565:14_answer
+INFO:root:Filling # 14 question: q496565:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496565:15_answer') and text()!=concat('a.',' Data Mining') and text()!=concat('b.',' Data Mining') and text()!=concat('c.',' Data Mining') and text()!=concat('d.',' Data Mining') and text()!=concat('a.',' On-Line Transaction Processing') and text()!=concat('b.',' On-Line Transaction Processing') and text()!=concat('c.',' On-Line Transaction Processing') and text()!=concat('d.',' On-Line Transaction Processing')]
+INFO:root:Getting answer 1 for question q496565:15_answer
+INFO:root:Filling # 15 question: q496565:15_answer with answer: 1
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (1:  named)
+INFO:root:Saving answer (2:  Impedance mismatch)
+INFO:root:Saving answer (3:  concurrency)
+INFO:root:Saving answer (4:  atomicity)
+INFO:root:Saving answer (6:  feedback loops)
+INFO:root:Saving answer (8:  Feasibility analysis)
+INFO:root:Saving answer (9:  Data Warehouse de dos niveles)
+INFO:root:Saving answer (10:  Data Warehouse distribuido)
+INFO:root:Saving answer (11:  Data Warehouse central)
+INFO:root:Saving answer (12:  Data Mart)
+INFO:root:Saving answer (13:  Consolidación)
+INFO:root:Saving answer (14:  Middleware)
+INFO:root:{'11': ' Data Warehouse central', '10': ' Data Warehouse distribuido', '13': u' Consolidaci\xf3n', '12': ' Data Mart', '14': ' Middleware', '1': ' named', '3': ' concurrency', '2': ' Impedance mismatch', '4': ' atomicity', '6': ' feedback loops', '9': ' Data Warehouse de dos niveles', '8': ' Feasibility analysis'}
+INFO:root:{'10': [' Cualquiera de los tres'], '13': [' Ninguno de los anteriores', u' Validaci\xf3n de Consistencia de los datos'], '15': [' Data Mining', ' On-Line Transaction Processing', ' On-Line Analytical Process'], '3': [' Feasibility', ' atomicity'], '5': [' Feasibility', ' concurrency', ' atomicity'], '7': [' centralized (or one-shot)', ' Feasibility analysis', ' view integration'], '6': [' Feasibility analysis', ' centralized (or one-shot)'], '8': [' Requirements collection and analysis']}
+INFO:root:
+Starting attempt #4 for ITIBDPAPLI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:1_answer') and contains(text(), ' named')]
+INFO:root:Getting answer 2 for question q496566:1_answer
+INFO:root:Filling # 1 question: q496566:1_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:2_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 1 for question q496566:2_answer
+INFO:root:Filling # 2 question: q496566:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:3_answer') and contains(text(), ' concurrency')]
+INFO:root:Getting answer 0 for question q496566:3_answer
+INFO:root:Filling # 3 question: q496566:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:4_answer') and contains(text(), ' atomicity')]
+INFO:root:Getting answer 1 for question q496566:4_answer
+INFO:root:Filling # 4 question: q496566:4_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:5_answer') and text()!=concat('a.',' Feasibility') and text()!=concat('b.',' Feasibility') and text()!=concat('c.',' Feasibility') and text()!=concat('d.',' Feasibility') and text()!=concat('a.',' concurrency') and text()!=concat('b.',' concurrency') and text()!=concat('c.',' concurrency') and text()!=concat('d.',' concurrency') and text()!=concat('a.',' atomicity') and text()!=concat('b.',' atomicity') and text()!=concat('c.',' atomicity') and text()!=concat('d.',' atomicity')]
+INFO:root:Getting answer 0 for question q496566:5_answer
+INFO:root:Filling # 5 question: q496566:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:6_answer') and contains(text(), ' feedback loops')]
+INFO:root:Getting answer 0 for question q496566:6_answer
+INFO:root:Filling # 6 question: q496566:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:7_answer') and text()!=concat('a.',' centralized (or one-shot)') and text()!=concat('b.',' centralized (or one-shot)') and text()!=concat('c.',' centralized (or one-shot)') and text()!=concat('d.',' centralized (or one-shot)') and text()!=concat('a.',' Feasibility analysis') and text()!=concat('b.',' Feasibility analysis') and text()!=concat('c.',' Feasibility analysis') and text()!=concat('d.',' Feasibility analysis') and text()!=concat('a.',' view integration') and text()!=concat('b.',' view integration') and text()!=concat('c.',' view integration') and text()!=concat('d.',' view integration')]
+INFO:root:Getting answer 3 for question q496566:7_answer
+INFO:root:Filling # 7 question: q496566:7_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:8_answer') and contains(text(), ' Feasibility analysis')]
+INFO:root:Getting answer 2 for question q496566:8_answer
+INFO:root:Filling # 8 question: q496566:8_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:9_answer') and contains(text(), ' Data Warehouse de dos niveles')]
+INFO:root:Getting answer 2 for question q496566:9_answer
+INFO:root:Filling # 9 question: q496566:9_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:10_answer') and contains(text(), ' Data Warehouse distribuido')]
+INFO:root:Getting answer 0 for question q496566:10_answer
+INFO:root:Filling # 10 question: q496566:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:11_answer') and contains(text(), ' Data Warehouse central')]
+INFO:root:Getting answer 2 for question q496566:11_answer
+INFO:root:Filling # 11 question: q496566:11_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:12_answer') and contains(text(), ' Data Mart')]
+INFO:root:Getting answer 2 for question q496566:12_answer
+INFO:root:Filling # 12 question: q496566:12_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:13_answer') and contains(text(), ' Consolidación')]
+INFO:root:Getting answer 1 for question q496566:13_answer
+INFO:root:Filling # 13 question: q496566:13_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:14_answer') and contains(text(), ' Middleware')]
+INFO:root:Getting answer 1 for question q496566:14_answer
+INFO:root:Filling # 14 question: q496566:14_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496566:15_answer') and text()!=concat('a.',' Data Mining') and text()!=concat('b.',' Data Mining') and text()!=concat('c.',' Data Mining') and text()!=concat('d.',' Data Mining') and text()!=concat('a.',' On-Line Transaction Processing') and text()!=concat('b.',' On-Line Transaction Processing') and text()!=concat('c.',' On-Line Transaction Processing') and text()!=concat('d.',' On-Line Transaction Processing') and text()!=concat('a.',' On-Line Analytical Process') and text()!=concat('b.',' On-Line Analytical Process') and text()!=concat('c.',' On-Line Analytical Process') and text()!=concat('d.',' On-Line Analytical Process')]
+INFO:root:Getting answer 2 for question q496566:15_answer
+INFO:root:Filling # 15 question: q496566:15_answer with answer: 2
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  named)
+INFO:root:Saving answer (2:  Impedance mismatch)
+INFO:root:Saving answer (3:  concurrency)
+INFO:root:Saving answer (4:  atomicity)
+INFO:root:Saving answer (5:  Redundancy)
+INFO:root:Saving answer (6:  feedback loops)
+INFO:root:Saving answer (7:  Requirements collection and analysis)
+INFO:root:Saving answer (8:  Feasibility analysis)
+INFO:root:Saving answer (9:  Data Warehouse de dos niveles)
+INFO:root:Saving answer (10:  Data Warehouse distribuido)
+INFO:root:Saving answer (11:  Data Warehouse central)
+INFO:root:Saving answer (12:  Data Mart)
+INFO:root:Saving answer (13:  Consolidación)
+INFO:root:Saving answer (14:  Middleware)
+INFO:root:Saving answer (15:  Data Warehouse)
+INFO:root:{'11': ' Data Warehouse central', '10': ' Data Warehouse distribuido', '13': u' Consolidaci\xf3n', '12': ' Data Mart', '15': ' Data Warehouse', '14': ' Middleware', '1': ' named', '3': ' concurrency', '2': ' Impedance mismatch', '5': ' Redundancy', '4': ' atomicity', '7': ' Requirements collection and analysis', '6': ' feedback loops', '9': ' Data Warehouse de dos niveles', '8': ' Feasibility analysis'}
+INFO:root:{'10': [' Cualquiera de los tres'], '13': [' Ninguno de los anteriores', u' Validaci\xf3n de Consistencia de los datos'], '15': [' Data Mining', ' On-Line Transaction Processing', ' On-Line Analytical Process'], '3': [' Feasibility', ' atomicity'], '5': [' Feasibility', ' concurrency', ' atomicity'], '7': [' centralized (or one-shot)', ' Feasibility analysis', ' view integration'], '6': [' Feasibility analysis', ' centralized (or one-shot)'], '8': [' Requirements collection and analysis']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITIBDPAPLI__P3A1.html
+INFO:root:
+Starting attempt #1 for ITIBDPAPLI: P3A2
+INFO:root:Getting answer 0 for question q496567:1_answer
+INFO:root:Filling # 1 question: q496567:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:2_answer
+INFO:root:Filling # 2 question: q496567:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:3_answer
+INFO:root:Filling # 3 question: q496567:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:4_answer
+INFO:root:Filling # 4 question: q496567:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:5_answer
+INFO:root:Filling # 5 question: q496567:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:6_answer
+INFO:root:Filling # 6 question: q496567:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:7_answer
+INFO:root:Filling # 7 question: q496567:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:8_answer
+INFO:root:Filling # 8 question: q496567:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:9_answer
+INFO:root:Filling # 9 question: q496567:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:10_answer
+INFO:root:Filling # 10 question: q496567:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:11_answer
+INFO:root:Filling # 11 question: q496567:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:12_answer
+INFO:root:Filling # 12 question: q496567:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:13_answer
+INFO:root:Filling # 13 question: q496567:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:14_answer
+INFO:root:Filling # 14 question: q496567:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496567:15_answer
+INFO:root:Filling # 15 question: q496567:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (5: [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'])
+INFO:root:Saving answer (11:  Impedance mismatch)
+INFO:root:Saving answer (13:  Persistent)
+INFO:root:Saving answer (14:  Data Warehouse)
+INFO:root:{'11': ' Impedance mismatch', '13': ' Persistent', '5': [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'], '14': ' Data Warehouse'}
+INFO:root:{'10': [' Candidate'], '12': [' Domain'], '15': [' all'], '1': [' complete encapsulation'], '3': [[' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tSatisfy the information content requirements of the specified users and applications.']], '2': [' selective'], '4': [[' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tSupport processing requirements and any performance objectives.']], '7': [' All'], '6': [' SQL/PSM'], '9': [' namespace'], '8': [' Candidate']}
+INFO:root:
+Starting attempt #2 for ITIBDPAPLI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:1_answer') and text()!=concat('a.',' complete encapsulation') and text()!=concat('b.',' complete encapsulation') and text()!=concat('c.',' complete encapsulation') and text()!=concat('d.',' complete encapsulation')]
+INFO:root:Getting answer 0 for question q496569:1_answer
+INFO:root:Filling # 1 question: q496569:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:2_answer') and text()!=concat('a.',' selective') and text()!=concat('b.',' selective') and text()!=concat('c.',' selective') and text()!=concat('d.',' selective')]
+INFO:root:Getting answer 0 for question q496569:2_answer
+INFO:root:Filling # 2 question: q496569:2_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:3_answer')]
+INFO:root:Getting answer 0 for question q496569:3_answer
+INFO:root:Filling # 3 question: q496569:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:4_answer')]
+INFO:root:Getting answer 0 for question q496569:4_answer
+INFO:root:Filling # 4 question: q496569:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:5_answer')]
+INFO:root:Getting answer 2 for question q496569:5_answer
+INFO:root:Filling # 5 question: q496569:5_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:6_answer') and text()!=concat('a.',' SQL/PSM') and text()!=concat('b.',' SQL/PSM') and text()!=concat('c.',' SQL/PSM') and text()!=concat('d.',' SQL/PSM')]
+INFO:root:Getting answer 0 for question q496569:6_answer
+INFO:root:Filling # 6 question: q496569:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:7_answer') and text()!=concat('a.',' All') and text()!=concat('b.',' All') and text()!=concat('c.',' All') and text()!=concat('d.',' All')]
+INFO:root:Getting answer 0 for question q496569:7_answer
+INFO:root:Filling # 7 question: q496569:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:8_answer') and text()!=concat('a.',' Candidate') and text()!=concat('b.',' Candidate') and text()!=concat('c.',' Candidate') and text()!=concat('d.',' Candidate')]
+INFO:root:Getting answer 0 for question q496569:8_answer
+INFO:root:Filling # 8 question: q496569:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:9_answer') and text()!=concat('a.',' namespace') and text()!=concat('b.',' namespace') and text()!=concat('c.',' namespace') and text()!=concat('d.',' namespace')]
+INFO:root:Getting answer 0 for question q496569:9_answer
+INFO:root:Filling # 9 question: q496569:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:10_answer') and text()!=concat('a.',' Candidate') and text()!=concat('b.',' Candidate') and text()!=concat('c.',' Candidate') and text()!=concat('d.',' Candidate')]
+INFO:root:Getting answer 0 for question q496569:10_answer
+INFO:root:Filling # 10 question: q496569:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:11_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 0 for question q496569:11_answer
+INFO:root:Filling # 11 question: q496569:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:12_answer') and text()!=concat('a.',' Domain') and text()!=concat('b.',' Domain') and text()!=concat('c.',' Domain') and text()!=concat('d.',' Domain')]
+INFO:root:Getting answer 1 for question q496569:12_answer
+INFO:root:Filling # 12 question: q496569:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:13_answer') and contains(text(), ' Persistent')]
+INFO:root:Getting answer 0 for question q496569:13_answer
+INFO:root:Filling # 13 question: q496569:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:14_answer') and contains(text(), ' Data Warehouse')]
+INFO:root:Getting answer 0 for question q496569:14_answer
+INFO:root:Filling # 14 question: q496569:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496569:15_answer') and text()!=concat('a.',' all') and text()!=concat('b.',' all') and text()!=concat('c.',' all') and text()!=concat('d.',' all')]
+INFO:root:Getting answer 0 for question q496569:15_answer
+INFO:root:Filling # 15 question: q496569:15_answer with answer: 0
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (3: [' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tTransaction throughput.'])
+INFO:root:Saving answer (4: [' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tFamiliarity of personnel with the system.'])
+INFO:root:Saving answer (5: [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'])
+INFO:root:Saving answer (6:  ResultSet)
+INFO:root:Saving answer (8:  valid)
+INFO:root:Saving answer (10:  namespace)
+INFO:root:Saving answer (11:  Impedance mismatch)
+INFO:root:Saving answer (12:  Impedance mismatch)
+INFO:root:Saving answer (13:  Persistent)
+INFO:root:Saving answer (14:  Data Warehouse)
+INFO:root:{'11': ' Impedance mismatch', '10': ' namespace', '13': ' Persistent', '12': ' Impedance mismatch', '14': ' Data Warehouse', '3': [' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tTransaction throughput.'], '5': [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'], '4': [' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tFamiliarity of personnel with the system.'], '6': ' ResultSet', '8': ' valid'}
+INFO:root:{'10': [' Candidate'], '12': [' Domain'], '15': [' all', ' complete encapsulation'], '1': [' complete encapsulation', ' all'], '3': [[' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tSatisfy the information content requirements of the specified users and applications.']], '2': [' selective', ' all'], '4': [[' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tSupport processing requirements and any performance objectives.']], '7': [' All', ' Class'], '6': [' SQL/PSM'], '9': [' namespace', ' Candidate'], '8': [' Candidate']}
+INFO:root:
+Starting attempt #3 for ITIBDPAPLI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:1_answer') and text()!=concat('a.',' complete encapsulation') and text()!=concat('b.',' complete encapsulation') and text()!=concat('c.',' complete encapsulation') and text()!=concat('d.',' complete encapsulation') and text()!=concat('a.',' all') and text()!=concat('b.',' all') and text()!=concat('c.',' all') and text()!=concat('d.',' all')]
+INFO:root:Getting answer 0 for question q496571:1_answer
+INFO:root:Filling # 1 question: q496571:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:2_answer') and text()!=concat('a.',' selective') and text()!=concat('b.',' selective') and text()!=concat('c.',' selective') and text()!=concat('d.',' selective') and text()!=concat('a.',' all') and text()!=concat('b.',' all') and text()!=concat('c.',' all') and text()!=concat('d.',' all')]
+INFO:root:Getting answer 1 for question q496571:2_answer
+INFO:root:Filling # 2 question: q496571:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:3_answer')]
+INFO:root:Getting answer 2 for question q496571:3_answer
+INFO:root:Filling # 3 question: q496571:3_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:4_answer')]
+INFO:root:Getting answer 3 for question q496571:4_answer
+INFO:root:Filling # 4 question: q496571:4_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:5_answer')]
+INFO:root:Getting answer 2 for question q496571:5_answer
+INFO:root:Filling # 5 question: q496571:5_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:6_answer') and contains(text(), ' ResultSet')]
+INFO:root:Getting answer 1 for question q496571:6_answer
+INFO:root:Filling # 6 question: q496571:6_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:7_answer') and text()!=concat('a.',' All') and text()!=concat('b.',' All') and text()!=concat('c.',' All') and text()!=concat('d.',' All') and text()!=concat('a.',' Class') and text()!=concat('b.',' Class') and text()!=concat('c.',' Class') and text()!=concat('d.',' Class')]
+INFO:root:Getting answer 2 for question q496571:7_answer
+INFO:root:Filling # 7 question: q496571:7_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:8_answer') and contains(text(), ' valid')]
+INFO:root:Getting answer 0 for question q496571:8_answer
+INFO:root:Filling # 8 question: q496571:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:9_answer') and text()!=concat('a.',' namespace') and text()!=concat('b.',' namespace') and text()!=concat('c.',' namespace') and text()!=concat('d.',' namespace') and text()!=concat('a.',' Candidate') and text()!=concat('b.',' Candidate') and text()!=concat('c.',' Candidate') and text()!=concat('d.',' Candidate')]
+INFO:root:Getting answer 2 for question q496571:9_answer
+INFO:root:Filling # 9 question: q496571:9_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:10_answer') and contains(text(), ' namespace')]
+INFO:root:Getting answer 3 for question q496571:10_answer
+INFO:root:Filling # 10 question: q496571:10_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:11_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 1 for question q496571:11_answer
+INFO:root:Filling # 11 question: q496571:11_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:12_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 0 for question q496571:12_answer
+INFO:root:Filling # 12 question: q496571:12_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:13_answer') and contains(text(), ' Persistent')]
+INFO:root:Getting answer 2 for question q496571:13_answer
+INFO:root:Filling # 13 question: q496571:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:14_answer') and contains(text(), ' Data Warehouse')]
+INFO:root:Getting answer 3 for question q496571:14_answer
+INFO:root:Filling # 14 question: q496571:14_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496571:15_answer') and text()!=concat('a.',' all') and text()!=concat('b.',' all') and text()!=concat('c.',' all') and text()!=concat('d.',' all') and text()!=concat('a.',' complete encapsulation') and text()!=concat('b.',' complete encapsulation') and text()!=concat('c.',' complete encapsulation') and text()!=concat('d.',' complete encapsulation')]
+INFO:root:Getting answer 1 for question q496571:15_answer
+INFO:root:Filling # 15 question: q496571:15_answer with answer: 1
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (1:  object identifier (OID))
+INFO:root:Saving answer (2:  complete encapsulation)
+INFO:root:Saving answer (3: [' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tTransaction throughput.'])
+INFO:root:Saving answer (4: [' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tFamiliarity of personnel with the system.'])
+INFO:root:Saving answer (5: [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'])
+INFO:root:Saving answer (6:  ResultSet)
+INFO:root:Saving answer (8:  valid)
+INFO:root:Saving answer (9:  xsd:key)
+INFO:root:Saving answer (10:  namespace)
+INFO:root:Saving answer (11:  Impedance mismatch)
+INFO:root:Saving answer (12:  Impedance mismatch)
+INFO:root:Saving answer (13:  Persistent)
+INFO:root:Saving answer (14:  Data Warehouse)
+INFO:root:Saving answer (15:  selective)
+INFO:root:{'11': ' Impedance mismatch', '10': ' namespace', '13': ' Persistent', '12': ' Impedance mismatch', '15': ' selective', '14': ' Data Warehouse', '1': ' object identifier (OID)', '3': [' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tTransaction throughput.'], '2': ' complete encapsulation', '5': [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'], '4': [' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tFamiliarity of personnel with the system.'], '6': ' ResultSet', '9': ' xsd:key', '8': ' valid'}
+INFO:root:{'10': [' Candidate'], '12': [' Domain'], '15': [' all', ' complete encapsulation'], '1': [' complete encapsulation', ' all'], '3': [[' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tSatisfy the information content requirements of the specified users and applications.']], '2': [' selective', ' all'], '4': [[' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tSupport processing requirements and any performance objectives.']], '7': [' All', ' Class', ' ResultSet'], '6': [' SQL/PSM'], '9': [' namespace', ' Candidate'], '8': [' Candidate']}
+INFO:root:
+Starting attempt #4 for ITIBDPAPLI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:1_answer') and contains(text(), ' object identifier (OID)')]
+INFO:root:Getting answer 2 for question q496574:1_answer
+INFO:root:Filling # 1 question: q496574:1_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:2_answer') and contains(text(), ' complete encapsulation')]
+INFO:root:Getting answer 1 for question q496574:2_answer
+INFO:root:Filling # 2 question: q496574:2_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:3_answer')]
+INFO:root:Getting answer 1 for question q496574:3_answer
+INFO:root:Filling # 3 question: q496574:3_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:4_answer')]
+INFO:root:Getting answer 3 for question q496574:4_answer
+INFO:root:Filling # 4 question: q496574:4_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:5_answer')]
+INFO:root:Getting answer 0 for question q496574:5_answer
+INFO:root:Filling # 5 question: q496574:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:6_answer') and contains(text(), ' ResultSet')]
+INFO:root:Getting answer 0 for question q496574:6_answer
+INFO:root:Filling # 6 question: q496574:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:7_answer') and text()!=concat('a.',' All') and text()!=concat('b.',' All') and text()!=concat('c.',' All') and text()!=concat('d.',' All') and text()!=concat('a.',' Class') and text()!=concat('b.',' Class') and text()!=concat('c.',' Class') and text()!=concat('d.',' Class') and text()!=concat('a.',' ResultSet') and text()!=concat('b.',' ResultSet') and text()!=concat('c.',' ResultSet') and text()!=concat('d.',' ResultSet')]
+INFO:root:Getting answer 2 for question q496574:7_answer
+INFO:root:Filling # 7 question: q496574:7_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:8_answer') and contains(text(), ' valid')]
+INFO:root:Getting answer 2 for question q496574:8_answer
+INFO:root:Filling # 8 question: q496574:8_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:9_answer') and contains(text(), ' xsd:key')]
+INFO:root:Getting answer 0 for question q496574:9_answer
+INFO:root:Filling # 9 question: q496574:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:10_answer') and contains(text(), ' namespace')]
+INFO:root:Getting answer 2 for question q496574:10_answer
+INFO:root:Filling # 10 question: q496574:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:11_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 1 for question q496574:11_answer
+INFO:root:Filling # 11 question: q496574:11_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:12_answer') and contains(text(), ' Impedance mismatch')]
+INFO:root:Getting answer 1 for question q496574:12_answer
+INFO:root:Filling # 12 question: q496574:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:13_answer') and contains(text(), ' Persistent')]
+INFO:root:Getting answer 2 for question q496574:13_answer
+INFO:root:Filling # 13 question: q496574:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:14_answer') and contains(text(), ' Data Warehouse')]
+INFO:root:Getting answer 2 for question q496574:14_answer
+INFO:root:Filling # 14 question: q496574:14_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496574:15_answer') and contains(text(), ' selective')]
+INFO:root:Getting answer 2 for question q496574:15_answer
+INFO:root:Filling # 15 question: q496574:15_answer with answer: 2
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  object identifier (OID))
+INFO:root:Saving answer (2:  complete encapsulation)
+INFO:root:Saving answer (3: [' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tTransaction throughput.'])
+INFO:root:Saving answer (4: [' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tFamiliarity of personnel with the system.'])
+INFO:root:Saving answer (5: [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'])
+INFO:root:Saving answer (6:  ResultSet)
+INFO:root:Saving answer (7:  SQL/PSM)
+INFO:root:Saving answer (8:  valid)
+INFO:root:Saving answer (9:  xsd:key)
+INFO:root:Saving answer (10:  namespace)
+INFO:root:Saving answer (11:  Impedance mismatch)
+INFO:root:Saving answer (12:  Impedance mismatch)
+INFO:root:Saving answer (13:  Persistent)
+INFO:root:Saving answer (14:  Data Warehouse)
+INFO:root:Saving answer (15:  selective)
+INFO:root:{'11': ' Impedance mismatch', '10': ' namespace', '13': ' Persistent', '12': ' Impedance mismatch', '15': ' selective', '14': ' Data Warehouse', '1': ' object identifier (OID)', '3': [' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tTransaction throughput.'], '2': ' complete encapsulation', '5': [' 1)\tSatisfy the information content requirements of the specified users and applications.', '\n \t2)\tProvide a natural and easy-to-understand structuring of the information.', '\n \t3)\tSupport processing requirements and any performance objectives.'], '4': [' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tFamiliarity of personnel with the system.'], '7': ' SQL/PSM', '6': ' ResultSet', '9': ' xsd:key', '8': ' valid'}
+INFO:root:{'10': [' Candidate'], '12': [' Domain'], '15': [' all', ' complete encapsulation'], '1': [' complete encapsulation', ' all'], '3': [[' 1)\tResponse time.', '\n 2)\tSpace utilization.', '\n 3)\tSatisfy the information content requirements of the specified users and applications.']], '2': [' selective', ' all'], '4': [[' 1)\tOrganization-wide adoption of a certain philosophy (data model, vendor, methodology, tools).', '\n 2)\tSupport processing requirements and any performance objectives.']], '7': [' All', ' Class', ' ResultSet'], '6': [' SQL/PSM'], '9': [' namespace', ' Candidate'], '8': [' Candidate']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITIBDPAPLI__P3A2.html
+INFO:root:
+Starting attempt #1 for ITI ADMONPROYTI: P3A1
+INFO:root:Getting answer 0 for question q496577:1_answer
+INFO:root:Filling # 1 question: q496577:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:2_answer
+INFO:root:Filling # 2 question: q496577:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:3_answer
+INFO:root:Filling # 3 question: q496577:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:4_answer
+INFO:root:Filling # 4 question: q496577:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:5_answer
+INFO:root:Filling # 5 question: q496577:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:6_answer
+INFO:root:Filling # 6 question: q496577:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:7_answer
+INFO:root:Filling # 7 question: q496577:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:8_answer
+INFO:root:Filling # 8 question: q496577:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:9_answer
+INFO:root:Filling # 9 question: q496577:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:10_answer
+INFO:root:Filling # 10 question: q496577:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:11_answer
+INFO:root:Filling # 11 question: q496577:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:12_answer
+INFO:root:Filling # 12 question: q496577:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:13_answer
+INFO:root:Filling # 13 question: q496577:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:14_answer
+INFO:root:Filling # 14 question: q496577:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496577:15_answer
+INFO:root:Filling # 15 question: q496577:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (11:  cuantificación de riesgos)
+INFO:root:{'11': u' cuantificaci\xf3n de riesgos'}
+INFO:root:{'10': [u' an\xe1lisis de riesgos'], '13': [u' detecci\xf3n de riesgos'], '12': [' eventos potenciales de riesgos'], '15': [u' detecci\xf3n de riesgos'], '14': [' Fuentes de riesgo'], '1': [u' Actualizaciones a plan de administraci\xf3n de riesgo'], '3': [' acuerdos contractuales'], '2': [u' Actualizaciones a plan de administraci\xf3n de riesgo'], '5': [u' mitigaci\xf3n'], '4': [u' planeaci\xf3n de contingencias'], '7': [u' eliminaci\xf3n'], '6': [' seguros'], '9': [u' \xe1rboles de decisi\xf3n'], '8': [u' eventos de simulaci\xf3n']}
+INFO:root:
+Starting attempt #2 for ITI ADMONPROYTI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:1_answer') and text()!=concat('a.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('b.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('c.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('d.',' Actualizaciones a plan de administración de riesgo')]
+INFO:root:Getting answer 1 for question q496579:1_answer
+INFO:root:Filling # 1 question: q496579:1_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:2_answer') and text()!=concat('a.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('b.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('c.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('d.',' Actualizaciones a plan de administración de riesgo')]
+INFO:root:Getting answer 0 for question q496579:2_answer
+INFO:root:Filling # 2 question: q496579:2_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:3_answer') and text()!=concat('a.',' acuerdos contractuales') and text()!=concat('b.',' acuerdos contractuales') and text()!=concat('c.',' acuerdos contractuales') and text()!=concat('d.',' acuerdos contractuales')]
+INFO:root:Getting answer 0 for question q496579:3_answer
+INFO:root:Filling # 3 question: q496579:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:4_answer') and text()!=concat('a.',' planeación de contingencias') and text()!=concat('b.',' planeación de contingencias') and text()!=concat('c.',' planeación de contingencias') and text()!=concat('d.',' planeación de contingencias')]
+INFO:root:Getting answer 0 for question q496579:4_answer
+INFO:root:Filling # 4 question: q496579:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:5_answer') and text()!=concat('a.',' mitigación') and text()!=concat('b.',' mitigación') and text()!=concat('c.',' mitigación') and text()!=concat('d.',' mitigación')]
+INFO:root:Getting answer 0 for question q496579:5_answer
+INFO:root:Filling # 5 question: q496579:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:6_answer') and text()!=concat('a.',' seguros') and text()!=concat('b.',' seguros') and text()!=concat('c.',' seguros') and text()!=concat('d.',' seguros')]
+INFO:root:Getting answer 0 for question q496579:6_answer
+INFO:root:Filling # 6 question: q496579:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:7_answer') and text()!=concat('a.',' eliminación') and text()!=concat('b.',' eliminación') and text()!=concat('c.',' eliminación') and text()!=concat('d.',' eliminación')]
+INFO:root:Getting answer 0 for question q496579:7_answer
+INFO:root:Filling # 7 question: q496579:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:8_answer') and text()!=concat('a.',' eventos de simulación') and text()!=concat('b.',' eventos de simulación') and text()!=concat('c.',' eventos de simulación') and text()!=concat('d.',' eventos de simulación')]
+INFO:root:Getting answer 1 for question q496579:8_answer
+INFO:root:Filling # 8 question: q496579:8_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:9_answer') and text()!=concat('a.',' árboles de decisión') and text()!=concat('b.',' árboles de decisión') and text()!=concat('c.',' árboles de decisión') and text()!=concat('d.',' árboles de decisión')]
+INFO:root:Getting answer 1 for question q496579:9_answer
+INFO:root:Filling # 9 question: q496579:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:10_answer') and text()!=concat('a.',' análisis de riesgos') and text()!=concat('b.',' análisis de riesgos') and text()!=concat('c.',' análisis de riesgos') and text()!=concat('d.',' análisis de riesgos')]
+INFO:root:Getting answer 0 for question q496579:10_answer
+INFO:root:Filling # 10 question: q496579:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:11_answer') and contains(text(), ' cuantificación de riesgos')]
+INFO:root:Getting answer 3 for question q496579:11_answer
+INFO:root:Filling # 11 question: q496579:11_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:12_answer') and text()!=concat('a.',' eventos potenciales de riesgos') and text()!=concat('b.',' eventos potenciales de riesgos') and text()!=concat('c.',' eventos potenciales de riesgos') and text()!=concat('d.',' eventos potenciales de riesgos')]
+INFO:root:Getting answer 1 for question q496579:12_answer
+INFO:root:Filling # 12 question: q496579:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:13_answer') and text()!=concat('a.',' detección de riesgos') and text()!=concat('b.',' detección de riesgos') and text()!=concat('c.',' detección de riesgos') and text()!=concat('d.',' detección de riesgos')]
+INFO:root:Getting answer 0 for question q496579:13_answer
+INFO:root:Filling # 13 question: q496579:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:14_answer') and text()!=concat('a.',' Fuentes de riesgo') and text()!=concat('b.',' Fuentes de riesgo') and text()!=concat('c.',' Fuentes de riesgo') and text()!=concat('d.',' Fuentes de riesgo')]
+INFO:root:Getting answer 0 for question q496579:14_answer
+INFO:root:Filling # 14 question: q496579:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496579:15_answer') and text()!=concat('a.',' detección de riesgos') and text()!=concat('b.',' detección de riesgos') and text()!=concat('c.',' detección de riesgos') and text()!=concat('d.',' detección de riesgos')]
+INFO:root:Getting answer 1 for question q496579:15_answer
+INFO:root:Filling # 15 question: q496579:15_answer with answer: 1
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (1:  Workarounds)
+INFO:root:Saving answer (6:  planificación de contingencias)
+INFO:root:Saving answer (7:  opinión experta)
+INFO:root:Saving answer (11:  cuantificación de riesgos)
+INFO:root:Saving answer (12:  entradas a otros procesos)
+INFO:root:Saving answer (14:  eventos potenciales de riesgos)
+INFO:root:Saving answer (15:  Fuentes de riesgo)
+INFO:root:{'11': u' cuantificaci\xf3n de riesgos', '12': ' entradas a otros procesos', '15': ' Fuentes de riesgo', '14': ' eventos potenciales de riesgos', '1': ' Workarounds', '7': u' opini\xf3n experta', '6': u' planificaci\xf3n de contingencias'}
+INFO:root:{'10': [u' an\xe1lisis de riesgos', u' \xe1rboles de decisi\xf3n'], '13': [u' detecci\xf3n de riesgos', ' eventos potenciales de riesgos'], '12': [' eventos potenciales de riesgos'], '15': [u' detecci\xf3n de riesgos'], '14': [' Fuentes de riesgo'], '1': [u' Actualizaciones a plan de administraci\xf3n de riesgo'], '3': [' acuerdos contractuales', ' seguros'], '2': [u' Actualizaciones a plan de administraci\xf3n de riesgo', ' workaround'], '5': [u' mitigaci\xf3n', ' seguros'], '4': [u' planeaci\xf3n de contingencias', ' estrategias de alternativas'], '7': [u' eliminaci\xf3n'], '6': [' seguros'], '9': [u' \xe1rboles de decisi\xf3n', u' simulaci\xf3n'], '8': [u' eventos de simulaci\xf3n', u' riesgos a la opini\xf3n experta']}
+INFO:root:
+Starting attempt #3 for ITI ADMONPROYTI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:1_answer') and contains(text(), ' Workarounds')]
+INFO:root:Getting answer 2 for question q496580:1_answer
+INFO:root:Filling # 1 question: q496580:1_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:2_answer') and text()!=concat('a.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('b.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('c.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('d.',' Actualizaciones a plan de administración de riesgo') and text()!=concat('a.',' workaround') and text()!=concat('b.',' workaround') and text()!=concat('c.',' workaround') and text()!=concat('d.',' workaround')]
+INFO:root:Getting answer 2 for question q496580:2_answer
+INFO:root:Filling # 2 question: q496580:2_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:3_answer') and text()!=concat('a.',' acuerdos contractuales') and text()!=concat('b.',' acuerdos contractuales') and text()!=concat('c.',' acuerdos contractuales') and text()!=concat('d.',' acuerdos contractuales') and text()!=concat('a.',' seguros') and text()!=concat('b.',' seguros') and text()!=concat('c.',' seguros') and text()!=concat('d.',' seguros')]
+INFO:root:Getting answer 0 for question q496580:3_answer
+INFO:root:Filling # 3 question: q496580:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:4_answer') and text()!=concat('a.',' planeación de contingencias') and text()!=concat('b.',' planeación de contingencias') and text()!=concat('c.',' planeación de contingencias') and text()!=concat('d.',' planeación de contingencias') and text()!=concat('a.',' estrategias de alternativas') and text()!=concat('b.',' estrategias de alternativas') and text()!=concat('c.',' estrategias de alternativas') and text()!=concat('d.',' estrategias de alternativas')]
+INFO:root:Getting answer 1 for question q496580:4_answer
+INFO:root:Filling # 4 question: q496580:4_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:5_answer') and text()!=concat('a.',' mitigación') and text()!=concat('b.',' mitigación') and text()!=concat('c.',' mitigación') and text()!=concat('d.',' mitigación') and text()!=concat('a.',' seguros') and text()!=concat('b.',' seguros') and text()!=concat('c.',' seguros') and text()!=concat('d.',' seguros')]
+INFO:root:Getting answer 1 for question q496580:5_answer
+INFO:root:Filling # 5 question: q496580:5_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:6_answer') and contains(text(), ' planificación de contingencias')]
+INFO:root:Getting answer 1 for question q496580:6_answer
+INFO:root:Filling # 6 question: q496580:6_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:7_answer') and contains(text(), ' opinión experta')]
+INFO:root:Getting answer 2 for question q496580:7_answer
+INFO:root:Filling # 7 question: q496580:7_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:8_answer') and text()!=concat('a.',' eventos de simulación') and text()!=concat('b.',' eventos de simulación') and text()!=concat('c.',' eventos de simulación') and text()!=concat('d.',' eventos de simulación') and text()!=concat('a.',' riesgos a la opinión experta') and text()!=concat('b.',' riesgos a la opinión experta') and text()!=concat('c.',' riesgos a la opinión experta') and text()!=concat('d.',' riesgos a la opinión experta')]
+INFO:root:Getting answer 0 for question q496580:8_answer
+INFO:root:Filling # 8 question: q496580:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:9_answer') and text()!=concat('a.',' árboles de decisión') and text()!=concat('b.',' árboles de decisión') and text()!=concat('c.',' árboles de decisión') and text()!=concat('d.',' árboles de decisión') and text()!=concat('a.',' simulación') and text()!=concat('b.',' simulación') and text()!=concat('c.',' simulación') and text()!=concat('d.',' simulación')]
+INFO:root:Getting answer 1 for question q496580:9_answer
+INFO:root:Filling # 9 question: q496580:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:10_answer') and text()!=concat('a.',' análisis de riesgos') and text()!=concat('b.',' análisis de riesgos') and text()!=concat('c.',' análisis de riesgos') and text()!=concat('d.',' análisis de riesgos') and text()!=concat('a.',' árboles de decisión') and text()!=concat('b.',' árboles de decisión') and text()!=concat('c.',' árboles de decisión') and text()!=concat('d.',' árboles de decisión')]
+INFO:root:Getting answer 2 for question q496580:10_answer
+INFO:root:Filling # 10 question: q496580:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:11_answer') and contains(text(), ' cuantificación de riesgos')]
+INFO:root:Getting answer 3 for question q496580:11_answer
+INFO:root:Filling # 11 question: q496580:11_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:12_answer') and contains(text(), ' entradas a otros procesos')]
+INFO:root:Getting answer 3 for question q496580:12_answer
+INFO:root:Filling # 12 question: q496580:12_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:13_answer') and text()!=concat('a.',' detección de riesgos') and text()!=concat('b.',' detección de riesgos') and text()!=concat('c.',' detección de riesgos') and text()!=concat('d.',' detección de riesgos') and text()!=concat('a.',' eventos potenciales de riesgos') and text()!=concat('b.',' eventos potenciales de riesgos') and text()!=concat('c.',' eventos potenciales de riesgos') and text()!=concat('d.',' eventos potenciales de riesgos')]
+INFO:root:Getting answer 1 for question q496580:13_answer
+INFO:root:Filling # 13 question: q496580:13_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:14_answer') and contains(text(), ' eventos potenciales de riesgos')]
+INFO:root:Getting answer 0 for question q496580:14_answer
+INFO:root:Filling # 14 question: q496580:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496580:15_answer') and contains(text(), ' Fuentes de riesgo')]
+INFO:root:Getting answer 2 for question q496580:15_answer
+INFO:root:Filling # 15 question: q496580:15_answer with answer: 2
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (1:  Workarounds)
+INFO:root:Saving answer (2:  acción correctiva)
+INFO:root:Saving answer (4:  seguros)
+INFO:root:Saving answer (6:  planificación de contingencias)
+INFO:root:Saving answer (7:  opinión experta)
+INFO:root:Saving answer (8:  árboles de decisión)
+INFO:root:Saving answer (10:  simulación)
+INFO:root:Saving answer (11:  cuantificación de riesgos)
+INFO:root:Saving answer (12:  entradas a otros procesos)
+INFO:root:Saving answer (13:  síntomas de riesgo)
+INFO:root:Saving answer (14:  eventos potenciales de riesgos)
+INFO:root:Saving answer (15:  Fuentes de riesgo)
+INFO:root:{'11': u' cuantificaci\xf3n de riesgos', '10': u' simulaci\xf3n', '13': u' s\xedntomas de riesgo', '12': ' entradas a otros procesos', '15': ' Fuentes de riesgo', '14': ' eventos potenciales de riesgos', '1': ' Workarounds', '2': u' acci\xf3n correctiva', '4': ' seguros', '7': u' opini\xf3n experta', '6': u' planificaci\xf3n de contingencias', '8': u' \xe1rboles de decisi\xf3n'}
+INFO:root:{'10': [u' an\xe1lisis de riesgos', u' \xe1rboles de decisi\xf3n'], '13': [u' detecci\xf3n de riesgos', ' eventos potenciales de riesgos'], '12': [' eventos potenciales de riesgos'], '15': [u' detecci\xf3n de riesgos'], '14': [' Fuentes de riesgo'], '1': [u' Actualizaciones a plan de administraci\xf3n de riesgo'], '3': [' acuerdos contractuales', ' seguros', ' planes de contingencia'], '2': [u' Actualizaciones a plan de administraci\xf3n de riesgo', ' workaround'], '5': [u' mitigaci\xf3n', ' seguros', u' planeaci\xf3n de contingencias'], '4': [u' planeaci\xf3n de contingencias', ' estrategias de alternativas'], '7': [u' eliminaci\xf3n'], '6': [' seguros'], '9': [u' \xe1rboles de decisi\xf3n', u' simulaci\xf3n', u' opini\xf3n experta'], '8': [u' eventos de simulaci\xf3n', u' riesgos a la opini\xf3n experta']}
+INFO:root:
+Starting attempt #4 for ITI ADMONPROYTI: P3A1
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:1_answer') and contains(text(), ' Workarounds')]
+INFO:root:Getting answer 2 for question q496581:1_answer
+INFO:root:Filling # 1 question: q496581:1_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:2_answer') and contains(text(), ' acción correctiva')]
+INFO:root:Getting answer 2 for question q496581:2_answer
+INFO:root:Filling # 2 question: q496581:2_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:3_answer') and text()!=concat('a.',' acuerdos contractuales') and text()!=concat('b.',' acuerdos contractuales') and text()!=concat('c.',' acuerdos contractuales') and text()!=concat('d.',' acuerdos contractuales') and text()!=concat('a.',' seguros') and text()!=concat('b.',' seguros') and text()!=concat('c.',' seguros') and text()!=concat('d.',' seguros') and text()!=concat('a.',' planes de contingencia') and text()!=concat('b.',' planes de contingencia') and text()!=concat('c.',' planes de contingencia') and text()!=concat('d.',' planes de contingencia')]
+INFO:root:Getting answer 2 for question q496581:3_answer
+INFO:root:Filling # 3 question: q496581:3_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:4_answer') and contains(text(), ' seguros')]
+INFO:root:Getting answer 3 for question q496581:4_answer
+INFO:root:Filling # 4 question: q496581:4_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:5_answer') and text()!=concat('a.',' mitigación') and text()!=concat('b.',' mitigación') and text()!=concat('c.',' mitigación') and text()!=concat('d.',' mitigación') and text()!=concat('a.',' seguros') and text()!=concat('b.',' seguros') and text()!=concat('c.',' seguros') and text()!=concat('d.',' seguros') and text()!=concat('a.',' planeación de contingencias') and text()!=concat('b.',' planeación de contingencias') and text()!=concat('c.',' planeación de contingencias') and text()!=concat('d.',' planeación de contingencias')]
+INFO:root:Getting answer 3 for question q496581:5_answer
+INFO:root:Filling # 5 question: q496581:5_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:6_answer') and contains(text(), ' planificación de contingencias')]
+INFO:root:Getting answer 1 for question q496581:6_answer
+INFO:root:Filling # 6 question: q496581:6_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:7_answer') and contains(text(), ' opinión experta')]
+INFO:root:Getting answer 0 for question q496581:7_answer
+INFO:root:Filling # 7 question: q496581:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:8_answer') and contains(text(), ' árboles de decisión')]
+INFO:root:Getting answer 0 for question q496581:8_answer
+INFO:root:Filling # 8 question: q496581:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:9_answer') and text()!=concat('a.',' árboles de decisión') and text()!=concat('b.',' árboles de decisión') and text()!=concat('c.',' árboles de decisión') and text()!=concat('d.',' árboles de decisión') and text()!=concat('a.',' simulación') and text()!=concat('b.',' simulación') and text()!=concat('c.',' simulación') and text()!=concat('d.',' simulación') and text()!=concat('a.',' opinión experta') and text()!=concat('b.',' opinión experta') and text()!=concat('c.',' opinión experta') and text()!=concat('d.',' opinión experta')]
+INFO:root:Getting answer 0 for question q496581:9_answer
+INFO:root:Filling # 9 question: q496581:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:10_answer') and contains(text(), ' simulación')]
+INFO:root:Getting answer 2 for question q496581:10_answer
+INFO:root:Filling # 10 question: q496581:10_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:11_answer') and contains(text(), ' cuantificación de riesgos')]
+INFO:root:Getting answer 2 for question q496581:11_answer
+INFO:root:Filling # 11 question: q496581:11_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:12_answer') and contains(text(), ' entradas a otros procesos')]
+INFO:root:Getting answer 1 for question q496581:12_answer
+INFO:root:Filling # 12 question: q496581:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:13_answer') and contains(text(), ' síntomas de riesgo')]
+INFO:root:Getting answer 3 for question q496581:13_answer
+INFO:root:Filling # 13 question: q496581:13_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:14_answer') and contains(text(), ' eventos potenciales de riesgos')]
+INFO:root:Getting answer 3 for question q496581:14_answer
+INFO:root:Filling # 14 question: q496581:14_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496581:15_answer') and contains(text(), ' Fuentes de riesgo')]
+INFO:root:Getting answer 0 for question q496581:15_answer
+INFO:root:Filling # 15 question: q496581:15_answer with answer: 0
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  Workarounds)
+INFO:root:Saving answer (2:  acción correctiva)
+INFO:root:Saving answer (3:  reserva)
+INFO:root:Saving answer (4:  seguros)
+INFO:root:Saving answer (5:  estrategias de alternativas)
+INFO:root:Saving answer (6:  planificación de contingencias)
+INFO:root:Saving answer (7:  opinión experta)
+INFO:root:Saving answer (8:  árboles de decisión)
+INFO:root:Saving answer (9:  análisis de riesgos)
+INFO:root:Saving answer (10:  simulación)
+INFO:root:Saving answer (11:  cuantificación de riesgos)
+INFO:root:Saving answer (12:  entradas a otros procesos)
+INFO:root:Saving answer (13:  síntomas de riesgo)
+INFO:root:Saving answer (14:  eventos potenciales de riesgos)
+INFO:root:Saving answer (15:  Fuentes de riesgo)
+INFO:root:{'11': u' cuantificaci\xf3n de riesgos', '10': u' simulaci\xf3n', '13': u' s\xedntomas de riesgo', '12': ' entradas a otros procesos', '15': ' Fuentes de riesgo', '14': ' eventos potenciales de riesgos', '1': ' Workarounds', '3': ' reserva', '2': u' acci\xf3n correctiva', '5': ' estrategias de alternativas', '4': ' seguros', '7': u' opini\xf3n experta', '6': u' planificaci\xf3n de contingencias', '9': u' an\xe1lisis de riesgos', '8': u' \xe1rboles de decisi\xf3n'}
+INFO:root:{'10': [u' an\xe1lisis de riesgos', u' \xe1rboles de decisi\xf3n'], '13': [u' detecci\xf3n de riesgos', ' eventos potenciales de riesgos'], '12': [' eventos potenciales de riesgos'], '15': [u' detecci\xf3n de riesgos'], '14': [' Fuentes de riesgo'], '1': [u' Actualizaciones a plan de administraci\xf3n de riesgo'], '3': [' acuerdos contractuales', ' seguros', ' planes de contingencia'], '2': [u' Actualizaciones a plan de administraci\xf3n de riesgo', ' workaround'], '5': [u' mitigaci\xf3n', ' seguros', u' planeaci\xf3n de contingencias'], '4': [u' planeaci\xf3n de contingencias', ' estrategias de alternativas'], '7': [u' eliminaci\xf3n'], '6': [' seguros'], '9': [u' \xe1rboles de decisi\xf3n', u' simulaci\xf3n', u' opini\xf3n experta'], '8': [u' eventos de simulaci\xf3n', u' riesgos a la opini\xf3n experta']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITI_ADMONPROYTI__P3A1.html
+INFO:root:
+Starting attempt #1 for ITI ADMONPROYTI: P3A2
+INFO:root:Getting answer 0 for question q496582:1_answer
+INFO:root:Filling # 1 question: q496582:1_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:2_answer
+INFO:root:Filling # 2 question: q496582:2_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:3_answer
+INFO:root:Filling # 3 question: q496582:3_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:4_answer
+INFO:root:Filling # 4 question: q496582:4_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:5_answer
+INFO:root:Filling # 5 question: q496582:5_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:6_answer
+INFO:root:Filling # 6 question: q496582:6_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:7_answer
+INFO:root:Filling # 7 question: q496582:7_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:8_answer
+INFO:root:Filling # 8 question: q496582:8_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:9_answer
+INFO:root:Filling # 9 question: q496582:9_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:10_answer
+INFO:root:Filling # 10 question: q496582:10_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:11_answer
+INFO:root:Filling # 11 question: q496582:11_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:12_answer
+INFO:root:Filling # 12 question: q496582:12_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:13_answer
+INFO:root:Filling # 13 question: q496582:13_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:14_answer
+INFO:root:Filling # 14 question: q496582:14_answer with answer: 0
+
+INFO:root:Getting answer 0 for question q496582:15_answer
+INFO:root:Filling # 15 question: q496582:15_answer with answer: 0
+
+INFO:root:Finishing attempt #1
+
+INFO:root:Saving answer (2:  Tratamiento adecuado de la Información interna de una empresa)
+INFO:root:Saving answer (11:  principales)
+INFO:root:Saving answer (12:  principales y secundarios)
+INFO:root:Saving answer (13:  administrativo)
+INFO:root:Saving answer (15:  Secundario)
+INFO:root:{'11': ' principales', '12': ' principales y secundarios', '2': u' Tratamiento adecuado de la Informaci\xf3n interna de una empresa', '15': ' Secundario', '13': ' administrativo'}
+INFO:root:{'10': [' administrativo'], '14': [u' del l\xedder del proyecto'], '1': [' ciclo de vida'], '3': [' Informe Administrativo del proyecto'], '5': [u' T\xe9cnico'], '4': [' Administrativo'], '7': [' Utilidades en los informes de cierre de proyecto'], '6': [' Utilidades en los informes de cierre de proyecto'], '9': [u' Formato de NO aceptaci\xf3n formal/final del proyecto'], '8': [' Utilidades para los diagramas de gantt']}
+INFO:root:
+Starting attempt #2 for ITI ADMONPROYTI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:1_answer') and text()!=concat('a.',' ciclo de vida') and text()!=concat('b.',' ciclo de vida') and text()!=concat('c.',' ciclo de vida') and text()!=concat('d.',' ciclo de vida')]
+INFO:root:Getting answer 0 for question q496583:1_answer
+INFO:root:Filling # 1 question: q496583:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:2_answer') and contains(text(), ' Tratamiento adecuado de la Información interna de una empresa')]
+INFO:root:Getting answer 2 for question q496583:2_answer
+INFO:root:Filling # 2 question: q496583:2_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:3_answer') and text()!=concat('a.',' Informe Administrativo del proyecto') and text()!=concat('b.',' Informe Administrativo del proyecto') and text()!=concat('c.',' Informe Administrativo del proyecto') and text()!=concat('d.',' Informe Administrativo del proyecto')]
+INFO:root:Getting answer 0 for question q496583:3_answer
+INFO:root:Filling # 3 question: q496583:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:4_answer') and text()!=concat('a.',' Administrativo') and text()!=concat('b.',' Administrativo') and text()!=concat('c.',' Administrativo') and text()!=concat('d.',' Administrativo')]
+INFO:root:Getting answer 0 for question q496583:4_answer
+INFO:root:Filling # 4 question: q496583:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:5_answer') and text()!=concat('a.',' Técnico') and text()!=concat('b.',' Técnico') and text()!=concat('c.',' Técnico') and text()!=concat('d.',' Técnico')]
+INFO:root:Getting answer 0 for question q496583:5_answer
+INFO:root:Filling # 5 question: q496583:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:6_answer') and text()!=concat('a.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('b.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('c.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('d.',' Utilidades en los informes de cierre de proyecto')]
+INFO:root:Getting answer 0 for question q496583:6_answer
+INFO:root:Filling # 6 question: q496583:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:7_answer') and text()!=concat('a.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('b.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('c.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('d.',' Utilidades en los informes de cierre de proyecto')]
+INFO:root:Getting answer 0 for question q496583:7_answer
+INFO:root:Filling # 7 question: q496583:7_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:8_answer') and text()!=concat('a.',' Utilidades para los diagramas de gantt') and text()!=concat('b.',' Utilidades para los diagramas de gantt') and text()!=concat('c.',' Utilidades para los diagramas de gantt') and text()!=concat('d.',' Utilidades para los diagramas de gantt')]
+INFO:root:Getting answer 0 for question q496583:8_answer
+INFO:root:Filling # 8 question: q496583:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:9_answer') and text()!=concat('a.',' Formato de NO aceptación formal/final del proyecto') and text()!=concat('b.',' Formato de NO aceptación formal/final del proyecto') and text()!=concat('c.',' Formato de NO aceptación formal/final del proyecto') and text()!=concat('d.',' Formato de NO aceptación formal/final del proyecto')]
+INFO:root:Getting answer 0 for question q496583:9_answer
+INFO:root:Filling # 9 question: q496583:9_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:10_answer') and text()!=concat('a.',' administrativo') and text()!=concat('b.',' administrativo') and text()!=concat('c.',' administrativo') and text()!=concat('d.',' administrativo')]
+INFO:root:Getting answer 0 for question q496583:10_answer
+INFO:root:Filling # 10 question: q496583:10_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:11_answer') and contains(text(), ' principales')]
+INFO:root:Getting answer 0 for question q496583:11_answer
+INFO:root:Filling # 11 question: q496583:11_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:12_answer') and contains(text(), ' principales y secundarios')]
+INFO:root:Getting answer 1 for question q496583:12_answer
+INFO:root:Filling # 12 question: q496583:12_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:13_answer') and contains(text(), ' administrativo')]
+INFO:root:Getting answer 2 for question q496583:13_answer
+INFO:root:Filling # 13 question: q496583:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:14_answer') and text()!=concat('a.',' del líder del proyecto') and text()!=concat('b.',' del líder del proyecto') and text()!=concat('c.',' del líder del proyecto') and text()!=concat('d.',' del líder del proyecto')]
+INFO:root:Getting answer 1 for question q496583:14_answer
+INFO:root:Filling # 14 question: q496583:14_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496583:15_answer') and contains(text(), ' Secundario')]
+INFO:root:Getting answer 0 for question q496583:15_answer
+INFO:root:Filling # 15 question: q496583:15_answer with answer: 0
+
+INFO:root:Finishing attempt #2
+
+INFO:root:Saving answer (2:  Tratamiento adecuado de la Información interna de una empresa)
+INFO:root:Saving answer (4:  Principal)
+INFO:root:Saving answer (9:  diagrama de gantt)
+INFO:root:Saving answer (11:  principales)
+INFO:root:Saving answer (12:  principales y secundarios)
+INFO:root:Saving answer (13:  administrativo)
+INFO:root:Saving answer (15:  Secundario)
+INFO:root:{'11': ' principales', '13': ' administrativo', '12': ' principales y secundarios', '15': ' Secundario', '2': u' Tratamiento adecuado de la Informaci\xf3n interna de una empresa', '4': ' Principal', '9': ' diagrama de gantt'}
+INFO:root:{'10': [' administrativo', u' t\xe9cnicos'], '14': [u' del l\xedder del proyecto', ' inicial'], '1': [' ciclo de vida', u' an\xe1lisis de riesgo'], '3': [' Informe Administrativo del proyecto', ' Informe de Inicio de proyecto'], '5': [u' T\xe9cnico', ' Administrativo'], '4': [' Administrativo'], '7': [' Utilidades en los informes de cierre de proyecto', ' Utilidades para los diagramas de gantt'], '6': [' Utilidades en los informes de cierre de proyecto', u' Lista de productos generados, Otros, en funci\xf3n del proyecto concreto.'], '9': [u' Formato de NO aceptaci\xf3n formal/final del proyecto'], '8': [' Utilidades para los diagramas de gantt', u' Formato de aceptaci\xf3n formal/final del proyecto']}
+INFO:root:
+Starting attempt #3 for ITI ADMONPROYTI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:1_answer') and text()!=concat('a.',' ciclo de vida') and text()!=concat('b.',' ciclo de vida') and text()!=concat('c.',' ciclo de vida') and text()!=concat('d.',' ciclo de vida') and text()!=concat('a.',' análisis de riesgo') and text()!=concat('b.',' análisis de riesgo') and text()!=concat('c.',' análisis de riesgo') and text()!=concat('d.',' análisis de riesgo')]
+INFO:root:Getting answer 0 for question q496585:1_answer
+INFO:root:Filling # 1 question: q496585:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:2_answer') and contains(text(), ' Tratamiento adecuado de la Información interna de una empresa')]
+INFO:root:Getting answer 3 for question q496585:2_answer
+INFO:root:Filling # 2 question: q496585:2_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:3_answer') and text()!=concat('a.',' Informe Administrativo del proyecto') and text()!=concat('b.',' Informe Administrativo del proyecto') and text()!=concat('c.',' Informe Administrativo del proyecto') and text()!=concat('d.',' Informe Administrativo del proyecto') and text()!=concat('a.',' Informe de Inicio de proyecto') and text()!=concat('b.',' Informe de Inicio de proyecto') and text()!=concat('c.',' Informe de Inicio de proyecto') and text()!=concat('d.',' Informe de Inicio de proyecto')]
+INFO:root:Getting answer 0 for question q496585:3_answer
+INFO:root:Filling # 3 question: q496585:3_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:4_answer') and contains(text(), ' Principal')]
+INFO:root:Getting answer 3 for question q496585:4_answer
+INFO:root:Filling # 4 question: q496585:4_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:5_answer') and text()!=concat('a.',' Técnico') and text()!=concat('b.',' Técnico') and text()!=concat('c.',' Técnico') and text()!=concat('d.',' Técnico') and text()!=concat('a.',' Administrativo') and text()!=concat('b.',' Administrativo') and text()!=concat('c.',' Administrativo') and text()!=concat('d.',' Administrativo')]
+INFO:root:Getting answer 0 for question q496585:5_answer
+INFO:root:Filling # 5 question: q496585:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:6_answer') and text()!=concat('a.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('b.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('c.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('d.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('a.',' Lista de productos generados, Otros, en función del proyecto concreto.') and text()!=concat('b.',' Lista de productos generados, Otros, en función del proyecto concreto.') and text()!=concat('c.',' Lista de productos generados, Otros, en función del proyecto concreto.') and text()!=concat('d.',' Lista de productos generados, Otros, en función del proyecto concreto.')]
+INFO:root:Getting answer 0 for question q496585:6_answer
+INFO:root:Filling # 6 question: q496585:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:7_answer') and text()!=concat('a.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('b.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('c.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('d.',' Utilidades en los informes de cierre de proyecto') and text()!=concat('a.',' Utilidades para los diagramas de gantt') and text()!=concat('b.',' Utilidades para los diagramas de gantt') and text()!=concat('c.',' Utilidades para los diagramas de gantt') and text()!=concat('d.',' Utilidades para los diagramas de gantt')]
+INFO:root:Getting answer 1 for question q496585:7_answer
+INFO:root:Filling # 7 question: q496585:7_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:8_answer') and text()!=concat('a.',' Utilidades para los diagramas de gantt') and text()!=concat('b.',' Utilidades para los diagramas de gantt') and text()!=concat('c.',' Utilidades para los diagramas de gantt') and text()!=concat('d.',' Utilidades para los diagramas de gantt') and text()!=concat('a.',' Formato de aceptación formal/final del proyecto') and text()!=concat('b.',' Formato de aceptación formal/final del proyecto') and text()!=concat('c.',' Formato de aceptación formal/final del proyecto') and text()!=concat('d.',' Formato de aceptación formal/final del proyecto')]
+INFO:root:Getting answer 0 for question q496585:8_answer
+INFO:root:Filling # 8 question: q496585:8_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:9_answer') and contains(text(), ' diagrama de gantt')]
+INFO:root:Getting answer 2 for question q496585:9_answer
+INFO:root:Filling # 9 question: q496585:9_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:10_answer') and text()!=concat('a.',' administrativo') and text()!=concat('b.',' administrativo') and text()!=concat('c.',' administrativo') and text()!=concat('d.',' administrativo') and text()!=concat('a.',' técnicos') and text()!=concat('b.',' técnicos') and text()!=concat('c.',' técnicos') and text()!=concat('d.',' técnicos')]
+INFO:root:Getting answer 1 for question q496585:10_answer
+INFO:root:Filling # 10 question: q496585:10_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:11_answer') and contains(text(), ' principales')]
+INFO:root:Getting answer 1 for question q496585:11_answer
+INFO:root:Filling # 11 question: q496585:11_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:12_answer') and contains(text(), ' principales y secundarios')]
+INFO:root:Getting answer 3 for question q496585:12_answer
+INFO:root:Filling # 12 question: q496585:12_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:13_answer') and contains(text(), ' administrativo')]
+INFO:root:Getting answer 2 for question q496585:13_answer
+INFO:root:Filling # 13 question: q496585:13_answer with answer: 2
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:14_answer') and text()!=concat('a.',' del líder del proyecto') and text()!=concat('b.',' del líder del proyecto') and text()!=concat('c.',' del líder del proyecto') and text()!=concat('d.',' del líder del proyecto') and text()!=concat('a.',' inicial') and text()!=concat('b.',' inicial') and text()!=concat('c.',' inicial') and text()!=concat('d.',' inicial')]
+INFO:root:Getting answer 0 for question q496585:14_answer
+INFO:root:Filling # 14 question: q496585:14_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496585:15_answer') and contains(text(), ' Secundario')]
+INFO:root:Getting answer 0 for question q496585:15_answer
+INFO:root:Filling # 15 question: q496585:15_answer with answer: 0
+
+INFO:root:Finishing attempt #3
+
+INFO:root:Saving answer (2:  Tratamiento adecuado de la Información interna de una empresa)
+INFO:root:Saving answer (4:  Principal)
+INFO:root:Saving answer (5:  Principal)
+INFO:root:Saving answer (6:  Descripción detallada de los productos generados)
+INFO:root:Saving answer (7:  Lista de productos generados, Otros, en función del proyecto concreto.)
+INFO:root:Saving answer (8:  Utilidades en los informes de cierre de proyecto)
+INFO:root:Saving answer (9:  diagrama de gantt)
+INFO:root:Saving answer (10:  secundarios)
+INFO:root:Saving answer (11:  principales)
+INFO:root:Saving answer (12:  principales y secundarios)
+INFO:root:Saving answer (13:  administrativo)
+INFO:root:Saving answer (14:  técnico)
+INFO:root:Saving answer (15:  Secundario)
+INFO:root:{'11': ' principales', '10': ' secundarios', '13': ' administrativo', '12': ' principales y secundarios', '15': ' Secundario', '14': u' t\xe9cnico', '2': u' Tratamiento adecuado de la Informaci\xf3n interna de una empresa', '5': ' Principal', '4': ' Principal', '7': u' Lista de productos generados, Otros, en funci\xf3n del proyecto concreto.', '6': u' Descripci\xf3n detallada de los productos generados', '9': ' diagrama de gantt', '8': ' Utilidades en los informes de cierre de proyecto'}
+INFO:root:{'10': [' administrativo', u' t\xe9cnicos'], '14': [u' del l\xedder del proyecto', ' inicial'], '1': [' ciclo de vida', u' an\xe1lisis de riesgo', ' Producto'], '3': [' Informe Administrativo del proyecto', ' Informe de Inicio de proyecto', ' Informe Principal del proyecto'], '5': [u' T\xe9cnico', ' Administrativo'], '4': [' Administrativo'], '7': [' Utilidades en los informes de cierre de proyecto', ' Utilidades para los diagramas de gantt'], '6': [' Utilidades en los informes de cierre de proyecto', u' Lista de productos generados, Otros, en funci\xf3n del proyecto concreto.'], '9': [u' Formato de NO aceptaci\xf3n formal/final del proyecto'], '8': [' Utilidades para los diagramas de gantt', u' Formato de aceptaci\xf3n formal/final del proyecto']}
+INFO:root:
+Starting attempt #4 for ITI ADMONPROYTI: P3A2
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:1_answer') and text()!=concat('a.',' ciclo de vida') and text()!=concat('b.',' ciclo de vida') and text()!=concat('c.',' ciclo de vida') and text()!=concat('d.',' ciclo de vida') and text()!=concat('a.',' análisis de riesgo') and text()!=concat('b.',' análisis de riesgo') and text()!=concat('c.',' análisis de riesgo') and text()!=concat('d.',' análisis de riesgo') and text()!=concat('a.',' Producto') and text()!=concat('b.',' Producto') and text()!=concat('c.',' Producto') and text()!=concat('d.',' Producto')]
+INFO:root:Getting answer 0 for question q496587:1_answer
+INFO:root:Filling # 1 question: q496587:1_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:2_answer') and contains(text(), ' Tratamiento adecuado de la Información interna de una empresa')]
+INFO:root:Getting answer 3 for question q496587:2_answer
+INFO:root:Filling # 2 question: q496587:2_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:3_answer') and text()!=concat('a.',' Informe Administrativo del proyecto') and text()!=concat('b.',' Informe Administrativo del proyecto') and text()!=concat('c.',' Informe Administrativo del proyecto') and text()!=concat('d.',' Informe Administrativo del proyecto') and text()!=concat('a.',' Informe de Inicio de proyecto') and text()!=concat('b.',' Informe de Inicio de proyecto') and text()!=concat('c.',' Informe de Inicio de proyecto') and text()!=concat('d.',' Informe de Inicio de proyecto') and text()!=concat('a.',' Informe Principal del proyecto') and text()!=concat('b.',' Informe Principal del proyecto') and text()!=concat('c.',' Informe Principal del proyecto') and text()!=concat('d.',' Informe Principal del proyecto')]
+INFO:root:Getting answer 3 for question q496587:3_answer
+INFO:root:Filling # 3 question: q496587:3_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:4_answer') and contains(text(), ' Principal')]
+INFO:root:Getting answer 0 for question q496587:4_answer
+INFO:root:Filling # 4 question: q496587:4_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:5_answer') and contains(text(), ' Principal')]
+INFO:root:Getting answer 0 for question q496587:5_answer
+INFO:root:Filling # 5 question: q496587:5_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:6_answer') and contains(text(), ' Descripción detallada de los productos generados')]
+INFO:root:Getting answer 0 for question q496587:6_answer
+INFO:root:Filling # 6 question: q496587:6_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:7_answer') and contains(text(), ' Lista de productos generados, Otros, en función del proyecto concreto.')]
+INFO:root:Getting answer 3 for question q496587:7_answer
+INFO:root:Filling # 7 question: q496587:7_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:8_answer') and contains(text(), ' Utilidades en los informes de cierre de proyecto')]
+INFO:root:Getting answer 1 for question q496587:8_answer
+INFO:root:Filling # 8 question: q496587:8_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:9_answer') and contains(text(), ' diagrama de gantt')]
+INFO:root:Getting answer 1 for question q496587:9_answer
+INFO:root:Filling # 9 question: q496587:9_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:10_answer') and contains(text(), ' secundarios')]
+INFO:root:Getting answer 3 for question q496587:10_answer
+INFO:root:Filling # 10 question: q496587:10_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:11_answer') and contains(text(), ' principales')]
+INFO:root:Getting answer 3 for question q496587:11_answer
+INFO:root:Filling # 11 question: q496587:11_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:12_answer') and contains(text(), ' principales y secundarios')]
+INFO:root:Getting answer 3 for question q496587:12_answer
+INFO:root:Filling # 12 question: q496587:12_answer with answer: 3
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:13_answer') and contains(text(), ' administrativo')]
+INFO:root:Getting answer 0 for question q496587:13_answer
+INFO:root:Filling # 13 question: q496587:13_answer with answer: 0
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:14_answer') and contains(text(), ' técnico')]
+INFO:root:Getting answer 1 for question q496587:14_answer
+INFO:root:Filling # 14 question: q496587:14_answer with answer: 1
+
+INFO:root:Getting with expr: //label[contains(@for, 'q496587:15_answer') and contains(text(), ' Secundario')]
+INFO:root:Getting answer 1 for question q496587:15_answer
+INFO:root:Filling # 15 question: q496587:15_answer with answer: 1
+
+INFO:root:Finishing attempt #4
+
+INFO:root:Saving answer (1:  cierre del Proyecto)
+INFO:root:Saving answer (2:  Tratamiento adecuado de la Información interna de una empresa)
+INFO:root:Saving answer (3:  Informe de Cierre de Proyecto)
+INFO:root:Saving answer (4:  Principal)
+INFO:root:Saving answer (5:  Principal)
+INFO:root:Saving answer (6:  Descripción detallada de los productos generados)
+INFO:root:Saving answer (7:  Lista de productos generados, Otros, en función del proyecto concreto.)
+INFO:root:Saving answer (8:  Utilidades en los informes de cierre de proyecto)
+INFO:root:Saving answer (9:  diagrama de gantt)
+INFO:root:Saving answer (10:  secundarios)
+INFO:root:Saving answer (11:  principales)
+INFO:root:Saving answer (12:  principales y secundarios)
+INFO:root:Saving answer (13:  administrativo)
+INFO:root:Saving answer (14:  técnico)
+INFO:root:Saving answer (15:  Secundario)
+INFO:root:{'11': ' principales', '10': ' secundarios', '13': ' administrativo', '12': ' principales y secundarios', '15': ' Secundario', '14': u' t\xe9cnico', '1': ' cierre del Proyecto', '3': ' Informe de Cierre de Proyecto', '2': u' Tratamiento adecuado de la Informaci\xf3n interna de una empresa', '5': ' Principal', '4': ' Principal', '7': u' Lista de productos generados, Otros, en funci\xf3n del proyecto concreto.', '6': u' Descripci\xf3n detallada de los productos generados', '9': ' diagrama de gantt', '8': ' Utilidades en los informes de cierre de proyecto'}
+INFO:root:{'10': [' administrativo', u' t\xe9cnicos'], '14': [u' del l\xedder del proyecto', ' inicial'], '1': [' ciclo de vida', u' an\xe1lisis de riesgo', ' Producto'], '3': [' Informe Administrativo del proyecto', ' Informe de Inicio de proyecto', ' Informe Principal del proyecto'], '5': [u' T\xe9cnico', ' Administrativo'], '4': [' Administrativo'], '7': [' Utilidades en los informes de cierre de proyecto', ' Utilidades para los diagramas de gantt'], '6': [' Utilidades en los informes de cierre de proyecto', u' Lista de productos generados, Otros, en funci\xf3n del proyecto concreto.'], '9': [u' Formato de NO aceptaci\xf3n formal/final del proyecto'], '8': [' Utilidades para los diagramas de gantt', u' Formato de aceptaci\xf3n formal/final del proyecto']}
+INFO:root:Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITI_ADMONPROYTI__P3A2.html

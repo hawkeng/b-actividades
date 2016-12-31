@@ -1,0 +1,2316 @@
+Starting session with user: 7162@UTCV.EDU.MX
+
+Starting attempt #1 for APII: P2A1
+Getting answer 0 for question q668202:1_answer
+Filling # 1 question: q668202:1_answer with answer: 0
+
+Getting answer 0 for question q668202:2_answer
+Filling # 2 question: q668202:2_answer with answer: 0
+
+Getting answer 0 for question q668202:3_answer
+Filling # 3 question: q668202:3_answer with answer: 0
+
+Getting answer 0 for question q668202:4_answer
+Filling # 4 question: q668202:4_answer with answer: 0
+
+Getting answer 0 for question q668202:5_answer
+Filling # 5 question: q668202:5_answer with answer: 0
+
+Getting answer 0 for question q668202:6_answer
+Filling # 6 question: q668202:6_answer with answer: 0
+
+Getting answer 0 for question q668202:7_answer
+Filling # 7 question: q668202:7_answer with answer: 0
+
+Getting answer 0 for question q668202:8_answer
+Filling # 8 question: q668202:8_answer with answer: 0
+
+Getting answer 0 for question q668202:9_answer
+Filling # 9 question: q668202:9_answer with answer: 0
+
+Getting answer 0 for question q668202:10_answer
+Filling # 10 question: q668202:10_answer with answer: 0
+
+Getting answer 0 for question q668202:11_answer
+Filling # 11 question: q668202:11_answer with answer: 0
+
+Getting answer 0 for question q668202:12_answer
+Filling # 12 question: q668202:12_answer with answer: 0
+
+Getting answer 0 for question q668202:13_answer
+Filling # 13 question: q668202:13_answer with answer: 0
+
+Getting answer 0 for question q668202:14_answer
+Filling # 14 question: q668202:14_answer with answer: 0
+
+Getting answer 0 for question q668202:15_answer
+Filling # 15 question: q668202:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (2:  riesgos internos)
+Saving answer (3:  riesgos externos)
+Saving answer (6:  Requerimientos (requisitos) confusos / incompletos)
+Saving answer (8:  cambio de herramientas a mitad del proyecto)
+Saving answer (12:  de adquisición)
+Saving answer (13:  servicio técnico)
+{'13': u' servicio t\xe9cnico', '12': u' de adquisici\xf3n', '3': ' riesgos externos', '2': ' riesgos internos', '6': ' Requerimientos (requisitos) confusos / incompletos', '8': ' cambio de herramientas a mitad del proyecto'}
+{'11': [' operacional'], '10': [' de muerte'], '15': [' control de riesgos'], '14': [' servicios'], '1': [' sindrome de la panacea'], '5': [u' evaluaci\xf3n de riesgos'], '4': [u' evaluaci\xf3n de riesgos'], '7': [u' Restricciones Contractuales como penalizaciones por no lograr fechas l\xedmite o penalizaciones de la terminaci\xf3n.'], '9': [u' planeaci\xf3n']}
+
+Starting attempt #2 for APII: P2A1
+Getting with expr: //label[contains(@for, 'q668206:1_answer') and text()!=concat('a.',' sindrome de la panacea') and text()!=concat('b.',' sindrome de la panacea') and text()!=concat('c.',' sindrome de la panacea') and text()!=concat('d.',' sindrome de la panacea')]
+Getting answer 1 for question q668206:1_answer
+Filling # 1 question: q668206:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668206:2_answer') and contains(text(), ' riesgos internos')]
+Getting answer 0 for question q668206:2_answer
+Filling # 2 question: q668206:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:3_answer') and contains(text(), ' riesgos externos')]
+Getting answer 0 for question q668206:3_answer
+Filling # 3 question: q668206:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:4_answer') and text()!=concat('a.',' evaluación de riesgos') and text()!=concat('b.',' evaluación de riesgos') and text()!=concat('c.',' evaluación de riesgos') and text()!=concat('d.',' evaluación de riesgos')]
+Getting answer 0 for question q668206:4_answer
+Filling # 4 question: q668206:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:5_answer') and text()!=concat('a.',' evaluación de riesgos') and text()!=concat('b.',' evaluación de riesgos') and text()!=concat('c.',' evaluación de riesgos') and text()!=concat('d.',' evaluación de riesgos')]
+Getting answer 0 for question q668206:5_answer
+Filling # 5 question: q668206:5_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:6_answer') and contains(text(), ' Requerimientos (requisitos) confusos / incompletos')]
+Getting answer 0 for question q668206:6_answer
+Filling # 6 question: q668206:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:7_answer') and text()!=concat('a.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.') and text()!=concat('b.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.') and text()!=concat('c.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.') and text()!=concat('d.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.')]
+Getting answer 0 for question q668206:7_answer
+Filling # 7 question: q668206:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:8_answer') and contains(text(), ' cambio de herramientas a mitad del proyecto')]
+Getting answer 2 for question q668206:8_answer
+Filling # 8 question: q668206:8_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668206:9_answer') and text()!=concat('a.',' planeación') and text()!=concat('b.',' planeación') and text()!=concat('c.',' planeación') and text()!=concat('d.',' planeación')]
+Getting answer 0 for question q668206:9_answer
+Filling # 9 question: q668206:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:10_answer') and text()!=concat('a.',' de muerte') and text()!=concat('b.',' de muerte') and text()!=concat('c.',' de muerte') and text()!=concat('d.',' de muerte')]
+Getting answer 0 for question q668206:10_answer
+Filling # 10 question: q668206:10_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:11_answer') and text()!=concat('a.',' operacional') and text()!=concat('b.',' operacional') and text()!=concat('c.',' operacional') and text()!=concat('d.',' operacional')]
+Getting answer 0 for question q668206:11_answer
+Filling # 11 question: q668206:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:12_answer') and contains(text(), ' de adquisición')]
+Getting answer 1 for question q668206:12_answer
+Filling # 12 question: q668206:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668206:13_answer') and contains(text(), ' servicio técnico')]
+Getting answer 0 for question q668206:13_answer
+Filling # 13 question: q668206:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:14_answer') and text()!=concat('a.',' servicios') and text()!=concat('b.',' servicios') and text()!=concat('c.',' servicios') and text()!=concat('d.',' servicios')]
+Getting answer 0 for question q668206:14_answer
+Filling # 14 question: q668206:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668206:15_answer') and text()!=concat('a.',' control de riesgos') and text()!=concat('b.',' control de riesgos') and text()!=concat('c.',' control de riesgos') and text()!=concat('d.',' control de riesgos')]
+Getting answer 1 for question q668206:15_answer
+Filling # 15 question: q668206:15_answer with answer: 1
+
+Finishing attempt #2
+
+Saving answer (2:  riesgos internos)
+Saving answer (3:  riesgos externos)
+Saving answer (4:  riesgo inherente)
+Saving answer (5:  riesgo adquirido)
+Saving answer (6:  Requerimientos (requisitos) confusos / incompletos)
+Saving answer (8:  cambio de herramientas a mitad del proyecto)
+Saving answer (9:  outsourcing)
+Saving answer (10:  conceptual)
+Saving answer (11:  de definición)
+Saving answer (12:  de adquisición)
+Saving answer (13:  servicio técnico)
+{'11': u' de definici\xf3n', '10': ' conceptual', '13': u' servicio t\xe9cnico', '12': u' de adquisici\xf3n', '3': ' riesgos externos', '2': ' riesgos internos', '5': ' riesgo adquirido', '4': ' riesgo inherente', '6': ' Requerimientos (requisitos) confusos / incompletos', '9': ' outsourcing', '8': ' cambio de herramientas a mitad del proyecto'}
+{'11': [' operacional'], '10': [' de muerte'], '15': [' control de riesgos', u' evaluaci\xf3n de riesgos'], '14': [' servicios', u' servicios t\xe9cnicos'], '1': [' sindrome de la panacea', u' falta de participaci\xf3n del usuario'], '5': [u' evaluaci\xf3n de riesgos'], '4': [u' evaluaci\xf3n de riesgos'], '7': [u' Restricciones Contractuales como penalizaciones por no lograr fechas l\xedmite o penalizaciones de la terminaci\xf3n.', u' Rotaci\xf3n del personal'], '9': [u' planeaci\xf3n']}
+
+Starting attempt #3 for APII: P2A1
+Getting with expr: //label[contains(@for, 'q668207:1_answer') and text()!=concat('a.',' sindrome de la panacea') and text()!=concat('b.',' sindrome de la panacea') and text()!=concat('c.',' sindrome de la panacea') and text()!=concat('d.',' sindrome de la panacea') and text()!=concat('a.',' falta de participación del usuario') and text()!=concat('b.',' falta de participación del usuario') and text()!=concat('c.',' falta de participación del usuario') and text()!=concat('d.',' falta de participación del usuario')]
+Getting answer 1 for question q668207:1_answer
+Filling # 1 question: q668207:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668207:2_answer') and contains(text(), ' riesgos internos')]
+Getting answer 2 for question q668207:2_answer
+Filling # 2 question: q668207:2_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668207:3_answer') and contains(text(), ' riesgos externos')]
+Getting answer 0 for question q668207:3_answer
+Filling # 3 question: q668207:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668207:4_answer') and contains(text(), ' riesgo inherente')]
+Getting answer 0 for question q668207:4_answer
+Filling # 4 question: q668207:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668207:5_answer') and contains(text(), ' riesgo adquirido')]
+Getting answer 2 for question q668207:5_answer
+Filling # 5 question: q668207:5_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668207:6_answer') and contains(text(), ' Requerimientos (requisitos) confusos / incompletos')]
+Getting answer 0 for question q668207:6_answer
+Filling # 6 question: q668207:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668207:7_answer') and text()!=concat('a.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.') and text()!=concat('b.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.') and text()!=concat('c.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.') and text()!=concat('d.',' Restricciones Contractuales como penalizaciones por no lograr fechas límite o penalizaciones de la terminación.') and text()!=concat('a.',' Rotación del personal') and text()!=concat('b.',' Rotación del personal') and text()!=concat('c.',' Rotación del personal') and text()!=concat('d.',' Rotación del personal')]
+Getting answer 1 for question q668207:7_answer
+Filling # 7 question: q668207:7_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668207:8_answer') and contains(text(), ' cambio de herramientas a mitad del proyecto')]
+Getting answer 2 for question q668207:8_answer
+Filling # 8 question: q668207:8_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668207:9_answer') and contains(text(), ' outsourcing')]
+Getting answer 0 for question q668207:9_answer
+Filling # 9 question: q668207:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668207:10_answer') and contains(text(), ' conceptual')]
+Getting answer 2 for question q668207:10_answer
+Filling # 10 question: q668207:10_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668207:11_answer') and contains(text(), ' de definición')]
+Getting answer 1 for question q668207:11_answer
+Filling # 11 question: q668207:11_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668207:12_answer') and contains(text(), ' de adquisición')]
+Getting answer 1 for question q668207:12_answer
+Filling # 12 question: q668207:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668207:13_answer') and contains(text(), ' servicio técnico')]
+Getting answer 1 for question q668207:13_answer
+Filling # 13 question: q668207:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668207:14_answer') and text()!=concat('a.',' servicios') and text()!=concat('b.',' servicios') and text()!=concat('c.',' servicios') and text()!=concat('d.',' servicios') and text()!=concat('a.',' servicios técnicos') and text()!=concat('b.',' servicios técnicos') and text()!=concat('c.',' servicios técnicos') and text()!=concat('d.',' servicios técnicos')]
+Getting answer 2 for question q668207:14_answer
+Filling # 14 question: q668207:14_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668207:15_answer') and text()!=concat('a.',' control de riesgos') and text()!=concat('b.',' control de riesgos') and text()!=concat('c.',' control de riesgos') and text()!=concat('d.',' control de riesgos') and text()!=concat('a.',' evaluación de riesgos') and text()!=concat('b.',' evaluación de riesgos') and text()!=concat('c.',' evaluación de riesgos') and text()!=concat('d.',' evaluación de riesgos')]
+Getting answer 2 for question q668207:15_answer
+Filling # 15 question: q668207:15_answer with answer: 2
+
+Finishing attempt #3
+
+Saving answer (1:  cambio en los requerimientos)
+Saving answer (2:  riesgos internos)
+Saving answer (3:  riesgos externos)
+Saving answer (4:  riesgo inherente)
+Saving answer (5:  riesgo adquirido)
+Saving answer (6:  Requerimientos (requisitos) confusos / incompletos)
+Saving answer (7:  Estimaciones no precisas)
+Saving answer (8:  cambio de herramientas a mitad del proyecto)
+Saving answer (9:  outsourcing)
+Saving answer (10:  conceptual)
+Saving answer (11:  de definición)
+Saving answer (12:  de adquisición)
+Saving answer (13:  servicio técnico)
+Saving answer (14:  servicios profesionales)
+Saving answer (15:  la administración de riesgos)
+{'11': u' de definici\xf3n', '10': ' conceptual', '13': u' servicio t\xe9cnico', '12': u' de adquisici\xf3n', '15': u' la administraci\xf3n de riesgos', '14': ' servicios profesionales', '1': ' cambio en los requerimientos', '3': ' riesgos externos', '2': ' riesgos internos', '5': ' riesgo adquirido', '4': ' riesgo inherente', '7': ' Estimaciones no precisas', '6': ' Requerimientos (requisitos) confusos / incompletos', '9': ' outsourcing', '8': ' cambio de herramientas a mitad del proyecto'}
+{'11': [' operacional'], '10': [' de muerte'], '15': [' control de riesgos', u' evaluaci\xf3n de riesgos'], '14': [' servicios', u' servicios t\xe9cnicos'], '1': [' sindrome de la panacea', u' falta de participaci\xf3n del usuario'], '5': [u' evaluaci\xf3n de riesgos'], '4': [u' evaluaci\xf3n de riesgos'], '7': [u' Restricciones Contractuales como penalizaciones por no lograr fechas l\xedmite o penalizaciones de la terminaci\xf3n.', u' Rotaci\xf3n del personal'], '9': [u' planeaci\xf3n']}
+
+Starting attempt #4 for APII: P2A1
+Getting with expr: //label[contains(@for, 'q668208:1_answer') and contains(text(), ' cambio en los requerimientos')]
+Getting answer 0 for question q668208:1_answer
+Filling # 1 question: q668208:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668208:2_answer') and contains(text(), ' riesgos internos')]
+Getting answer 1 for question q668208:2_answer
+Filling # 2 question: q668208:2_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668208:3_answer') and contains(text(), ' riesgos externos')]
+Getting answer 1 for question q668208:3_answer
+Filling # 3 question: q668208:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668208:4_answer') and contains(text(), ' riesgo inherente')]
+Getting answer 2 for question q668208:4_answer
+Filling # 4 question: q668208:4_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668208:5_answer') and contains(text(), ' riesgo adquirido')]
+Getting answer 0 for question q668208:5_answer
+Filling # 5 question: q668208:5_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668208:6_answer') and contains(text(), ' Requerimientos (requisitos) confusos / incompletos')]
+Getting answer 2 for question q668208:6_answer
+Filling # 6 question: q668208:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668208:7_answer') and contains(text(), ' Estimaciones no precisas')]
+Getting answer 0 for question q668208:7_answer
+Filling # 7 question: q668208:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668208:8_answer') and contains(text(), ' cambio de herramientas a mitad del proyecto')]
+Getting answer 1 for question q668208:8_answer
+Filling # 8 question: q668208:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668208:9_answer') and contains(text(), ' outsourcing')]
+Getting answer 0 for question q668208:9_answer
+Filling # 9 question: q668208:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668208:10_answer') and contains(text(), ' conceptual')]
+Getting answer 1 for question q668208:10_answer
+Filling # 10 question: q668208:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668208:11_answer') and contains(text(), ' de definición')]
+Getting answer 0 for question q668208:11_answer
+Filling # 11 question: q668208:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668208:12_answer') and contains(text(), ' de adquisición')]
+Getting answer 1 for question q668208:12_answer
+Filling # 12 question: q668208:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668208:13_answer') and contains(text(), ' servicio técnico')]
+Getting answer 0 for question q668208:13_answer
+Filling # 13 question: q668208:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668208:14_answer') and contains(text(), ' servicios profesionales')]
+Getting answer 0 for question q668208:14_answer
+Filling # 14 question: q668208:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668208:15_answer') and contains(text(), ' la administración de riesgos')]
+Getting answer 0 for question q668208:15_answer
+Filling # 15 question: q668208:15_answer with answer: 0
+
+Finishing attempt #4
+
+Saving answer (1:  cambio en los requerimientos)
+Saving answer (2:  riesgos internos)
+Saving answer (3:  riesgos externos)
+Saving answer (4:  riesgo inherente)
+Saving answer (5:  riesgo adquirido)
+Saving answer (6:  Requerimientos (requisitos) confusos / incompletos)
+Saving answer (7:  Estimaciones no precisas)
+Saving answer (8:  cambio de herramientas a mitad del proyecto)
+Saving answer (9:  outsourcing)
+Saving answer (10:  conceptual)
+Saving answer (11:  de definición)
+Saving answer (12:  de adquisición)
+Saving answer (13:  servicio técnico)
+Saving answer (14:  servicios profesionales)
+Saving answer (15:  la administración de riesgos)
+{'11': u' de definici\xf3n', '10': ' conceptual', '13': u' servicio t\xe9cnico', '12': u' de adquisici\xf3n', '15': u' la administraci\xf3n de riesgos', '14': ' servicios profesionales', '1': ' cambio en los requerimientos', '3': ' riesgos externos', '2': ' riesgos internos', '5': ' riesgo adquirido', '4': ' riesgo inherente', '7': ' Estimaciones no precisas', '6': ' Requerimientos (requisitos) confusos / incompletos', '9': ' outsourcing', '8': ' cambio de herramientas a mitad del proyecto'}
+{'11': [' operacional'], '10': [' de muerte'], '15': [' control de riesgos', u' evaluaci\xf3n de riesgos'], '14': [' servicios', u' servicios t\xe9cnicos'], '1': [' sindrome de la panacea', u' falta de participaci\xf3n del usuario'], '5': [u' evaluaci\xf3n de riesgos'], '4': [u' evaluaci\xf3n de riesgos'], '7': [u' Restricciones Contractuales como penalizaciones por no lograr fechas l\xedmite o penalizaciones de la terminaci\xf3n.', u' Rotaci\xf3n del personal'], '9': [u' planeaci\xf3n']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/APII__P2A1.html
+
+Starting attempt #1 for APII: P2A2
+Getting answer 0 for question q668209:1_answer
+Filling # 1 question: q668209:1_answer with answer: 0
+
+Getting answer 0 for question q668209:2_answer
+Filling # 2 question: q668209:2_answer with answer: 0
+
+Getting answer 0 for question q668209:3_answer
+Filling # 3 question: q668209:3_answer with answer: 0
+
+Getting answer 0 for question q668209:4_answer
+Filling # 4 question: q668209:4_answer with answer: 0
+
+Getting answer 0 for question q668209:5_answer
+Filling # 5 question: q668209:5_answer with answer: 0
+
+Getting answer 0 for question q668209:6_answer
+Filling # 6 question: q668209:6_answer with answer: 0
+
+Getting answer 0 for question q668209:7_answer
+Filling # 7 question: q668209:7_answer with answer: 0
+
+Getting answer 0 for question q668209:8_answer
+Filling # 8 question: q668209:8_answer with answer: 0
+
+Getting answer 0 for question q668209:9_answer
+Filling # 9 question: q668209:9_answer with answer: 0
+
+Getting answer 0 for question q668209:10_answer
+Filling # 10 question: q668209:10_answer with answer: 0
+
+Getting answer 0 for question q668209:11_answer
+Filling # 11 question: q668209:11_answer with answer: 0
+
+Getting answer 0 for question q668209:12_answer
+Filling # 12 question: q668209:12_answer with answer: 0
+
+Getting answer 0 for question q668209:13_answer
+Filling # 13 question: q668209:13_answer with answer: 0
+
+Getting answer 0 for question q668209:14_answer
+Filling # 14 question: q668209:14_answer with answer: 0
+
+Getting answer 0 for question q668209:15_answer
+Filling # 15 question: q668209:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (2:  1	Cuantificación del Riesgo)
+Saving answer (3:  1.-Desarrollo de Respuesta al Riesgo)
+Saving answer (5:  listas de chequeo)
+Saving answer (13:  programa)
+Saving answer (14:  técnica de trabajo en cada fase)
+{'3': ' 1.-Desarrollo de Respuesta al Riesgo', '2': u' 1\tCuantificaci\xf3n del Riesgo', '5': ' listas de chequeo', '13': ' programa', '14': u' t\xe9cnica de trabajo en cada fase'}
+{'11': [' roles'], '10': [' control'], '12': [' programa'], '15': [u' 2.\tCuantificaci\xf3n del Riesgo'], '1': [' Requerimientos (requisitos) confusos / incompletos'], '4': [u' 3.-Identificaci\xf3n del Riesgo'], '7': [' flujograma'], '6': [' listas de chequeo'], '9': [' Nuevo ambiente de desarrollo'], '8': [u' M\xe9tricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con informaci\xf3n insuficiente tiempo llevan a un riesgo mayor.']}
+
+Starting attempt #2 for APII: P2A2
+Getting with expr: //label[contains(@for, 'q668210:1_answer') and text()!=concat('a.',' Requerimientos (requisitos) confusos / incompletos') and text()!=concat('b.',' Requerimientos (requisitos) confusos / incompletos') and text()!=concat('c.',' Requerimientos (requisitos) confusos / incompletos') and text()!=concat('d.',' Requerimientos (requisitos) confusos / incompletos')]
+Getting answer 1 for question q668210:1_answer
+Filling # 1 question: q668210:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668210:2_answer') and contains(text(), ' 1	Cuantificación del Riesgo')]
+Getting answer 0 for question q668210:2_answer
+Filling # 2 question: q668210:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668210:3_answer') and contains(text(), ' 1.-Desarrollo de Respuesta al Riesgo')]
+Getting answer 2 for question q668210:3_answer
+Filling # 3 question: q668210:3_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668210:4_answer') and text()!=concat('a.',' 3.-Identificación del Riesgo') and text()!=concat('b.',' 3.-Identificación del Riesgo') and text()!=concat('c.',' 3.-Identificación del Riesgo') and text()!=concat('d.',' 3.-Identificación del Riesgo')]
+Getting answer 0 for question q668210:4_answer
+Filling # 4 question: q668210:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668210:5_answer') and contains(text(), ' listas de chequeo')]
+Getting answer 1 for question q668210:5_answer
+Filling # 5 question: q668210:5_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668210:6_answer') and text()!=concat('a.',' listas de chequeo') and text()!=concat('b.',' listas de chequeo') and text()!=concat('c.',' listas de chequeo') and text()!=concat('d.',' listas de chequeo')]
+Getting answer 1 for question q668210:6_answer
+Filling # 6 question: q668210:6_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668210:7_answer') and text()!=concat('a.',' flujograma') and text()!=concat('b.',' flujograma') and text()!=concat('c.',' flujograma') and text()!=concat('d.',' flujograma')]
+Getting answer 0 for question q668210:7_answer
+Filling # 7 question: q668210:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668210:8_answer') and text()!=concat('a.',' Métricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con información insuficiente tiempo llevan a un riesgo mayor.') and text()!=concat('b.',' Métricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con información insuficiente tiempo llevan a un riesgo mayor.') and text()!=concat('c.',' Métricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con información insuficiente tiempo llevan a un riesgo mayor.') and text()!=concat('d.',' Métricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con información insuficiente tiempo llevan a un riesgo mayor.')]
+Getting answer 0 for question q668210:8_answer
+Filling # 8 question: q668210:8_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668210:9_answer') and text()!=concat('a.',' Nuevo ambiente de desarrollo') and text()!=concat('b.',' Nuevo ambiente de desarrollo') and text()!=concat('c.',' Nuevo ambiente de desarrollo') and text()!=concat('d.',' Nuevo ambiente de desarrollo')]
+Getting answer 1 for question q668210:9_answer
+Filling # 9 question: q668210:9_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668210:10_answer') and text()!=concat('a.',' control') and text()!=concat('b.',' control') and text()!=concat('c.',' control') and text()!=concat('d.',' control')]
+Getting answer 1 for question q668210:10_answer
+Filling # 10 question: q668210:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668210:11_answer') and text()!=concat('a.',' roles') and text()!=concat('b.',' roles') and text()!=concat('c.',' roles') and text()!=concat('d.',' roles')]
+Getting answer 0 for question q668210:11_answer
+Filling # 11 question: q668210:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668210:12_answer') and text()!=concat('a.',' programa') and text()!=concat('b.',' programa') and text()!=concat('c.',' programa') and text()!=concat('d.',' programa')]
+Getting answer 1 for question q668210:12_answer
+Filling # 12 question: q668210:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668210:13_answer') and contains(text(), ' programa')]
+Getting answer 1 for question q668210:13_answer
+Filling # 13 question: q668210:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668210:14_answer') and contains(text(), ' técnica de trabajo en cada fase')]
+Getting answer 2 for question q668210:14_answer
+Filling # 14 question: q668210:14_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668210:15_answer') and text()!=concat('a.',' 2.	Cuantificación del Riesgo') and text()!=concat('b.',' 2.	Cuantificación del Riesgo') and text()!=concat('c.',' 2.	Cuantificación del Riesgo') and text()!=concat('d.',' 2.	Cuantificación del Riesgo')]
+Getting answer 0 for question q668210:15_answer
+Filling # 15 question: q668210:15_answer with answer: 0
+
+Finishing attempt #2
+
+Saving answer (1:  Equipo faltante o Inadecuado)
+Saving answer (2:  1	Cuantificación del Riesgo)
+Saving answer (3:  1.-Desarrollo de Respuesta al Riesgo)
+Saving answer (5:  listas de chequeo)
+Saving answer (8:  Nueva tecnologia)
+Saving answer (10:  tiempo)
+Saving answer (11:  ciclo de vida del proyecto)
+Saving answer (13:  programa)
+Saving answer (14:  técnica de trabajo en cada fase)
+{'11': ' ciclo de vida del proyecto', '10': ' tiempo', '13': ' programa', '14': u' t\xe9cnica de trabajo en cada fase', '1': ' Equipo faltante o Inadecuado', '3': ' 1.-Desarrollo de Respuesta al Riesgo', '2': u' 1\tCuantificaci\xf3n del Riesgo', '5': ' listas de chequeo', '8': ' Nueva tecnologia'}
+{'11': [' roles'], '10': [' control'], '12': [' programa', ' ciclo de vida de proyectos'], '15': [u' 2.\tCuantificaci\xf3n del Riesgo', ' 3.\tDesarrollo de Respuesta al Riesgo'], '1': [' Requerimientos (requisitos) confusos / incompletos'], '4': [u' 3.-Identificaci\xf3n del Riesgo', ' 2.-Desarrollo de Respuesta al Riesgo'], '7': [' flujograma', ' listas de chequeo'], '6': [' listas de chequeo', ' entrevistas'], '9': [' Nuevo ambiente de desarrollo', u' Rotaci\xf3n del personal'], '8': [u' M\xe9tricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con informaci\xf3n insuficiente tiempo llevan a un riesgo mayor.']}
+
+Starting attempt #3 for APII: P2A2
+Getting with expr: //label[contains(@for, 'q668213:1_answer') and contains(text(), ' Equipo faltante o Inadecuado')]
+Getting answer 1 for question q668213:1_answer
+Filling # 1 question: q668213:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668213:2_answer') and contains(text(), ' 1	Cuantificación del Riesgo')]
+Getting answer 1 for question q668213:2_answer
+Filling # 2 question: q668213:2_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668213:3_answer') and contains(text(), ' 1.-Desarrollo de Respuesta al Riesgo')]
+Getting answer 2 for question q668213:3_answer
+Filling # 3 question: q668213:3_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668213:4_answer') and text()!=concat('a.',' 3.-Identificación del Riesgo') and text()!=concat('b.',' 3.-Identificación del Riesgo') and text()!=concat('c.',' 3.-Identificación del Riesgo') and text()!=concat('d.',' 3.-Identificación del Riesgo') and text()!=concat('a.',' 2.-Desarrollo de Respuesta al Riesgo') and text()!=concat('b.',' 2.-Desarrollo de Respuesta al Riesgo') and text()!=concat('c.',' 2.-Desarrollo de Respuesta al Riesgo') and text()!=concat('d.',' 2.-Desarrollo de Respuesta al Riesgo')]
+Getting answer 2 for question q668213:4_answer
+Filling # 4 question: q668213:4_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668213:5_answer') and contains(text(), ' listas de chequeo')]
+Getting answer 0 for question q668213:5_answer
+Filling # 5 question: q668213:5_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668213:6_answer') and text()!=concat('a.',' listas de chequeo') and text()!=concat('b.',' listas de chequeo') and text()!=concat('c.',' listas de chequeo') and text()!=concat('d.',' listas de chequeo') and text()!=concat('a.',' entrevistas') and text()!=concat('b.',' entrevistas') and text()!=concat('c.',' entrevistas') and text()!=concat('d.',' entrevistas')]
+Getting answer 2 for question q668213:6_answer
+Filling # 6 question: q668213:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668213:7_answer') and text()!=concat('a.',' flujograma') and text()!=concat('b.',' flujograma') and text()!=concat('c.',' flujograma') and text()!=concat('d.',' flujograma') and text()!=concat('a.',' listas de chequeo') and text()!=concat('b.',' listas de chequeo') and text()!=concat('c.',' listas de chequeo') and text()!=concat('d.',' listas de chequeo')]
+Getting answer 0 for question q668213:7_answer
+Filling # 7 question: q668213:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668213:8_answer') and contains(text(), ' Nueva tecnologia')]
+Getting answer 1 for question q668213:8_answer
+Filling # 8 question: q668213:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668213:9_answer') and text()!=concat('a.',' Nuevo ambiente de desarrollo') and text()!=concat('b.',' Nuevo ambiente de desarrollo') and text()!=concat('c.',' Nuevo ambiente de desarrollo') and text()!=concat('d.',' Nuevo ambiente de desarrollo') and text()!=concat('a.',' Rotación del personal') and text()!=concat('b.',' Rotación del personal') and text()!=concat('c.',' Rotación del personal') and text()!=concat('d.',' Rotación del personal')]
+Getting answer 0 for question q668213:9_answer
+Filling # 9 question: q668213:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668213:10_answer') and contains(text(), ' tiempo')]
+Getting answer 0 for question q668213:10_answer
+Filling # 10 question: q668213:10_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668213:11_answer') and contains(text(), ' ciclo de vida del proyecto')]
+Getting answer 0 for question q668213:11_answer
+Filling # 11 question: q668213:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668213:12_answer') and text()!=concat('a.',' programa') and text()!=concat('b.',' programa') and text()!=concat('c.',' programa') and text()!=concat('d.',' programa') and text()!=concat('a.',' ciclo de vida de proyectos') and text()!=concat('b.',' ciclo de vida de proyectos') and text()!=concat('c.',' ciclo de vida de proyectos') and text()!=concat('d.',' ciclo de vida de proyectos')]
+Getting answer 2 for question q668213:12_answer
+Filling # 12 question: q668213:12_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668213:13_answer') and contains(text(), ' programa')]
+Getting answer 1 for question q668213:13_answer
+Filling # 13 question: q668213:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668213:14_answer') and contains(text(), ' técnica de trabajo en cada fase')]
+Getting answer 0 for question q668213:14_answer
+Filling # 14 question: q668213:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668213:15_answer') and text()!=concat('a.',' 2.	Cuantificación del Riesgo') and text()!=concat('b.',' 2.	Cuantificación del Riesgo') and text()!=concat('c.',' 2.	Cuantificación del Riesgo') and text()!=concat('d.',' 2.	Cuantificación del Riesgo') and text()!=concat('a.',' 3.	Desarrollo de Respuesta al Riesgo') and text()!=concat('b.',' 3.	Desarrollo de Respuesta al Riesgo') and text()!=concat('c.',' 3.	Desarrollo de Respuesta al Riesgo') and text()!=concat('d.',' 3.	Desarrollo de Respuesta al Riesgo')]
+Getting answer 2 for question q668213:15_answer
+Filling # 15 question: q668213:15_answer with answer: 2
+
+Finishing attempt #3
+
+Saving answer (1:  Equipo faltante o Inadecuado)
+Saving answer (2:  1	Cuantificación del Riesgo)
+Saving answer (3:  1.-Desarrollo de Respuesta al Riesgo)
+Saving answer (4:  1.-Control de Respuesta al Riesgo)
+Saving answer (5:  listas de chequeo)
+Saving answer (6:  flujogramas)
+Saving answer (7:  entrevistas)
+Saving answer (8:  Nueva tecnologia)
+Saving answer (9:  Descomposición de Tareas (WBS) – una descomposición inadecuada falla en identificar todas las actividades que son parte del proyecto.)
+Saving answer (10:  tiempo)
+Saving answer (11:  ciclo de vida del proyecto)
+Saving answer (12:  portafolio)
+Saving answer (13:  programa)
+Saving answer (14:  técnica de trabajo en cada fase)
+Saving answer (15:  1.	Identificación del Riesgo)
+{'11': ' ciclo de vida del proyecto', '10': ' tiempo', '13': ' programa', '12': ' portafolio', '15': u' 1.\tIdentificaci\xf3n del Riesgo', '14': u' t\xe9cnica de trabajo en cada fase', '1': ' Equipo faltante o Inadecuado', '3': ' 1.-Desarrollo de Respuesta al Riesgo', '2': u' 1\tCuantificaci\xf3n del Riesgo', '5': ' listas de chequeo', '4': ' 1.-Control de Respuesta al Riesgo', '7': ' entrevistas', '6': ' flujogramas', '9': u' Descomposici\xf3n de Tareas (WBS) \u2013 una descomposici\xf3n inadecuada falla en identificar todas las actividades que son parte del proyecto.', '8': ' Nueva tecnologia'}
+{'11': [' roles'], '10': [' control'], '12': [' programa', ' ciclo de vida de proyectos'], '15': [u' 2.\tCuantificaci\xf3n del Riesgo', ' 3.\tDesarrollo de Respuesta al Riesgo'], '1': [' Requerimientos (requisitos) confusos / incompletos'], '4': [u' 3.-Identificaci\xf3n del Riesgo', ' 2.-Desarrollo de Respuesta al Riesgo'], '7': [' flujograma', ' listas de chequeo'], '6': [' listas de chequeo', ' entrevistas'], '9': [' Nuevo ambiente de desarrollo', u' Rotaci\xf3n del personal'], '8': [u' M\xe9tricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con informaci\xf3n insuficiente tiempo llevan a un riesgo mayor.']}
+
+Starting attempt #4 for APII: P2A2
+Getting with expr: //label[contains(@for, 'q668216:1_answer') and contains(text(), ' Equipo faltante o Inadecuado')]
+Getting answer 2 for question q668216:1_answer
+Filling # 1 question: q668216:1_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668216:2_answer') and contains(text(), ' 1	Cuantificación del Riesgo')]
+Getting answer 1 for question q668216:2_answer
+Filling # 2 question: q668216:2_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668216:3_answer') and contains(text(), ' 1.-Desarrollo de Respuesta al Riesgo')]
+Getting answer 0 for question q668216:3_answer
+Filling # 3 question: q668216:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668216:4_answer') and contains(text(), ' 1.-Control de Respuesta al Riesgo')]
+Getting answer 0 for question q668216:4_answer
+Filling # 4 question: q668216:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668216:5_answer') and contains(text(), ' listas de chequeo')]
+Getting answer 1 for question q668216:5_answer
+Filling # 5 question: q668216:5_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668216:6_answer') and contains(text(), ' flujogramas')]
+Getting answer 2 for question q668216:6_answer
+Filling # 6 question: q668216:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668216:7_answer') and contains(text(), ' entrevistas')]
+Getting answer 0 for question q668216:7_answer
+Filling # 7 question: q668216:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668216:8_answer') and contains(text(), ' Nueva tecnologia')]
+Getting answer 1 for question q668216:8_answer
+Filling # 8 question: q668216:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668216:9_answer') and contains(text(), ' Descomposición de Tareas (WBS) – una descomposición inadecuada falla en identificar todas las actividades que son parte del proyecto.')]
+Getting answer 0 for question q668216:9_answer
+Filling # 9 question: q668216:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668216:10_answer') and contains(text(), ' tiempo')]
+Getting answer 1 for question q668216:10_answer
+Filling # 10 question: q668216:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668216:11_answer') and contains(text(), ' ciclo de vida del proyecto')]
+Getting answer 2 for question q668216:11_answer
+Filling # 11 question: q668216:11_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668216:12_answer') and contains(text(), ' portafolio')]
+Getting answer 0 for question q668216:12_answer
+Filling # 12 question: q668216:12_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668216:13_answer') and contains(text(), ' programa')]
+Getting answer 2 for question q668216:13_answer
+Filling # 13 question: q668216:13_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668216:14_answer') and contains(text(), ' técnica de trabajo en cada fase')]
+Getting answer 2 for question q668216:14_answer
+Filling # 14 question: q668216:14_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668216:15_answer') and contains(text(), ' 1.	Identificación del Riesgo')]
+Getting answer 1 for question q668216:15_answer
+Filling # 15 question: q668216:15_answer with answer: 1
+
+Finishing attempt #4
+
+Saving answer (1:  Equipo faltante o Inadecuado)
+Saving answer (2:  1	Cuantificación del Riesgo)
+Saving answer (3:  1.-Desarrollo de Respuesta al Riesgo)
+Saving answer (4:  1.-Control de Respuesta al Riesgo)
+Saving answer (5:  listas de chequeo)
+Saving answer (6:  flujogramas)
+Saving answer (7:  entrevistas)
+Saving answer (8:  Nueva tecnologia)
+Saving answer (9:  Descomposición de Tareas (WBS) – una descomposición inadecuada falla en identificar todas las actividades que son parte del proyecto.)
+Saving answer (10:  tiempo)
+Saving answer (11:  ciclo de vida del proyecto)
+Saving answer (12:  portafolio)
+Saving answer (13:  programa)
+Saving answer (14:  técnica de trabajo en cada fase)
+Saving answer (15:  1.	Identificación del Riesgo)
+{'11': ' ciclo de vida del proyecto', '10': ' tiempo', '13': ' programa', '12': ' portafolio', '15': u' 1.\tIdentificaci\xf3n del Riesgo', '14': u' t\xe9cnica de trabajo en cada fase', '1': ' Equipo faltante o Inadecuado', '3': ' 1.-Desarrollo de Respuesta al Riesgo', '2': u' 1\tCuantificaci\xf3n del Riesgo', '5': ' listas de chequeo', '4': ' 1.-Control de Respuesta al Riesgo', '7': ' entrevistas', '6': ' flujogramas', '9': u' Descomposici\xf3n de Tareas (WBS) \u2013 una descomposici\xf3n inadecuada falla en identificar todas las actividades que son parte del proyecto.', '8': ' Nueva tecnologia'}
+{'11': [' roles'], '10': [' control'], '12': [' programa', ' ciclo de vida de proyectos'], '15': [u' 2.\tCuantificaci\xf3n del Riesgo', ' 3.\tDesarrollo de Respuesta al Riesgo'], '1': [' Requerimientos (requisitos) confusos / incompletos'], '4': [u' 3.-Identificaci\xf3n del Riesgo', ' 2.-Desarrollo de Respuesta al Riesgo'], '7': [' flujograma', ' listas de chequeo'], '6': [' listas de chequeo', ' entrevistas'], '9': [' Nuevo ambiente de desarrollo', u' Rotaci\xf3n del personal'], '8': [u' M\xe9tricas: estimaciones de tiempo y costo- las estimaciones agresivas o las desarrolladas con informaci\xf3n insuficiente tiempo llevan a un riesgo mayor.']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/APII__P2A2.html
+
+Starting attempt #1 for AT: P2A1
+Getting answer 0 for question q668217:1_answer
+Filling # 1 question: q668217:1_answer with answer: 0
+
+Getting answer 0 for question q668217:2_answer
+Filling # 2 question: q668217:2_answer with answer: 0
+
+Getting answer 0 for question q668217:3_answer
+Filling # 3 question: q668217:3_answer with answer: 0
+
+Getting answer 0 for question q668217:4_answer
+Filling # 4 question: q668217:4_answer with answer: 0
+
+Getting answer 0 for question q668217:5_answer
+Filling # 5 question: q668217:5_answer with answer: 0
+
+Getting answer 0 for question q668217:6_answer
+Filling # 6 question: q668217:6_answer with answer: 0
+
+Getting answer 0 for question q668217:7_answer
+Filling # 7 question: q668217:7_answer with answer: 0
+
+Getting answer 0 for question q668217:8_answer
+Filling # 8 question: q668217:8_answer with answer: 0
+
+Getting answer 0 for question q668217:9_answer
+Filling # 9 question: q668217:9_answer with answer: 0
+
+Getting answer 0 for question q668217:10_answer
+Filling # 10 question: q668217:10_answer with answer: 0
+
+Getting answer 0 for question q668217:11_answer
+Filling # 11 question: q668217:11_answer with answer: 0
+
+Getting answer 0 for question q668217:12_answer
+Filling # 12 question: q668217:12_answer with answer: 0
+
+Getting answer 0 for question q668217:13_answer
+Filling # 13 question: q668217:13_answer with answer: 0
+
+Getting answer 0 for question q668217:14_answer
+Filling # 14 question: q668217:14_answer with answer: 0
+
+Getting answer 0 for question q668217:15_answer
+Filling # 15 question: q668217:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (2:  NOM-088/2-SCT1-2002)
+Saving answer (5:  Densidad de potencia capturada)
+Saving answer (6:  NOM-121-SCT1-2009)
+Saving answer (12:  NOM-0088/1-SCT1-2002)
+{'12': ' NOM-0088/1-SCT1-2002', '2': ' NOM-088/2-SCT1-2002', '5': ' Densidad de potencia capturada', '6': ' NOM-121-SCT1-2009'}
+{'11': [' Antena de Hertz'], '10': [' Doblete elemental'], '13': [' Abertura porcentual'], '15': [' dispositivo pasivo'], '14': [u' Antena b\xe1sica'], '1': [' Resistencia de voltaje'], '3': [' Dipolo doblado'], '4': [' Dipolo normal'], '7': [' Anena Yagi'], '9': [' Antena de Yagi'], '8': [' Antena Yagi']}
+
+Starting attempt #2 for AT: P2A1
+Getting with expr: //label[contains(@for, 'q668218:1_answer') and text()!=concat('a.',' Resistencia de voltaje') and text()!=concat('b.',' Resistencia de voltaje') and text()!=concat('c.',' Resistencia de voltaje') and text()!=concat('d.',' Resistencia de voltaje')]
+Getting answer 1 for question q668218:1_answer
+Filling # 1 question: q668218:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668218:2_answer') and contains(text(), ' NOM-088/2-SCT1-2002')]
+Getting answer 2 for question q668218:2_answer
+Filling # 2 question: q668218:2_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668218:3_answer') and text()!=concat('a.',' Dipolo doblado') and text()!=concat('b.',' Dipolo doblado') and text()!=concat('c.',' Dipolo doblado') and text()!=concat('d.',' Dipolo doblado')]
+Getting answer 1 for question q668218:3_answer
+Filling # 3 question: q668218:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668218:4_answer') and text()!=concat('a.',' Dipolo normal') and text()!=concat('b.',' Dipolo normal') and text()!=concat('c.',' Dipolo normal') and text()!=concat('d.',' Dipolo normal')]
+Getting answer 1 for question q668218:4_answer
+Filling # 4 question: q668218:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668218:5_answer') and contains(text(), ' Densidad de potencia capturada')]
+Getting answer 2 for question q668218:5_answer
+Filling # 5 question: q668218:5_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668218:6_answer') and contains(text(), ' NOM-121-SCT1-2009')]
+Getting answer 1 for question q668218:6_answer
+Filling # 6 question: q668218:6_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668218:7_answer') and text()!=concat('a.',' Anena Yagi') and text()!=concat('b.',' Anena Yagi') and text()!=concat('c.',' Anena Yagi') and text()!=concat('d.',' Anena Yagi')]
+Getting answer 0 for question q668218:7_answer
+Filling # 7 question: q668218:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668218:8_answer') and text()!=concat('a.',' Antena Yagi') and text()!=concat('b.',' Antena Yagi') and text()!=concat('c.',' Antena Yagi') and text()!=concat('d.',' Antena Yagi')]
+Getting answer 0 for question q668218:8_answer
+Filling # 8 question: q668218:8_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668218:9_answer') and text()!=concat('a.',' Antena de Yagi') and text()!=concat('b.',' Antena de Yagi') and text()!=concat('c.',' Antena de Yagi') and text()!=concat('d.',' Antena de Yagi')]
+Getting answer 0 for question q668218:9_answer
+Filling # 9 question: q668218:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668218:10_answer') and text()!=concat('a.',' Doblete elemental') and text()!=concat('b.',' Doblete elemental') and text()!=concat('c.',' Doblete elemental') and text()!=concat('d.',' Doblete elemental')]
+Getting answer 0 for question q668218:10_answer
+Filling # 10 question: q668218:10_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668218:11_answer') and text()!=concat('a.',' Antena de Hertz') and text()!=concat('b.',' Antena de Hertz') and text()!=concat('c.',' Antena de Hertz') and text()!=concat('d.',' Antena de Hertz')]
+Getting answer 1 for question q668218:11_answer
+Filling # 11 question: q668218:11_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668218:12_answer') and contains(text(), ' NOM-0088/1-SCT1-2002')]
+Getting answer 1 for question q668218:12_answer
+Filling # 12 question: q668218:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668218:13_answer') and text()!=concat('a.',' Abertura porcentual') and text()!=concat('b.',' Abertura porcentual') and text()!=concat('c.',' Abertura porcentual') and text()!=concat('d.',' Abertura porcentual')]
+Getting answer 0 for question q668218:13_answer
+Filling # 13 question: q668218:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668218:14_answer') and text()!=concat('a.',' Antena básica') and text()!=concat('b.',' Antena básica') and text()!=concat('c.',' Antena básica') and text()!=concat('d.',' Antena básica')]
+Getting answer 1 for question q668218:14_answer
+Filling # 14 question: q668218:14_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668218:15_answer') and text()!=concat('a.',' dispositivo pasivo') and text()!=concat('b.',' dispositivo pasivo') and text()!=concat('c.',' dispositivo pasivo') and text()!=concat('d.',' dispositivo pasivo')]
+Getting answer 0 for question q668218:15_answer
+Filling # 15 question: q668218:15_answer with answer: 0
+
+Finishing attempt #2
+
+Saving answer (1:  Resistenca de radiación)
+Saving answer (2:  NOM-088/2-SCT1-2002)
+Saving answer (4:  Antena de Hertz)
+Saving answer (5:  Densidad de potencia capturada)
+Saving answer (6:  NOM-121-SCT1-2009)
+Saving answer (9:  Dipolo doblado)
+Saving answer (12:  NOM-0088/1-SCT1-2002)
+{'12': ' NOM-0088/1-SCT1-2002', '1': u' Resistenca de radiaci\xf3n', '2': ' NOM-088/2-SCT1-2002', '5': ' Densidad de potencia capturada', '4': ' Antena de Hertz', '6': ' NOM-121-SCT1-2009', '9': ' Dipolo doblado'}
+{'11': [' Antena de Hertz', ' Antena'], '10': [' Doblete elemental', ' Monopolo'], '13': [' Abertura porcentual', u' Abertura \xf3ptima'], '15': [' dispositivo pasivo', ' dispositivo vivo'], '14': [u' Antena b\xe1sica', ' Antena'], '1': [' Resistencia de voltaje'], '3': [' Dipolo doblado', ' Antena'], '4': [' Dipolo normal'], '7': [' Anena Yagi', ' Antena de torniquete'], '9': [' Antena de Yagi'], '8': [' Antena Yagi', ' dipolo doblado']}
+
+Starting attempt #3 for AT: P2A1
+Getting with expr: //label[contains(@for, 'q668219:1_answer') and contains(text(), ' Resistenca de radiación')]
+Getting answer 3 for question q668219:1_answer
+Filling # 1 question: q668219:1_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668219:2_answer') and contains(text(), ' NOM-088/2-SCT1-2002')]
+Getting answer 2 for question q668219:2_answer
+Filling # 2 question: q668219:2_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668219:3_answer') and text()!=concat('a.',' Dipolo doblado') and text()!=concat('b.',' Dipolo doblado') and text()!=concat('c.',' Dipolo doblado') and text()!=concat('d.',' Dipolo doblado') and text()!=concat('a.',' Antena') and text()!=concat('b.',' Antena') and text()!=concat('c.',' Antena') and text()!=concat('d.',' Antena')]
+Getting answer 1 for question q668219:3_answer
+Filling # 3 question: q668219:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668219:4_answer') and contains(text(), ' Antena de Hertz')]
+Getting answer 1 for question q668219:4_answer
+Filling # 4 question: q668219:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668219:5_answer') and contains(text(), ' Densidad de potencia capturada')]
+Getting answer 3 for question q668219:5_answer
+Filling # 5 question: q668219:5_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668219:6_answer') and contains(text(), ' NOM-121-SCT1-2009')]
+Getting answer 2 for question q668219:6_answer
+Filling # 6 question: q668219:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668219:7_answer') and text()!=concat('a.',' Anena Yagi') and text()!=concat('b.',' Anena Yagi') and text()!=concat('c.',' Anena Yagi') and text()!=concat('d.',' Anena Yagi') and text()!=concat('a.',' Antena de torniquete') and text()!=concat('b.',' Antena de torniquete') and text()!=concat('c.',' Antena de torniquete') and text()!=concat('d.',' Antena de torniquete')]
+Getting answer 1 for question q668219:7_answer
+Filling # 7 question: q668219:7_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668219:8_answer') and text()!=concat('a.',' Antena Yagi') and text()!=concat('b.',' Antena Yagi') and text()!=concat('c.',' Antena Yagi') and text()!=concat('d.',' Antena Yagi') and text()!=concat('a.',' dipolo doblado') and text()!=concat('b.',' dipolo doblado') and text()!=concat('c.',' dipolo doblado') and text()!=concat('d.',' dipolo doblado')]
+Getting answer 0 for question q668219:8_answer
+Filling # 8 question: q668219:8_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668219:9_answer') and contains(text(), ' Dipolo doblado')]
+Getting answer 1 for question q668219:9_answer
+Filling # 9 question: q668219:9_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668219:10_answer') and text()!=concat('a.',' Doblete elemental') and text()!=concat('b.',' Doblete elemental') and text()!=concat('c.',' Doblete elemental') and text()!=concat('d.',' Doblete elemental') and text()!=concat('a.',' Monopolo') and text()!=concat('b.',' Monopolo') and text()!=concat('c.',' Monopolo') and text()!=concat('d.',' Monopolo')]
+Getting answer 2 for question q668219:10_answer
+Filling # 10 question: q668219:10_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668219:11_answer') and text()!=concat('a.',' Antena de Hertz') and text()!=concat('b.',' Antena de Hertz') and text()!=concat('c.',' Antena de Hertz') and text()!=concat('d.',' Antena de Hertz') and text()!=concat('a.',' Antena') and text()!=concat('b.',' Antena') and text()!=concat('c.',' Antena') and text()!=concat('d.',' Antena')]
+Getting answer 0 for question q668219:11_answer
+Filling # 11 question: q668219:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668219:12_answer') and contains(text(), ' NOM-0088/1-SCT1-2002')]
+Getting answer 0 for question q668219:12_answer
+Filling # 12 question: q668219:12_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668219:13_answer') and text()!=concat('a.',' Abertura porcentual') and text()!=concat('b.',' Abertura porcentual') and text()!=concat('c.',' Abertura porcentual') and text()!=concat('d.',' Abertura porcentual') and text()!=concat('a.',' Abertura óptima') and text()!=concat('b.',' Abertura óptima') and text()!=concat('c.',' Abertura óptima') and text()!=concat('d.',' Abertura óptima')]
+Getting answer 2 for question q668219:13_answer
+Filling # 13 question: q668219:13_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668219:14_answer') and text()!=concat('a.',' Antena básica') and text()!=concat('b.',' Antena básica') and text()!=concat('c.',' Antena básica') and text()!=concat('d.',' Antena básica') and text()!=concat('a.',' Antena') and text()!=concat('b.',' Antena') and text()!=concat('c.',' Antena') and text()!=concat('d.',' Antena')]
+Getting answer 1 for question q668219:14_answer
+Filling # 14 question: q668219:14_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668219:15_answer') and text()!=concat('a.',' dispositivo pasivo') and text()!=concat('b.',' dispositivo pasivo') and text()!=concat('c.',' dispositivo pasivo') and text()!=concat('d.',' dispositivo pasivo') and text()!=concat('a.',' dispositivo vivo') and text()!=concat('b.',' dispositivo vivo') and text()!=concat('c.',' dispositivo vivo') and text()!=concat('d.',' dispositivo vivo')]
+Getting answer 1 for question q668219:15_answer
+Filling # 15 question: q668219:15_answer with answer: 1
+
+Finishing attempt #3
+
+Saving answer (1:  Resistenca de radiación)
+Saving answer (2:  NOM-088/2-SCT1-2002)
+Saving answer (3:  Antena Yagi)
+Saving answer (4:  Antena de Hertz)
+Saving answer (5:  Densidad de potencia capturada)
+Saving answer (6:  NOM-121-SCT1-2009)
+Saving answer (8:  Antena de torniquete)
+Saving answer (9:  Dipolo doblado)
+Saving answer (11:  Antena de Marconi)
+Saving answer (12:  NOM-0088/1-SCT1-2002)
+Saving answer (14:  Doblete elementa)
+Saving answer (15:  dispositivo recíproco activo)
+{'11': ' Antena de Marconi', '12': ' NOM-0088/1-SCT1-2002', '15': u' dispositivo rec\xedproco activo', '14': ' Doblete elementa', '1': u' Resistenca de radiaci\xf3n', '3': ' Antena Yagi', '2': ' NOM-088/2-SCT1-2002', '5': ' Densidad de potencia capturada', '4': ' Antena de Hertz', '6': ' NOM-121-SCT1-2009', '9': ' Dipolo doblado', '8': ' Antena de torniquete'}
+{'11': [' Antena de Hertz', ' Antena'], '10': [' Doblete elemental', ' Monopolo', u' Monopolo de trayector\xeda libre'], '13': [' Abertura porcentual', u' Abertura \xf3ptima', ' Abertura de haz'], '15': [' dispositivo pasivo', ' dispositivo vivo'], '14': [u' Antena b\xe1sica', ' Antena'], '1': [' Resistencia de voltaje'], '3': [' Dipolo doblado', ' Antena'], '4': [' Dipolo normal'], '7': [' Anena Yagi', ' Antena de torniquete', ' Antena'], '9': [' Antena de Yagi'], '8': [' Antena Yagi', ' dipolo doblado']}
+
+Starting attempt #4 for AT: P2A1
+Getting with expr: //label[contains(@for, 'q668221:1_answer') and contains(text(), ' Resistenca de radiación')]
+Getting answer 0 for question q668221:1_answer
+Filling # 1 question: q668221:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668221:2_answer') and contains(text(), ' NOM-088/2-SCT1-2002')]
+Getting answer 3 for question q668221:2_answer
+Filling # 2 question: q668221:2_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:3_answer') and contains(text(), ' Antena Yagi')]
+Getting answer 1 for question q668221:3_answer
+Filling # 3 question: q668221:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668221:4_answer') and contains(text(), ' Antena de Hertz')]
+Getting answer 3 for question q668221:4_answer
+Filling # 4 question: q668221:4_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:5_answer') and contains(text(), ' Densidad de potencia capturada')]
+Getting answer 1 for question q668221:5_answer
+Filling # 5 question: q668221:5_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668221:6_answer') and contains(text(), ' NOM-121-SCT1-2009')]
+Getting answer 2 for question q668221:6_answer
+Filling # 6 question: q668221:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668221:7_answer') and text()!=concat('a.',' Anena Yagi') and text()!=concat('b.',' Anena Yagi') and text()!=concat('c.',' Anena Yagi') and text()!=concat('d.',' Anena Yagi') and text()!=concat('a.',' Antena de torniquete') and text()!=concat('b.',' Antena de torniquete') and text()!=concat('c.',' Antena de torniquete') and text()!=concat('d.',' Antena de torniquete') and text()!=concat('a.',' Antena') and text()!=concat('b.',' Antena') and text()!=concat('c.',' Antena') and text()!=concat('d.',' Antena')]
+Getting answer 3 for question q668221:7_answer
+Filling # 7 question: q668221:7_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:8_answer') and contains(text(), ' Antena de torniquete')]
+Getting answer 3 for question q668221:8_answer
+Filling # 8 question: q668221:8_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:9_answer') and contains(text(), ' Dipolo doblado')]
+Getting answer 3 for question q668221:9_answer
+Filling # 9 question: q668221:9_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:10_answer') and text()!=concat('a.',' Doblete elemental') and text()!=concat('b.',' Doblete elemental') and text()!=concat('c.',' Doblete elemental') and text()!=concat('d.',' Doblete elemental') and text()!=concat('a.',' Monopolo') and text()!=concat('b.',' Monopolo') and text()!=concat('c.',' Monopolo') and text()!=concat('d.',' Monopolo') and text()!=concat('a.',' Monopolo de trayectoría libre') and text()!=concat('b.',' Monopolo de trayectoría libre') and text()!=concat('c.',' Monopolo de trayectoría libre') and text()!=concat('d.',' Monopolo de trayectoría libre')]
+Getting answer 1 for question q668221:10_answer
+Filling # 10 question: q668221:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668221:11_answer') and contains(text(), ' Antena de Marconi')]
+Getting answer 0 for question q668221:11_answer
+Filling # 11 question: q668221:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668221:12_answer') and contains(text(), ' NOM-0088/1-SCT1-2002')]
+Getting answer 3 for question q668221:12_answer
+Filling # 12 question: q668221:12_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:13_answer') and text()!=concat('a.',' Abertura porcentual') and text()!=concat('b.',' Abertura porcentual') and text()!=concat('c.',' Abertura porcentual') and text()!=concat('d.',' Abertura porcentual') and text()!=concat('a.',' Abertura óptima') and text()!=concat('b.',' Abertura óptima') and text()!=concat('c.',' Abertura óptima') and text()!=concat('d.',' Abertura óptima') and text()!=concat('a.',' Abertura de haz') and text()!=concat('b.',' Abertura de haz') and text()!=concat('c.',' Abertura de haz') and text()!=concat('d.',' Abertura de haz')]
+Getting answer 3 for question q668221:13_answer
+Filling # 13 question: q668221:13_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:14_answer') and contains(text(), ' Doblete elementa')]
+Getting answer 3 for question q668221:14_answer
+Filling # 14 question: q668221:14_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668221:15_answer') and contains(text(), ' dispositivo recíproco activo')]
+Getting answer 2 for question q668221:15_answer
+Filling # 15 question: q668221:15_answer with answer: 2
+
+Finishing attempt #4
+
+Saving answer (1:  Resistenca de radiación)
+Saving answer (2:  NOM-088/2-SCT1-2002)
+Saving answer (3:  Antena Yagi)
+Saving answer (4:  Antena de Hertz)
+Saving answer (5:  Densidad de potencia capturada)
+Saving answer (6:  NOM-121-SCT1-2009)
+Saving answer (7:  Antena de cuadro)
+Saving answer (8:  Antena de torniquete)
+Saving answer (9:  Dipolo doblado)
+Saving answer (10:  Antena de Hertz)
+Saving answer (11:  Antena de Marconi)
+Saving answer (12:  NOM-0088/1-SCT1-2002)
+Saving answer (13:  Abertura del haz de la antena)
+Saving answer (14:  Doblete elementa)
+Saving answer (15:  dispositivo recíproco activo)
+{'11': ' Antena de Marconi', '10': ' Antena de Hertz', '13': ' Abertura del haz de la antena', '12': ' NOM-0088/1-SCT1-2002', '15': u' dispositivo rec\xedproco activo', '14': ' Doblete elementa', '1': u' Resistenca de radiaci\xf3n', '3': ' Antena Yagi', '2': ' NOM-088/2-SCT1-2002', '5': ' Densidad de potencia capturada', '4': ' Antena de Hertz', '7': ' Antena de cuadro', '6': ' NOM-121-SCT1-2009', '9': ' Dipolo doblado', '8': ' Antena de torniquete'}
+{'11': [' Antena de Hertz', ' Antena'], '10': [' Doblete elemental', ' Monopolo', u' Monopolo de trayector\xeda libre'], '13': [' Abertura porcentual', u' Abertura \xf3ptima', ' Abertura de haz'], '15': [' dispositivo pasivo', ' dispositivo vivo'], '14': [u' Antena b\xe1sica', ' Antena'], '1': [' Resistencia de voltaje'], '3': [' Dipolo doblado', ' Antena'], '4': [' Dipolo normal'], '7': [' Anena Yagi', ' Antena de torniquete', ' Antena'], '9': [' Antena de Yagi'], '8': [' Antena Yagi', ' dipolo doblado']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/AT__P2A1.html
+
+Starting attempt #1 for AT: P2A2
+Getting answer 0 for question q668222:1_answer
+Filling # 1 question: q668222:1_answer with answer: 0
+
+Getting answer 0 for question q668222:2_answer
+Filling # 2 question: q668222:2_answer with answer: 0
+
+Getting answer 0 for question q668222:3_answer
+Filling # 3 question: q668222:3_answer with answer: 0
+
+Getting answer 0 for question q668222:4_answer
+Filling # 4 question: q668222:4_answer with answer: 0
+
+Getting answer 0 for question q668222:5_answer
+Filling # 5 question: q668222:5_answer with answer: 0
+
+Getting answer 0 for question q668222:6_answer
+Filling # 6 question: q668222:6_answer with answer: 0
+
+Getting answer 0 for question q668222:7_answer
+Filling # 7 question: q668222:7_answer with answer: 0
+
+Getting answer 0 for question q668222:8_answer
+Filling # 8 question: q668222:8_answer with answer: 0
+
+Getting answer 0 for question q668222:9_answer
+Filling # 9 question: q668222:9_answer with answer: 0
+
+Getting answer 0 for question q668222:10_answer
+Filling # 10 question: q668222:10_answer with answer: 0
+
+Getting answer 0 for question q668222:11_answer
+Filling # 11 question: q668222:11_answer with answer: 0
+
+Getting answer 0 for question q668222:12_answer
+Filling # 12 question: q668222:12_answer with answer: 0
+
+Getting answer 0 for question q668222:13_answer
+Filling # 13 question: q668222:13_answer with answer: 0
+
+Getting answer 0 for question q668222:14_answer
+Filling # 14 question: q668222:14_answer with answer: 0
+
+Getting answer 0 for question q668222:15_answer
+Filling # 15 question: q668222:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (4:  Tierra aislada)
+Saving answer (5:  Conductor puesta a tierra)
+Saving answer (9:  Supresores de pico)
+Saving answer (11:  Sistema de tierra)
+Saving answer (14:  Cono de aceptación)
+{'9': ' Supresores de pico', '11': ' Sistema de tierra', '5': ' Conductor puesta a tierra', '4': ' Tierra aislada', '14': u' Cono de aceptaci\xf3n'}
+{'10': [' Conductor puesta a tierra'], '13': [u' Fibra multimodal de \xedndice graduado'], '12': [u' Cono de aceptaci\xf3n'], '15': [' Antena de torniquete.'], '1': [' Antena cuadrada'], '3': [' Red de tierra'], '2': [' Antena helicoidal.'], '7': [u' Conexi\xf3n a tierra'], '6': [' Supresores de pico'], '8': [' Tierra blindada']}
+
+Starting attempt #2 for AT: P2A2
+Getting with expr: //label[contains(@for, 'q668223:1_answer') and text()!=concat('a.',' Antena cuadrada') and text()!=concat('b.',' Antena cuadrada') and text()!=concat('c.',' Antena cuadrada') and text()!=concat('d.',' Antena cuadrada')]
+Getting answer 0 for question q668223:1_answer
+Filling # 1 question: q668223:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:2_answer') and text()!=concat('a.',' Antena helicoidal.') and text()!=concat('b.',' Antena helicoidal.') and text()!=concat('c.',' Antena helicoidal.') and text()!=concat('d.',' Antena helicoidal.')]
+Getting answer 0 for question q668223:2_answer
+Filling # 2 question: q668223:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:3_answer') and text()!=concat('a.',' Red de tierra') and text()!=concat('b.',' Red de tierra') and text()!=concat('c.',' Red de tierra') and text()!=concat('d.',' Red de tierra')]
+Getting answer 0 for question q668223:3_answer
+Filling # 3 question: q668223:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:4_answer') and contains(text(), ' Tierra aislada')]
+Getting answer 3 for question q668223:4_answer
+Filling # 4 question: q668223:4_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668223:5_answer') and contains(text(), ' Conductor puesta a tierra')]
+Getting answer 2 for question q668223:5_answer
+Filling # 5 question: q668223:5_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668223:6_answer') and text()!=concat('a.',' Supresores de pico') and text()!=concat('b.',' Supresores de pico') and text()!=concat('c.',' Supresores de pico') and text()!=concat('d.',' Supresores de pico')]
+Getting answer 0 for question q668223:6_answer
+Filling # 6 question: q668223:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:7_answer') and text()!=concat('a.',' Conexión a tierra') and text()!=concat('b.',' Conexión a tierra') and text()!=concat('c.',' Conexión a tierra') and text()!=concat('d.',' Conexión a tierra')]
+Getting answer 0 for question q668223:7_answer
+Filling # 7 question: q668223:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:8_answer') and text()!=concat('a.',' Tierra blindada') and text()!=concat('b.',' Tierra blindada') and text()!=concat('c.',' Tierra blindada') and text()!=concat('d.',' Tierra blindada')]
+Getting answer 0 for question q668223:8_answer
+Filling # 8 question: q668223:8_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:9_answer') and contains(text(), ' Supresores de pico')]
+Getting answer 2 for question q668223:9_answer
+Filling # 9 question: q668223:9_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668223:10_answer') and text()!=concat('a.',' Conductor puesta a tierra') and text()!=concat('b.',' Conductor puesta a tierra') and text()!=concat('c.',' Conductor puesta a tierra') and text()!=concat('d.',' Conductor puesta a tierra')]
+Getting answer 0 for question q668223:10_answer
+Filling # 10 question: q668223:10_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:11_answer') and contains(text(), ' Sistema de tierra')]
+Getting answer 0 for question q668223:11_answer
+Filling # 11 question: q668223:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:12_answer') and text()!=concat('a.',' Cono de aceptación') and text()!=concat('b.',' Cono de aceptación') and text()!=concat('c.',' Cono de aceptación') and text()!=concat('d.',' Cono de aceptación')]
+Getting answer 0 for question q668223:12_answer
+Filling # 12 question: q668223:12_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:13_answer') and text()!=concat('a.',' Fibra multimodal de índice graduado') and text()!=concat('b.',' Fibra multimodal de índice graduado') and text()!=concat('c.',' Fibra multimodal de índice graduado') and text()!=concat('d.',' Fibra multimodal de índice graduado')]
+Getting answer 0 for question q668223:13_answer
+Filling # 13 question: q668223:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668223:14_answer') and contains(text(), ' Cono de aceptación')]
+Getting answer 3 for question q668223:14_answer
+Filling # 14 question: q668223:14_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668223:15_answer') and text()!=concat('a.',' Antena de torniquete.') and text()!=concat('b.',' Antena de torniquete.') and text()!=concat('c.',' Antena de torniquete.') and text()!=concat('d.',' Antena de torniquete.')]
+Getting answer 0 for question q668223:15_answer
+Filling # 15 question: q668223:15_answer with answer: 0
+
+Finishing attempt #2
+
+Saving answer (1:  Antena de reflector parabólico.)
+Saving answer (4:  Tierra aislada)
+Saving answer (5:  Conductor puesta a tierra)
+Saving answer (6:  Conexión a tierra)
+Saving answer (9:  Supresores de pico)
+Saving answer (11:  Sistema de tierra)
+Saving answer (14:  Cono de aceptación)
+{'11': ' Sistema de tierra', '14': u' Cono de aceptaci\xf3n', '1': u' Antena de reflector parab\xf3lico.', '5': ' Conductor puesta a tierra', '4': ' Tierra aislada', '6': u' Conexi\xf3n a tierra', '9': ' Supresores de pico'}
+{'10': [' Conductor puesta a tierra', u' Puente uni\xf3n'], '13': [u' Fibra multimodal de \xedndice graduado', u' Fibra multimodal de \xedndice escalonado'], '12': [u' Cono de aceptaci\xf3n', u' \xc1ngulo de transmisi\xf3n'], '15': [' Antena de torniquete.', ' Antena'], '1': [' Antena cuadrada'], '3': [' Red de tierra', ' Red de antenas'], '2': [' Antena helicoidal.', ' Antena'], '7': [u' Conexi\xf3n a tierra', ' Conductor'], '6': [' Supresores de pico'], '8': [' Tierra blindada', ' Tierra aislada']}
+
+Starting attempt #3 for AT: P2A2
+Getting with expr: //label[contains(@for, 'q668225:1_answer') and contains(text(), ' Antena de reflector parabólico.')]
+Getting answer 2 for question q668225:1_answer
+Filling # 1 question: q668225:1_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668225:2_answer') and text()!=concat('a.',' Antena helicoidal.') and text()!=concat('b.',' Antena helicoidal.') and text()!=concat('c.',' Antena helicoidal.') and text()!=concat('d.',' Antena helicoidal.') and text()!=concat('a.',' Antena') and text()!=concat('b.',' Antena') and text()!=concat('c.',' Antena') and text()!=concat('d.',' Antena')]
+Getting answer 0 for question q668225:2_answer
+Filling # 2 question: q668225:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668225:3_answer') and text()!=concat('a.',' Red de tierra') and text()!=concat('b.',' Red de tierra') and text()!=concat('c.',' Red de tierra') and text()!=concat('d.',' Red de tierra') and text()!=concat('a.',' Red de antenas') and text()!=concat('b.',' Red de antenas') and text()!=concat('c.',' Red de antenas') and text()!=concat('d.',' Red de antenas')]
+Getting answer 1 for question q668225:3_answer
+Filling # 3 question: q668225:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668225:4_answer') and contains(text(), ' Tierra aislada')]
+Getting answer 1 for question q668225:4_answer
+Filling # 4 question: q668225:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668225:5_answer') and contains(text(), ' Conductor puesta a tierra')]
+Getting answer 2 for question q668225:5_answer
+Filling # 5 question: q668225:5_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668225:6_answer') and contains(text(), ' Conexión a tierra')]
+Getting answer 0 for question q668225:6_answer
+Filling # 6 question: q668225:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668225:7_answer') and text()!=concat('a.',' Conexión a tierra') and text()!=concat('b.',' Conexión a tierra') and text()!=concat('c.',' Conexión a tierra') and text()!=concat('d.',' Conexión a tierra') and text()!=concat('a.',' Conductor') and text()!=concat('b.',' Conductor') and text()!=concat('c.',' Conductor') and text()!=concat('d.',' Conductor')]
+Getting answer 2 for question q668225:7_answer
+Filling # 7 question: q668225:7_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668225:8_answer') and text()!=concat('a.',' Tierra blindada') and text()!=concat('b.',' Tierra blindada') and text()!=concat('c.',' Tierra blindada') and text()!=concat('d.',' Tierra blindada') and text()!=concat('a.',' Tierra aislada') and text()!=concat('b.',' Tierra aislada') and text()!=concat('c.',' Tierra aislada') and text()!=concat('d.',' Tierra aislada')]
+Getting answer 2 for question q668225:8_answer
+Filling # 8 question: q668225:8_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668225:9_answer') and contains(text(), ' Supresores de pico')]
+Getting answer 2 for question q668225:9_answer
+Filling # 9 question: q668225:9_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668225:10_answer') and text()!=concat('a.',' Conductor puesta a tierra') and text()!=concat('b.',' Conductor puesta a tierra') and text()!=concat('c.',' Conductor puesta a tierra') and text()!=concat('d.',' Conductor puesta a tierra') and text()!=concat('a.',' Puente unión') and text()!=concat('b.',' Puente unión') and text()!=concat('c.',' Puente unión') and text()!=concat('d.',' Puente unión')]
+Getting answer 2 for question q668225:10_answer
+Filling # 10 question: q668225:10_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668225:11_answer') and contains(text(), ' Sistema de tierra')]
+Getting answer 1 for question q668225:11_answer
+Filling # 11 question: q668225:11_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668225:12_answer') and text()!=concat('a.',' Cono de aceptación') and text()!=concat('b.',' Cono de aceptación') and text()!=concat('c.',' Cono de aceptación') and text()!=concat('d.',' Cono de aceptación') and text()!=concat('a.',' Ángulo de transmisión') and text()!=concat('b.',' Ángulo de transmisión') and text()!=concat('c.',' Ángulo de transmisión') and text()!=concat('d.',' Ángulo de transmisión')]
+Getting answer 0 for question q668225:12_answer
+Filling # 12 question: q668225:12_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668225:13_answer') and text()!=concat('a.',' Fibra multimodal de índice graduado') and text()!=concat('b.',' Fibra multimodal de índice graduado') and text()!=concat('c.',' Fibra multimodal de índice graduado') and text()!=concat('d.',' Fibra multimodal de índice graduado') and text()!=concat('a.',' Fibra multimodal de índice escalonado') and text()!=concat('b.',' Fibra multimodal de índice escalonado') and text()!=concat('c.',' Fibra multimodal de índice escalonado') and text()!=concat('d.',' Fibra multimodal de índice escalonado')]
+Getting answer 2 for question q668225:13_answer
+Filling # 13 question: q668225:13_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668225:14_answer') and contains(text(), ' Cono de aceptación')]
+Getting answer 0 for question q668225:14_answer
+Filling # 14 question: q668225:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668225:15_answer') and text()!=concat('a.',' Antena de torniquete.') and text()!=concat('b.',' Antena de torniquete.') and text()!=concat('c.',' Antena de torniquete.') and text()!=concat('d.',' Antena de torniquete.') and text()!=concat('a.',' Antena') and text()!=concat('b.',' Antena') and text()!=concat('c.',' Antena') and text()!=concat('d.',' Antena')]
+Getting answer 0 for question q668225:15_answer
+Filling # 15 question: q668225:15_answer with answer: 0
+
+Finishing attempt #3
+
+Saving answer (1:  Antena de reflector parabólico.)
+Saving answer (2:  Antenas de conjunto enfasado)
+Saving answer (4:  Tierra aislada)
+Saving answer (5:  Conductor puesta a tierra)
+Saving answer (6:  Conexión a tierra)
+Saving answer (7:  Electrodos)
+Saving answer (9:  Supresores de pico)
+Saving answer (10:  Red de tierra)
+Saving answer (11:  Sistema de tierra)
+Saving answer (14:  Cono de aceptación)
+Saving answer (15:  Antena helicoidal.)
+{'11': ' Sistema de tierra', '10': ' Red de tierra', '15': ' Antena helicoidal.', '14': u' Cono de aceptaci\xf3n', '1': u' Antena de reflector parab\xf3lico.', '2': ' Antenas de conjunto enfasado', '5': ' Conductor puesta a tierra', '4': ' Tierra aislada', '7': ' Electrodos', '6': u' Conexi\xf3n a tierra', '9': ' Supresores de pico'}
+{'10': [' Conductor puesta a tierra', u' Puente uni\xf3n'], '13': [u' Fibra multimodal de \xedndice graduado', u' Fibra multimodal de \xedndice escalonado', ' Fibra monomodo'], '12': [u' Cono de aceptaci\xf3n', u' \xc1ngulo de transmisi\xf3n', u' \xc1ngulo de aceptaci\xf3n'], '15': [' Antena de torniquete.', ' Antena'], '1': [' Antena cuadrada'], '3': [' Red de tierra', ' Red de antenas', ' Conductor puesta a tierra'], '2': [' Antena helicoidal.', ' Antena'], '7': [u' Conexi\xf3n a tierra', ' Conductor'], '6': [' Supresores de pico'], '8': [' Tierra blindada', ' Tierra aislada', u' Conexi\xf3n a tierra']}
+
+Starting attempt #4 for AT: P2A2
+Getting with expr: //label[contains(@for, 'q668226:1_answer') and contains(text(), ' Antena de reflector parabólico.')]
+Getting answer 3 for question q668226:1_answer
+Filling # 1 question: q668226:1_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668226:2_answer') and contains(text(), ' Antenas de conjunto enfasado')]
+Getting answer 0 for question q668226:2_answer
+Filling # 2 question: q668226:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668226:3_answer') and text()!=concat('a.',' Red de tierra') and text()!=concat('b.',' Red de tierra') and text()!=concat('c.',' Red de tierra') and text()!=concat('d.',' Red de tierra') and text()!=concat('a.',' Red de antenas') and text()!=concat('b.',' Red de antenas') and text()!=concat('c.',' Red de antenas') and text()!=concat('d.',' Red de antenas') and text()!=concat('a.',' Conductor puesta a tierra') and text()!=concat('b.',' Conductor puesta a tierra') and text()!=concat('c.',' Conductor puesta a tierra') and text()!=concat('d.',' Conductor puesta a tierra')]
+Getting answer 2 for question q668226:3_answer
+Filling # 3 question: q668226:3_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668226:4_answer') and contains(text(), ' Tierra aislada')]
+Getting answer 0 for question q668226:4_answer
+Filling # 4 question: q668226:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668226:5_answer') and contains(text(), ' Conductor puesta a tierra')]
+Getting answer 2 for question q668226:5_answer
+Filling # 5 question: q668226:5_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668226:6_answer') and contains(text(), ' Conexión a tierra')]
+Getting answer 1 for question q668226:6_answer
+Filling # 6 question: q668226:6_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668226:7_answer') and contains(text(), ' Electrodos')]
+Getting answer 3 for question q668226:7_answer
+Filling # 7 question: q668226:7_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668226:8_answer') and text()!=concat('a.',' Tierra blindada') and text()!=concat('b.',' Tierra blindada') and text()!=concat('c.',' Tierra blindada') and text()!=concat('d.',' Tierra blindada') and text()!=concat('a.',' Tierra aislada') and text()!=concat('b.',' Tierra aislada') and text()!=concat('c.',' Tierra aislada') and text()!=concat('d.',' Tierra aislada') and text()!=concat('a.',' Conexión a tierra') and text()!=concat('b.',' Conexión a tierra') and text()!=concat('c.',' Conexión a tierra') and text()!=concat('d.',' Conexión a tierra')]
+Getting answer 3 for question q668226:8_answer
+Filling # 8 question: q668226:8_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668226:9_answer') and contains(text(), ' Supresores de pico')]
+Getting answer 3 for question q668226:9_answer
+Filling # 9 question: q668226:9_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668226:10_answer') and contains(text(), ' Red de tierra')]
+Getting answer 2 for question q668226:10_answer
+Filling # 10 question: q668226:10_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668226:11_answer') and contains(text(), ' Sistema de tierra')]
+Getting answer 1 for question q668226:11_answer
+Filling # 11 question: q668226:11_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668226:12_answer') and text()!=concat('a.',' Cono de aceptación') and text()!=concat('b.',' Cono de aceptación') and text()!=concat('c.',' Cono de aceptación') and text()!=concat('d.',' Cono de aceptación') and text()!=concat('a.',' Ángulo de transmisión') and text()!=concat('b.',' Ángulo de transmisión') and text()!=concat('c.',' Ángulo de transmisión') and text()!=concat('d.',' Ángulo de transmisión') and text()!=concat('a.',' Ángulo de aceptación') and text()!=concat('b.',' Ángulo de aceptación') and text()!=concat('c.',' Ángulo de aceptación') and text()!=concat('d.',' Ángulo de aceptación')]
+Getting answer 1 for question q668226:12_answer
+Filling # 12 question: q668226:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668226:13_answer') and text()!=concat('a.',' Fibra multimodal de índice graduado') and text()!=concat('b.',' Fibra multimodal de índice graduado') and text()!=concat('c.',' Fibra multimodal de índice graduado') and text()!=concat('d.',' Fibra multimodal de índice graduado') and text()!=concat('a.',' Fibra multimodal de índice escalonado') and text()!=concat('b.',' Fibra multimodal de índice escalonado') and text()!=concat('c.',' Fibra multimodal de índice escalonado') and text()!=concat('d.',' Fibra multimodal de índice escalonado') and text()!=concat('a.',' Fibra monomodo') and text()!=concat('b.',' Fibra monomodo') and text()!=concat('c.',' Fibra monomodo') and text()!=concat('d.',' Fibra monomodo')]
+Getting answer 1 for question q668226:13_answer
+Filling # 13 question: q668226:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668226:14_answer') and contains(text(), ' Cono de aceptación')]
+Getting answer 0 for question q668226:14_answer
+Filling # 14 question: q668226:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668226:15_answer') and contains(text(), ' Antena helicoidal.')]
+Getting answer 2 for question q668226:15_answer
+Filling # 15 question: q668226:15_answer with answer: 2
+
+Finishing attempt #4
+
+Saving answer (1:  Antena de reflector parabólico.)
+Saving answer (2:  Antenas de conjunto enfasado)
+Saving answer (3:  Puente unión)
+Saving answer (4:  Tierra aislada)
+Saving answer (5:  Conductor puesta a tierra)
+Saving answer (6:  Conexión a tierra)
+Saving answer (7:  Electrodos)
+Saving answer (8:  Neutro)
+Saving answer (9:  Supresores de pico)
+Saving answer (10:  Red de tierra)
+Saving answer (11:  Sistema de tierra)
+Saving answer (12:  Apertura númerica)
+Saving answer (13:  Fibra unimodal de índice escalonado)
+Saving answer (14:  Cono de aceptación)
+Saving answer (15:  Antena helicoidal.)
+{'11': ' Sistema de tierra', '10': ' Red de tierra', '13': u' Fibra unimodal de \xedndice escalonado', '12': u' Apertura n\xfamerica', '15': ' Antena helicoidal.', '14': u' Cono de aceptaci\xf3n', '1': u' Antena de reflector parab\xf3lico.', '3': u' Puente uni\xf3n', '2': ' Antenas de conjunto enfasado', '5': ' Conductor puesta a tierra', '4': ' Tierra aislada', '7': ' Electrodos', '6': u' Conexi\xf3n a tierra', '9': ' Supresores de pico', '8': ' Neutro'}
+{'10': [' Conductor puesta a tierra', u' Puente uni\xf3n'], '13': [u' Fibra multimodal de \xedndice graduado', u' Fibra multimodal de \xedndice escalonado', ' Fibra monomodo'], '12': [u' Cono de aceptaci\xf3n', u' \xc1ngulo de transmisi\xf3n', u' \xc1ngulo de aceptaci\xf3n'], '15': [' Antena de torniquete.', ' Antena'], '1': [' Antena cuadrada'], '3': [' Red de tierra', ' Red de antenas', ' Conductor puesta a tierra'], '2': [' Antena helicoidal.', ' Antena'], '7': [u' Conexi\xf3n a tierra', ' Conductor'], '6': [' Supresores de pico'], '8': [' Tierra blindada', ' Tierra aislada', u' Conexi\xf3n a tierra']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/AT__P2A2.html
+
+Starting attempt #1 for ITIDAW: P2A1
+Getting answer 0 for question q668229:1_answer
+Filling # 1 question: q668229:1_answer with answer: 0
+
+Getting answer 0 for question q668229:2_answer
+Filling # 2 question: q668229:2_answer with answer: 0
+
+Getting answer 0 for question q668229:3_answer
+Filling # 3 question: q668229:3_answer with answer: 0
+
+Getting answer 0 for question q668229:4_answer
+Filling # 4 question: q668229:4_answer with answer: 0
+
+Getting answer 0 for question q668229:5_answer
+Filling # 5 question: q668229:5_answer with answer: 0
+
+Getting answer 0 for question q668229:6_answer
+Filling # 6 question: q668229:6_answer with answer: 0
+
+Getting answer 0 for question q668229:7_answer
+Filling # 7 question: q668229:7_answer with answer: 0
+
+Getting answer 0 for question q668229:8_answer
+Filling # 8 question: q668229:8_answer with answer: 0
+
+Getting answer 0 for question q668229:9_answer
+Filling # 9 question: q668229:9_answer with answer: 0
+
+Getting answer 0 for question q668229:10_answer
+Filling # 10 question: q668229:10_answer with answer: 0
+
+Getting answer 0 for question q668229:11_answer
+Filling # 11 question: q668229:11_answer with answer: 0
+
+Getting answer 0 for question q668229:12_answer
+Filling # 12 question: q668229:12_answer with answer: 0
+
+Getting answer 0 for question q668229:13_answer
+Filling # 13 question: q668229:13_answer with answer: 0
+
+Getting answer 0 for question q668229:14_answer
+Filling # 14 question: q668229:14_answer with answer: 0
+
+Getting answer 0 for question q668229:15_answer
+Filling # 15 question: q668229:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (4:  Ajax Component)
+Saving answer (5:  #)
+Saving answer (7:  response)
+Saving answer (10:  boolean)
+Saving answer (14:  Driver)
+Saving answer (15:  ClassNotFoundException)
+{'10': ' boolean', '15': ' ClassNotFoundException', '14': ' Driver', '5': ' #', '4': ' Ajax Component', '7': ' response'}
+{'11': [' Class.forName("connect.microsoft.MicrosoftDriver")'], '13': [' Java.SQL y JDBC Driver Manager'], '12': [' integer'], '1': [' < rich:message >'], '3': [' Instancias'], '2': [' Beans'], '6': [' AjaxFilter'], '9': [' Request'], '8': [' none']}
+
+Starting attempt #2 for ITIDAW: P2A1
+Getting with expr: //label[contains(@for, 'q668230:1_answer') and text()!=concat('a.',' < rich:message >') and text()!=concat('b.',' < rich:message >') and text()!=concat('c.',' < rich:message >') and text()!=concat('d.',' < rich:message >')]
+Getting answer 0 for question q668230:1_answer
+Filling # 1 question: q668230:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:2_answer') and text()!=concat('a.',' Beans') and text()!=concat('b.',' Beans') and text()!=concat('c.',' Beans') and text()!=concat('d.',' Beans')]
+Getting answer 0 for question q668230:2_answer
+Filling # 2 question: q668230:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:3_answer') and text()!=concat('a.',' Instancias') and text()!=concat('b.',' Instancias') and text()!=concat('c.',' Instancias') and text()!=concat('d.',' Instancias')]
+Getting answer 0 for question q668230:3_answer
+Filling # 3 question: q668230:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:4_answer') and contains(text(), ' Ajax Component')]
+Getting answer 1 for question q668230:4_answer
+Filling # 4 question: q668230:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668230:5_answer') and contains(text(), ' #')]
+Getting answer 2 for question q668230:5_answer
+Filling # 5 question: q668230:5_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668230:6_answer') and text()!=concat('a.',' AjaxFilter') and text()!=concat('b.',' AjaxFilter') and text()!=concat('c.',' AjaxFilter') and text()!=concat('d.',' AjaxFilter')]
+Getting answer 0 for question q668230:6_answer
+Filling # 6 question: q668230:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:7_answer') and contains(text(), ' response')]
+Getting answer 3 for question q668230:7_answer
+Filling # 7 question: q668230:7_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668230:8_answer') and text()!=concat('a.',' none') and text()!=concat('b.',' none') and text()!=concat('c.',' none') and text()!=concat('d.',' none')]
+Getting answer 0 for question q668230:8_answer
+Filling # 8 question: q668230:8_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:9_answer') and text()!=concat('a.',' Request') and text()!=concat('b.',' Request') and text()!=concat('c.',' Request') and text()!=concat('d.',' Request')]
+Getting answer 1 for question q668230:9_answer
+Filling # 9 question: q668230:9_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668230:10_answer') and contains(text(), ' boolean')]
+Getting answer 2 for question q668230:10_answer
+Filling # 10 question: q668230:10_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668230:11_answer') and text()!=concat('a.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('b.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('c.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('d.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")'))]
+Getting answer None for question q668230:11_answer
+Filling # 11 question: q668230:11_answer with answer: None
+
+Getting with expr: //label[contains(@for, 'q668230:12_answer') and text()!=concat('a.',' integer') and text()!=concat('b.',' integer') and text()!=concat('c.',' integer') and text()!=concat('d.',' integer')]
+Getting answer 0 for question q668230:12_answer
+Filling # 12 question: q668230:12_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:13_answer') and text()!=concat('a.',' Java.SQL y JDBC Driver Manager') and text()!=concat('b.',' Java.SQL y JDBC Driver Manager') and text()!=concat('c.',' Java.SQL y JDBC Driver Manager') and text()!=concat('d.',' Java.SQL y JDBC Driver Manager')]
+Getting answer 0 for question q668230:13_answer
+Filling # 13 question: q668230:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:14_answer') and contains(text(), ' Driver')]
+Getting answer 0 for question q668230:14_answer
+Filling # 14 question: q668230:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668230:15_answer') and contains(text(), ' ClassNotFoundException')]
+Getting answer 1 for question q668230:15_answer
+Filling # 15 question: q668230:15_answer with answer: 1
+
+Finishing attempt #2
+
+Saving answer (4:  Ajax Component)
+Saving answer (5:  #)
+Saving answer (6:  AjaxContainer)
+Saving answer (7:  response)
+Saving answer (8:  request)
+Saving answer (10:  boolean)
+Saving answer (13:  JDBC API y JDBC Driver Manager)
+Saving answer (14:  Driver)
+Saving answer (15:  ClassNotFoundException)
+{'10': ' boolean', '13': ' JDBC API y JDBC Driver Manager', '15': ' ClassNotFoundException', '14': ' Driver', '5': ' #', '4': ' Ajax Component', '7': ' response', '6': ' AjaxContainer', '8': ' request'}
+{'11': [' Class.forName("connect.microsoft.MicrosoftDriver")', ' Class.forName("connect.microsoft.MicrosoftDriver")'], '13': [' Java.SQL y JDBC Driver Manager'], '12': [' integer', ' bigint'], '1': [' < rich:message >', ' < rich:listShuttle >'], '3': [' Instancias', [' ', 'Librerias']], '2': [' Beans', ' Nested Class'], '6': [' AjaxFilter'], '9': [' Request', ' Session'], '8': [' none']}
+
+Starting attempt #3 for ITIDAW: P2A1
+Getting with expr: //label[contains(@for, 'q668233:1_answer') and text()!=concat('a.',' < rich:message >') and text()!=concat('b.',' < rich:message >') and text()!=concat('c.',' < rich:message >') and text()!=concat('d.',' < rich:message >') and text()!=concat('a.',' < rich:listShuttle >') and text()!=concat('b.',' < rich:listShuttle >') and text()!=concat('c.',' < rich:listShuttle >') and text()!=concat('d.',' < rich:listShuttle >')]
+Getting answer 0 for question q668233:1_answer
+Filling # 1 question: q668233:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668233:2_answer') and text()!=concat('a.',' Beans') and text()!=concat('b.',' Beans') and text()!=concat('c.',' Beans') and text()!=concat('d.',' Beans') and text()!=concat('a.',' Nested Class') and text()!=concat('b.',' Nested Class') and text()!=concat('c.',' Nested Class') and text()!=concat('d.',' Nested Class')]
+Getting answer 0 for question q668233:2_answer
+Filling # 2 question: q668233:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668233:3_answer') and text()!=concat('a.',' Instancias') and text()!=concat('b.',' Instancias') and text()!=concat('c.',' Instancias') and text()!=concat('d.',' Instancias')]
+Getting answer 2 for question q668233:3_answer
+Filling # 3 question: q668233:3_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668233:4_answer') and contains(text(), ' Ajax Component')]
+Getting answer 1 for question q668233:4_answer
+Filling # 4 question: q668233:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668233:5_answer') and contains(text(), ' #')]
+Getting answer 1 for question q668233:5_answer
+Filling # 5 question: q668233:5_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668233:6_answer') and contains(text(), ' AjaxContainer')]
+Getting answer 3 for question q668233:6_answer
+Filling # 6 question: q668233:6_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668233:7_answer') and contains(text(), ' response')]
+Getting answer 0 for question q668233:7_answer
+Filling # 7 question: q668233:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668233:8_answer') and contains(text(), ' request')]
+Getting answer 1 for question q668233:8_answer
+Filling # 8 question: q668233:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668233:9_answer') and text()!=concat('a.',' Request') and text()!=concat('b.',' Request') and text()!=concat('c.',' Request') and text()!=concat('d.',' Request') and text()!=concat('a.',' Session') and text()!=concat('b.',' Session') and text()!=concat('c.',' Session') and text()!=concat('d.',' Session')]
+Getting answer 2 for question q668233:9_answer
+Filling # 9 question: q668233:9_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668233:10_answer') and contains(text(), ' boolean')]
+Getting answer 1 for question q668233:10_answer
+Filling # 10 question: q668233:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668233:11_answer') and text()!=concat('a.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('b.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('c.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('d.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('a.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('b.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('c.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")')) and text()!=concat('d.',concat(' Class.forName("connect.microsoft.MicrosoftDriver")'))]
+Getting answer None for question q668233:11_answer
+Filling # 11 question: q668233:11_answer with answer: None
+
+Getting with expr: //label[contains(@for, 'q668233:12_answer') and text()!=concat('a.',' integer') and text()!=concat('b.',' integer') and text()!=concat('c.',' integer') and text()!=concat('d.',' integer') and text()!=concat('a.',' bigint') and text()!=concat('b.',' bigint') and text()!=concat('c.',' bigint') and text()!=concat('d.',' bigint')]
+Getting answer 1 for question q668233:12_answer
+Filling # 12 question: q668233:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668233:13_answer') and contains(text(), ' JDBC API y JDBC Driver Manager')]
+Getting answer 1 for question q668233:13_answer
+Filling # 13 question: q668233:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668233:14_answer') and contains(text(), ' Driver')]
+Getting answer 3 for question q668233:14_answer
+Filling # 14 question: q668233:14_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668233:15_answer') and contains(text(), ' ClassNotFoundException')]
+Getting answer 3 for question q668233:15_answer
+Filling # 15 question: q668233:15_answer with answer: 3
+
+Finishing attempt #3
+
+Saving answer (2:  POJO)
+Saving answer (4:  Ajax Component)
+Saving answer (5:  #)
+Saving answer (6:  AjaxContainer)
+Saving answer (7:  response)
+Saving answer (8:  request)
+Saving answer (10:  boolean)
+Saving answer (11:  Class.forName("org.postgresql.Driver"))
+Saving answer (13:  JDBC API y JDBC Driver Manager)
+Saving answer (14:  Driver)
+Saving answer (15:  ClassNotFoundException)
+{'11': ' Class.forName("org.postgresql.Driver")', '10': ' boolean', '13': ' JDBC API y JDBC Driver Manager', '15': ' ClassNotFoundException', '14': ' Driver', '2': ' POJO', '5': ' #', '4': ' Ajax Component', '7': ' response', '6': ' AjaxContainer', '8': ' request'}
+{'11': [' Class.forName("connect.microsoft.MicrosoftDriver")', ' Class.forName("connect.microsoft.MicrosoftDriver")'], '13': [' Java.SQL y JDBC Driver Manager'], '12': [' integer', ' bigint', ' real'], '1': [' < rich:message >', ' < rich:listShuttle >', ' < rich:inplaceSelect >'], '3': [' Instancias', [' ', 'Librerias'], [' ', 'Clases']], '2': [' Beans', ' Nested Class'], '6': [' AjaxFilter'], '9': [' Request', ' Session', ' Custom'], '8': [' none']}
+
+Starting attempt #4 for ITIDAW: P2A1
+Getting with expr: //label[contains(@for, 'q668238:1_answer') and text()!=concat('a.',' < rich:message >') and text()!=concat('b.',' < rich:message >') and text()!=concat('c.',' < rich:message >') and text()!=concat('d.',' < rich:message >') and text()!=concat('a.',' < rich:listShuttle >') and text()!=concat('b.',' < rich:listShuttle >') and text()!=concat('c.',' < rich:listShuttle >') and text()!=concat('d.',' < rich:listShuttle >') and text()!=concat('a.',' < rich:inplaceSelect >') and text()!=concat('b.',' < rich:inplaceSelect >') and text()!=concat('c.',' < rich:inplaceSelect >') and text()!=concat('d.',' < rich:inplaceSelect >')]
+Getting answer 1 for question q668238:1_answer
+Filling # 1 question: q668238:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668238:2_answer') and contains(text(), ' POJO')]
+Getting answer 0 for question q668238:2_answer
+Filling # 2 question: q668238:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668238:3_answer') and text()!=concat('a.',' Instancias') and text()!=concat('b.',' Instancias') and text()!=concat('c.',' Instancias') and text()!=concat('d.',' Instancias')]
+Getting answer 2 for question q668238:3_answer
+Filling # 3 question: q668238:3_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668238:4_answer') and contains(text(), ' Ajax Component')]
+Getting answer 0 for question q668238:4_answer
+Filling # 4 question: q668238:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668238:5_answer') and contains(text(), ' #')]
+Getting answer 1 for question q668238:5_answer
+Filling # 5 question: q668238:5_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668238:6_answer') and contains(text(), ' AjaxContainer')]
+Getting answer 0 for question q668238:6_answer
+Filling # 6 question: q668238:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668238:7_answer') and contains(text(), ' response')]
+Getting answer 1 for question q668238:7_answer
+Filling # 7 question: q668238:7_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668238:8_answer') and contains(text(), ' request')]
+Getting answer 3 for question q668238:8_answer
+Filling # 8 question: q668238:8_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668238:9_answer') and text()!=concat('a.',' Request') and text()!=concat('b.',' Request') and text()!=concat('c.',' Request') and text()!=concat('d.',' Request') and text()!=concat('a.',' Session') and text()!=concat('b.',' Session') and text()!=concat('c.',' Session') and text()!=concat('d.',' Session') and text()!=concat('a.',' Custom') and text()!=concat('b.',' Custom') and text()!=concat('c.',' Custom') and text()!=concat('d.',' Custom')]
+Getting answer 1 for question q668238:9_answer
+Filling # 9 question: q668238:9_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668238:10_answer') and contains(text(), ' boolean')]
+Getting answer 2 for question q668238:10_answer
+Filling # 10 question: q668238:10_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668238:11_answer') and contains(text(), concat(' Class.forName("org.postgresql.Driver")'))]
+Getting answer None for question q668238:11_answer
+Filling # 11 question: q668238:11_answer with answer: None
+
+Getting with expr: //label[contains(@for, 'q668238:12_answer') and text()!=concat('a.',' integer') and text()!=concat('b.',' integer') and text()!=concat('c.',' integer') and text()!=concat('d.',' integer') and text()!=concat('a.',' bigint') and text()!=concat('b.',' bigint') and text()!=concat('c.',' bigint') and text()!=concat('d.',' bigint') and text()!=concat('a.',' real') and text()!=concat('b.',' real') and text()!=concat('c.',' real') and text()!=concat('d.',' real')]
+Getting answer 3 for question q668238:12_answer
+Filling # 12 question: q668238:12_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668238:13_answer') and contains(text(), ' JDBC API y JDBC Driver Manager')]
+Getting answer 2 for question q668238:13_answer
+Filling # 13 question: q668238:13_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668238:14_answer') and contains(text(), ' Driver')]
+Getting answer 0 for question q668238:14_answer
+Filling # 14 question: q668238:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668238:15_answer') and contains(text(), ' ClassNotFoundException')]
+Getting answer 2 for question q668238:15_answer
+Filling # 15 question: q668238:15_answer with answer: 2
+
+Finishing attempt #4
+
+Saving answer (1: [' < rich:fileUpload >', u'< rich:inplaceInput > : Este componente nos permite desplegar y editar informaci\xf3n. ', '< rich:inplaceSelect > : Muy parecido al anterior. se utiliza para seleccionar algo asi como un dropDown. ', '< rich:listShuttle > : Este componente se utiliza para mover los temas elegidos de una lista a otra con su facultativo reordenamiento. ', u'< rich:message > : El componente se utiliza para hacer un solo mensaje a un componente espec\xedfico. ', u'Para conocer mucho m\xe1s sobre:', u'documentaci\xf3n oficial.', 'paginas de referencia..', 'http://www.jboss.org/jbossajax4jsf/docs/devguide/en/html/index.html', 'http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=Ajax4Jsf', 'Un Excelente Manual de RichFaces.', 'http://www.jboss.org/file-access/default/members/jbossrichfaces/freezone/docs/devguide/en/html/index.html', '\n', '\n', '\n', '\n', '\n'])
+Saving answer (2:  POJO)
+Saving answer (3:  Recursos)
+Saving answer (4:  Ajax Component)
+Saving answer (5:  #)
+Saving answer (6:  AjaxContainer)
+Saving answer (7:  response)
+Saving answer (8:  request)
+Saving answer (9:  Application)
+Saving answer (10:  boolean)
+Saving answer (12:  smallint)
+Saving answer (13:  JDBC API y JDBC Driver Manager)
+Saving answer (14:  Driver)
+Saving answer (15:  ClassNotFoundException)
+{'11': ' Class.forName("org.postgresql.Driver")', '10': ' boolean', '13': ' JDBC API y JDBC Driver Manager', '12': ' smallint', '15': ' ClassNotFoundException', '14': ' Driver', '1': [' < rich:fileUpload >', u'< rich:inplaceInput > : Este componente nos permite desplegar y editar informaci\xf3n. ', '< rich:inplaceSelect > : Muy parecido al anterior. se utiliza para seleccionar algo asi como un dropDown. ', '< rich:listShuttle > : Este componente se utiliza para mover los temas elegidos de una lista a otra con su facultativo reordenamiento. ', u'< rich:message > : El componente se utiliza para hacer un solo mensaje a un componente espec\xedfico. ', u'Para conocer mucho m\xe1s sobre:', u'documentaci\xf3n oficial.', 'paginas de referencia..', 'http://www.jboss.org/jbossajax4jsf/docs/devguide/en/html/index.html', 'http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=Ajax4Jsf', 'Un Excelente Manual de RichFaces.', 'http://www.jboss.org/file-access/default/members/jbossrichfaces/freezone/docs/devguide/en/html/index.html', '\n', '\n', '\n', '\n', '\n'], '3': ' Recursos', '2': ' POJO', '5': ' #', '4': ' Ajax Component', '7': ' response', '6': ' AjaxContainer', '9': ' Application', '8': ' request'}
+{'11': [' Class.forName("connect.microsoft.MicrosoftDriver")', ' Class.forName("connect.microsoft.MicrosoftDriver")', ' Class.forName("connect.microsoft.MicrosoftDriver")'], '13': [' Java.SQL y JDBC Driver Manager'], '12': [' integer', ' bigint', ' real'], '1': [' < rich:message >', ' < rich:listShuttle >', ' < rich:inplaceSelect >'], '3': [' Instancias', [' ', 'Librerias'], [' ', 'Clases']], '2': [' Beans', ' Nested Class'], '6': [' AjaxFilter'], '9': [' Request', ' Session', ' Custom'], '8': [' none']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITIDAW__P2A1.html
+
+Starting attempt #1 for ITIDAW: P2A2
+Getting answer 0 for question q668239:1_answer
+Filling # 1 question: q668239:1_answer with answer: 0
+
+Getting answer 0 for question q668239:2_answer
+Filling # 2 question: q668239:2_answer with answer: 0
+
+Getting answer 0 for question q668239:3_answer
+Filling # 3 question: q668239:3_answer with answer: 0
+
+Getting answer 0 for question q668239:4_answer
+Filling # 4 question: q668239:4_answer with answer: 0
+
+Getting answer 0 for question q668239:5_answer
+Filling # 5 question: q668239:5_answer with answer: 0
+
+Getting answer 0 for question q668239:6_answer
+Filling # 6 question: q668239:6_answer with answer: 0
+
+Getting answer 0 for question q668239:7_answer
+Filling # 7 question: q668239:7_answer with answer: 0
+
+Getting answer 0 for question q668239:8_answer
+Filling # 8 question: q668239:8_answer with answer: 0
+
+Getting answer 0 for question q668239:9_answer
+Filling # 9 question: q668239:9_answer with answer: 0
+
+Getting answer 0 for question q668239:10_answer
+Filling # 10 question: q668239:10_answer with answer: 0
+
+Getting answer 0 for question q668239:11_answer
+Filling # 11 question: q668239:11_answer with answer: 0
+
+Getting answer 0 for question q668239:12_answer
+Filling # 12 question: q668239:12_answer with answer: 0
+
+Getting answer 0 for question q668239:13_answer
+Filling # 13 question: q668239:13_answer with answer: 0
+
+Getting answer 0 for question q668239:14_answer
+Filling # 14 question: q668239:14_answer with answer: 0
+
+Getting answer 0 for question q668239:15_answer
+Filling # 15 question: q668239:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (12:  a4j)
+Saving answer (14:  richfaces-ui-3.2.x.GA-bin.jar)
+{'12': ' a4j', '14': ' richfaces-ui-3.2.x.GA-bin.jar'}
+{'11': [' JQuery'], '10': [' Ajax4JSF'], '13': [' a4j'], '15': [' Bean'], '1': [' AJAX'], '3': [' @SessionScoped'], '2': [' action'], '5': [' action="#{bean.Count()}"'], '4': [' ${bean.Text}'], '7': [' SelectListBox'], '6': [' RangeValidate'], '9': [' http://richfaces.oracle.org/rich'], '8': [' Soporta Facelets']}
+
+Starting attempt #2 for ITIDAW: P2A2
+Getting with expr: //label[contains(@for, 'q668240:1_answer') and text()!=concat('a.',' AJAX') and text()!=concat('b.',' AJAX') and text()!=concat('c.',' AJAX') and text()!=concat('d.',' AJAX')]
+Getting answer 0 for question q668240:1_answer
+Filling # 1 question: q668240:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:2_answer') and text()!=concat('a.',' action') and text()!=concat('b.',' action') and text()!=concat('c.',' action') and text()!=concat('d.',' action')]
+Getting answer 0 for question q668240:2_answer
+Filling # 2 question: q668240:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:3_answer') and text()!=concat('a.',' @SessionScoped') and text()!=concat('b.',' @SessionScoped') and text()!=concat('c.',' @SessionScoped') and text()!=concat('d.',' @SessionScoped')]
+Getting answer 0 for question q668240:3_answer
+Filling # 3 question: q668240:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:4_answer') and text()!=concat('a.',' ${bean.Text}') and text()!=concat('b.',' ${bean.Text}') and text()!=concat('c.',' ${bean.Text}') and text()!=concat('d.',' ${bean.Text}')]
+Getting answer 0 for question q668240:4_answer
+Filling # 4 question: q668240:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:5_answer') and text()!=concat('a.',concat(' action="#{bean.Count()}"')) and text()!=concat('b.',concat(' action="#{bean.Count()}"')) and text()!=concat('c.',concat(' action="#{bean.Count()}"')) and text()!=concat('d.',concat(' action="#{bean.Count()}"'))]
+Getting answer None for question q668240:5_answer
+Filling # 5 question: q668240:5_answer with answer: None
+
+Getting with expr: //label[contains(@for, 'q668240:6_answer') and text()!=concat('a.',' RangeValidate') and text()!=concat('b.',' RangeValidate') and text()!=concat('c.',' RangeValidate') and text()!=concat('d.',' RangeValidate')]
+Getting answer 0 for question q668240:6_answer
+Filling # 6 question: q668240:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:7_answer') and text()!=concat('a.',' SelectListBox') and text()!=concat('b.',' SelectListBox') and text()!=concat('c.',' SelectListBox') and text()!=concat('d.',' SelectListBox')]
+Getting answer 0 for question q668240:7_answer
+Filling # 7 question: q668240:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:8_answer') and text()!=concat('a.',' Soporta Facelets') and text()!=concat('b.',' Soporta Facelets') and text()!=concat('c.',' Soporta Facelets') and text()!=concat('d.',' Soporta Facelets')]
+Getting answer 1 for question q668240:8_answer
+Filling # 8 question: q668240:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668240:9_answer') and text()!=concat('a.',' http://richfaces.oracle.org/rich') and text()!=concat('b.',' http://richfaces.oracle.org/rich') and text()!=concat('c.',' http://richfaces.oracle.org/rich') and text()!=concat('d.',' http://richfaces.oracle.org/rich')]
+Getting answer 0 for question q668240:9_answer
+Filling # 9 question: q668240:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:10_answer') and text()!=concat('a.',' Ajax4JSF') and text()!=concat('b.',' Ajax4JSF') and text()!=concat('c.',' Ajax4JSF') and text()!=concat('d.',' Ajax4JSF')]
+Getting answer 0 for question q668240:10_answer
+Filling # 10 question: q668240:10_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:11_answer') and text()!=concat('a.',' JQuery') and text()!=concat('b.',' JQuery') and text()!=concat('c.',' JQuery') and text()!=concat('d.',' JQuery')]
+Getting answer 0 for question q668240:11_answer
+Filling # 11 question: q668240:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:12_answer') and contains(text(), ' a4j')]
+Getting answer 1 for question q668240:12_answer
+Filling # 12 question: q668240:12_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668240:13_answer') and text()!=concat('a.',' a4j') and text()!=concat('b.',' a4j') and text()!=concat('c.',' a4j') and text()!=concat('d.',' a4j')]
+Getting answer 0 for question q668240:13_answer
+Filling # 13 question: q668240:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668240:14_answer') and contains(text(), ' richfaces-ui-3.2.x.GA-bin.jar')]
+Getting answer 3 for question q668240:14_answer
+Filling # 14 question: q668240:14_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668240:15_answer') and text()!=concat('a.',' Bean') and text()!=concat('b.',' Bean') and text()!=concat('c.',' Bean') and text()!=concat('d.',' Bean')]
+Getting answer 0 for question q668240:15_answer
+Filling # 15 question: q668240:15_answer with answer: 0
+
+Finishing attempt #2
+
+Saving answer (6:  validateLength)
+Saving answer (7:  selectOneListBox)
+Saving answer (8:  Soporta MAVEN)
+Saving answer (9:  http://richfaces.org/rich)
+Saving answer (12:  a4j)
+Saving answer (14:  richfaces-ui-3.2.x.GA-bin.jar)
+{'12': ' a4j', '14': ' richfaces-ui-3.2.x.GA-bin.jar', '7': ' selectOneListBox', '6': ' validateLength', '9': ' http://richfaces.org/rich', '8': ' Soporta MAVEN'}
+{'11': [' JQuery', ' Exaldel'], '10': [' Ajax4JSF', ' PrimeFaces'], '13': [' a4j', ' ice'], '15': [' Bean', ' Java Bean'], '1': [' AJAX', ' JQuery'], '3': [' @SessionScoped', ' @SessionBean'], '2': [' action', ' id'], '5': [' action="#{bean.Count()}"', ' action="#{bean.Count()}"'], '4': [' ${bean.Text}', ' #{bean.Text}'], '7': [' SelectListBox'], '6': [' RangeValidate'], '9': [' http://richfaces.oracle.org/rich'], '8': [' Soporta Facelets']}
+
+Starting attempt #3 for ITIDAW: P2A2
+Getting with expr: //label[contains(@for, 'q668241:1_answer') and text()!=concat('a.',' AJAX') and text()!=concat('b.',' AJAX') and text()!=concat('c.',' AJAX') and text()!=concat('d.',' AJAX') and text()!=concat('a.',' JQuery') and text()!=concat('b.',' JQuery') and text()!=concat('c.',' JQuery') and text()!=concat('d.',' JQuery')]
+Getting answer 2 for question q668241:1_answer
+Filling # 1 question: q668241:1_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668241:2_answer') and text()!=concat('a.',' action') and text()!=concat('b.',' action') and text()!=concat('c.',' action') and text()!=concat('d.',' action') and text()!=concat('a.',' id') and text()!=concat('b.',' id') and text()!=concat('c.',' id') and text()!=concat('d.',' id')]
+Getting answer 1 for question q668241:2_answer
+Filling # 2 question: q668241:2_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668241:3_answer') and text()!=concat('a.',' @SessionScoped') and text()!=concat('b.',' @SessionScoped') and text()!=concat('c.',' @SessionScoped') and text()!=concat('d.',' @SessionScoped') and text()!=concat('a.',' @SessionBean') and text()!=concat('b.',' @SessionBean') and text()!=concat('c.',' @SessionBean') and text()!=concat('d.',' @SessionBean')]
+Getting answer 2 for question q668241:3_answer
+Filling # 3 question: q668241:3_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668241:4_answer') and text()!=concat('a.',' ${bean.Text}') and text()!=concat('b.',' ${bean.Text}') and text()!=concat('c.',' ${bean.Text}') and text()!=concat('d.',' ${bean.Text}') and text()!=concat('a.',' #{bean.Text}') and text()!=concat('b.',' #{bean.Text}') and text()!=concat('c.',' #{bean.Text}') and text()!=concat('d.',' #{bean.Text}')]
+Getting answer 0 for question q668241:4_answer
+Filling # 4 question: q668241:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668241:5_answer') and text()!=concat('a.',concat(' action="#{bean.Count()}"')) and text()!=concat('b.',concat(' action="#{bean.Count()}"')) and text()!=concat('c.',concat(' action="#{bean.Count()}"')) and text()!=concat('d.',concat(' action="#{bean.Count()}"')) and text()!=concat('a.',concat(' action="#{bean.Count()}"')) and text()!=concat('b.',concat(' action="#{bean.Count()}"')) and text()!=concat('c.',concat(' action="#{bean.Count()}"')) and text()!=concat('d.',concat(' action="#{bean.Count()}"'))]
+Getting answer None for question q668241:5_answer
+Filling # 5 question: q668241:5_answer with answer: None
+
+Getting with expr: //label[contains(@for, 'q668241:6_answer') and contains(text(), ' validateLength')]
+Getting answer 2 for question q668241:6_answer
+Filling # 6 question: q668241:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668241:7_answer') and contains(text(), ' selectOneListBox')]
+Getting answer 2 for question q668241:7_answer
+Filling # 7 question: q668241:7_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668241:8_answer') and contains(text(), ' Soporta MAVEN')]
+Getting answer 3 for question q668241:8_answer
+Filling # 8 question: q668241:8_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668241:9_answer') and contains(text(), ' http://richfaces.org/rich')]
+Getting answer 0 for question q668241:9_answer
+Filling # 9 question: q668241:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668241:10_answer') and text()!=concat('a.',' Ajax4JSF') and text()!=concat('b.',' Ajax4JSF') and text()!=concat('c.',' Ajax4JSF') and text()!=concat('d.',' Ajax4JSF') and text()!=concat('a.',' PrimeFaces') and text()!=concat('b.',' PrimeFaces') and text()!=concat('c.',' PrimeFaces') and text()!=concat('d.',' PrimeFaces')]
+Getting answer 0 for question q668241:10_answer
+Filling # 10 question: q668241:10_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668241:11_answer') and text()!=concat('a.',' JQuery') and text()!=concat('b.',' JQuery') and text()!=concat('c.',' JQuery') and text()!=concat('d.',' JQuery') and text()!=concat('a.',' Exaldel') and text()!=concat('b.',' Exaldel') and text()!=concat('c.',' Exaldel') and text()!=concat('d.',' Exaldel')]
+Getting answer 0 for question q668241:11_answer
+Filling # 11 question: q668241:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668241:12_answer') and contains(text(), ' a4j')]
+Getting answer 3 for question q668241:12_answer
+Filling # 12 question: q668241:12_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668241:13_answer') and text()!=concat('a.',' a4j') and text()!=concat('b.',' a4j') and text()!=concat('c.',' a4j') and text()!=concat('d.',' a4j') and text()!=concat('a.',' ice') and text()!=concat('b.',' ice') and text()!=concat('c.',' ice') and text()!=concat('d.',' ice')]
+Getting answer 0 for question q668241:13_answer
+Filling # 13 question: q668241:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668241:14_answer') and contains(text(), ' richfaces-ui-3.2.x.GA-bin.jar')]
+Getting answer 1 for question q668241:14_answer
+Filling # 14 question: q668241:14_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668241:15_answer') and text()!=concat('a.',' Bean') and text()!=concat('b.',' Bean') and text()!=concat('c.',' Bean') and text()!=concat('d.',' Bean') and text()!=concat('a.',' Java Bean') and text()!=concat('b.',' Java Bean') and text()!=concat('c.',' Java Bean') and text()!=concat('d.',' Java Bean')]
+Getting answer 0 for question q668241:15_answer
+Filling # 15 question: q668241:15_answer with answer: 0
+
+Finishing attempt #3
+
+Saving answer (2:  name)
+Saving answer (4:  #{bean.Nombre})
+Saving answer (6:  validateLength)
+Saving answer (7:  selectOneListBox)
+Saving answer (8:  Soporta MAVEN)
+Saving answer (9:  http://richfaces.org/rich)
+Saving answer (12:  a4j)
+Saving answer (14:  richfaces-ui-3.2.x.GA-bin.jar)
+Saving answer (15:  Managed Bean)
+{'12': ' a4j', '15': ' Managed Bean', '14': ' richfaces-ui-3.2.x.GA-bin.jar', '2': ' name', '4': ' #{bean.Nombre}', '7': ' selectOneListBox', '6': ' validateLength', '9': ' http://richfaces.org/rich', '8': ' Soporta MAVEN'}
+{'11': [' JQuery', ' Exaldel', ' RichFaces'], '10': [' Ajax4JSF', ' PrimeFaces', ' RichFaces'], '13': [' a4j', ' ice', ' prime'], '15': [' Bean', ' Java Bean'], '1': [' AJAX', ' JQuery', ' JSON'], '3': [' @SessionScoped', ' @SessionBean', ' @ManagedScoped'], '2': [' action', ' id'], '5': [' action="#{bean.Count()}"', ' action="#{bean.Count()}"', ' action="#{bean.Count()}"'], '4': [' ${bean.Text}', ' #{bean.Text}'], '7': [' SelectListBox'], '6': [' RangeValidate'], '9': [' http://richfaces.oracle.org/rich'], '8': [' Soporta Facelets']}
+
+Starting attempt #4 for ITIDAW: P2A2
+Getting with expr: //label[contains(@for, 'q668242:1_answer') and text()!=concat('a.',' AJAX') and text()!=concat('b.',' AJAX') and text()!=concat('c.',' AJAX') and text()!=concat('d.',' AJAX') and text()!=concat('a.',' JQuery') and text()!=concat('b.',' JQuery') and text()!=concat('c.',' JQuery') and text()!=concat('d.',' JQuery') and text()!=concat('a.',' JSON') and text()!=concat('b.',' JSON') and text()!=concat('c.',' JSON') and text()!=concat('d.',' JSON')]
+Getting answer 1 for question q668242:1_answer
+Filling # 1 question: q668242:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668242:2_answer') and contains(text(), ' name')]
+Getting answer 3 for question q668242:2_answer
+Filling # 2 question: q668242:2_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668242:3_answer') and text()!=concat('a.',' @SessionScoped') and text()!=concat('b.',' @SessionScoped') and text()!=concat('c.',' @SessionScoped') and text()!=concat('d.',' @SessionScoped') and text()!=concat('a.',' @SessionBean') and text()!=concat('b.',' @SessionBean') and text()!=concat('c.',' @SessionBean') and text()!=concat('d.',' @SessionBean') and text()!=concat('a.',' @ManagedScoped') and text()!=concat('b.',' @ManagedScoped') and text()!=concat('c.',' @ManagedScoped') and text()!=concat('d.',' @ManagedScoped')]
+Getting answer 0 for question q668242:3_answer
+Filling # 3 question: q668242:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668242:4_answer') and contains(text(), ' #{bean.Nombre}')]
+Getting answer 3 for question q668242:4_answer
+Filling # 4 question: q668242:4_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668242:5_answer') and text()!=concat('a.',concat(' action="#{bean.Count()}"')) and text()!=concat('b.',concat(' action="#{bean.Count()}"')) and text()!=concat('c.',concat(' action="#{bean.Count()}"')) and text()!=concat('d.',concat(' action="#{bean.Count()}"')) and text()!=concat('a.',concat(' action="#{bean.Count()}"')) and text()!=concat('b.',concat(' action="#{bean.Count()}"')) and text()!=concat('c.',concat(' action="#{bean.Count()}"')) and text()!=concat('d.',concat(' action="#{bean.Count()}"')) and text()!=concat('a.',concat(' action="#{bean.Count()}"')) and text()!=concat('b.',concat(' action="#{bean.Count()}"')) and text()!=concat('c.',concat(' action="#{bean.Count()}"')) and text()!=concat('d.',concat(' action="#{bean.Count()}"'))]
+Getting answer None for question q668242:5_answer
+Filling # 5 question: q668242:5_answer with answer: None
+
+Getting with expr: //label[contains(@for, 'q668242:6_answer') and contains(text(), ' validateLength')]
+Getting answer 0 for question q668242:6_answer
+Filling # 6 question: q668242:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668242:7_answer') and contains(text(), ' selectOneListBox')]
+Getting answer 2 for question q668242:7_answer
+Filling # 7 question: q668242:7_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668242:8_answer') and contains(text(), ' Soporta MAVEN')]
+Getting answer 2 for question q668242:8_answer
+Filling # 8 question: q668242:8_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668242:9_answer') and contains(text(), ' http://richfaces.org/rich')]
+Getting answer 0 for question q668242:9_answer
+Filling # 9 question: q668242:9_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668242:10_answer') and text()!=concat('a.',' Ajax4JSF') and text()!=concat('b.',' Ajax4JSF') and text()!=concat('c.',' Ajax4JSF') and text()!=concat('d.',' Ajax4JSF') and text()!=concat('a.',' PrimeFaces') and text()!=concat('b.',' PrimeFaces') and text()!=concat('c.',' PrimeFaces') and text()!=concat('d.',' PrimeFaces') and text()!=concat('a.',' RichFaces') and text()!=concat('b.',' RichFaces') and text()!=concat('c.',' RichFaces') and text()!=concat('d.',' RichFaces')]
+Getting answer 1 for question q668242:10_answer
+Filling # 10 question: q668242:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668242:11_answer') and text()!=concat('a.',' JQuery') and text()!=concat('b.',' JQuery') and text()!=concat('c.',' JQuery') and text()!=concat('d.',' JQuery') and text()!=concat('a.',' Exaldel') and text()!=concat('b.',' Exaldel') and text()!=concat('c.',' Exaldel') and text()!=concat('d.',' Exaldel') and text()!=concat('a.',' RichFaces') and text()!=concat('b.',' RichFaces') and text()!=concat('c.',' RichFaces') and text()!=concat('d.',' RichFaces')]
+Getting answer 1 for question q668242:11_answer
+Filling # 11 question: q668242:11_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668242:12_answer') and contains(text(), ' a4j')]
+Getting answer 2 for question q668242:12_answer
+Filling # 12 question: q668242:12_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668242:13_answer') and text()!=concat('a.',' a4j') and text()!=concat('b.',' a4j') and text()!=concat('c.',' a4j') and text()!=concat('d.',' a4j') and text()!=concat('a.',' ice') and text()!=concat('b.',' ice') and text()!=concat('c.',' ice') and text()!=concat('d.',' ice') and text()!=concat('a.',' prime') and text()!=concat('b.',' prime') and text()!=concat('c.',' prime') and text()!=concat('d.',' prime')]
+Getting answer 1 for question q668242:13_answer
+Filling # 13 question: q668242:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668242:14_answer') and contains(text(), ' richfaces-ui-3.2.x.GA-bin.jar')]
+Getting answer 3 for question q668242:14_answer
+Filling # 14 question: q668242:14_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668242:15_answer') and contains(text(), ' Managed Bean')]
+Getting answer 2 for question q668242:15_answer
+Filling # 15 question: q668242:15_answer with answer: 2
+
+Finishing attempt #4
+
+Saving answer (1:  RichFaces)
+Saving answer (2:  name)
+Saving answer (3:  @ManagedBean)
+Saving answer (4:  #{bean.Nombre})
+Saving answer (6:  validateLength)
+Saving answer (7:  selectOneListBox)
+Saving answer (8:  Soporta MAVEN)
+Saving answer (9:  http://richfaces.org/rich)
+Saving answer (10:  ICEFaces)
+Saving answer (11:  Ajax4JSF)
+Saving answer (12:  a4j)
+Saving answer (13:  rich)
+Saving answer (14:  richfaces-ui-3.2.x.GA-bin.jar)
+Saving answer (15:  Managed Bean)
+{'11': ' Ajax4JSF', '10': ' ICEFaces', '13': ' rich', '12': ' a4j', '15': ' Managed Bean', '14': ' richfaces-ui-3.2.x.GA-bin.jar', '1': ' RichFaces', '3': ' @ManagedBean', '2': ' name', '4': ' #{bean.Nombre}', '7': ' selectOneListBox', '6': ' validateLength', '9': ' http://richfaces.org/rich', '8': ' Soporta MAVEN'}
+{'11': [' JQuery', ' Exaldel', ' RichFaces'], '10': [' Ajax4JSF', ' PrimeFaces', ' RichFaces'], '13': [' a4j', ' ice', ' prime'], '15': [' Bean', ' Java Bean'], '1': [' AJAX', ' JQuery', ' JSON'], '3': [' @SessionScoped', ' @SessionBean', ' @ManagedScoped'], '2': [' action', ' id'], '5': [' action="#{bean.Count()}"', ' action="#{bean.Count()}"', ' action="#{bean.Count()}"', ' action="${bean.Count}"'], '4': [' ${bean.Text}', ' #{bean.Text}'], '7': [' SelectListBox'], '6': [' RangeValidate'], '9': [' http://richfaces.oracle.org/rich'], '8': [' Soporta Facelets']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/ITIDAW__P2A2.html
+
+Starting attempt #1 for M9: KA 2nd-1
+Getting answer 0 for question q668243:1_answer
+Filling # 1 question: q668243:1_answer with answer: 0
+
+Getting answer 0 for question q668243:2_answer
+Filling # 2 question: q668243:2_answer with answer: 0
+
+Getting answer 0 for question q668243:3_answer
+Filling # 3 question: q668243:3_answer with answer: 0
+
+Getting answer 0 for question q668243:4_answer
+Filling # 4 question: q668243:4_answer with answer: 0
+
+Getting answer 0 for question q668243:5_answer
+Filling # 5 question: q668243:5_answer with answer: 0
+
+Getting answer 0 for question q668243:6_answer
+Filling # 6 question: q668243:6_answer with answer: 0
+
+Getting answer 0 for question q668243:7_answer
+Filling # 7 question: q668243:7_answer with answer: 0
+
+Getting answer 0 for question q668243:8_answer
+Filling # 8 question: q668243:8_answer with answer: 0
+
+Getting answer 0 for question q668243:9_answer
+Filling # 9 question: q668243:9_answer with answer: 0
+
+Getting answer 0 for question q668243:10_answer
+Filling # 10 question: q668243:10_answer with answer: 0
+
+Getting answer 0 for question q668243:11_answer
+Filling # 11 question: q668243:11_answer with answer: 0
+
+Getting answer 0 for question q668243:12_answer
+Filling # 12 question: q668243:12_answer with answer: 0
+
+Getting answer 0 for question q668243:13_answer
+Filling # 13 question: q668243:13_answer with answer: 0
+
+Getting answer 0 for question q668243:14_answer
+Filling # 14 question: q668243:14_answer with answer: 0
+
+Getting answer 0 for question q668243:15_answer
+Filling # 15 question: q668243:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (7:  She said that she had been waiting for the bus when he arrived)
+Saving answer (8:  She said that she was coming)
+Saving answer (9:  He said that they had gone out last night)
+{'9': ' He said that they had gone out last night', '8': ' She said that she was coming', '7': ' She said that she had been waiting for the bus when he arrived'}
+{'11': [u' He says that she didn\u2019t eat sushi before'], '10': [' She tells that he works in a bank'], '13': [' She says that she is living in Paris for a few months'], '12': [' She said that she visit her parents at the weekend'], '15': [" She said that she did'nt like chocolatte"], '14': [' He says that he would sees me tomorrow'], '1': [' She said that he could go to bed early'], '3': [' She said that he did not eaten breakfast'], '2': [' He say that he could help me tomorrow'], '5': [' He say that he has been going to the party'], '4': [' She said that Lucy shall come later'], '6': [' He say that he had been been here before']}
+
+Starting attempt #2 for M9: KA 2nd-1
+Getting with expr: //label[contains(@for, 'q668245:1_answer') and text()!=concat('a.',' She said that he could go to bed early') and text()!=concat('b.',' She said that he could go to bed early') and text()!=concat('c.',' She said that he could go to bed early') and text()!=concat('d.',' She said that he could go to bed early')]
+Getting answer 0 for question q668245:1_answer
+Filling # 1 question: q668245:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:2_answer') and text()!=concat('a.',' He say that he could help me tomorrow') and text()!=concat('b.',' He say that he could help me tomorrow') and text()!=concat('c.',' He say that he could help me tomorrow') and text()!=concat('d.',' He say that he could help me tomorrow')]
+Getting answer 0 for question q668245:2_answer
+Filling # 2 question: q668245:2_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:3_answer') and text()!=concat('a.',' She said that he did not eaten breakfast') and text()!=concat('b.',' She said that he did not eaten breakfast') and text()!=concat('c.',' She said that he did not eaten breakfast') and text()!=concat('d.',' She said that he did not eaten breakfast')]
+Getting answer 0 for question q668245:3_answer
+Filling # 3 question: q668245:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:4_answer') and text()!=concat('a.',' She said that Lucy shall come later') and text()!=concat('b.',' She said that Lucy shall come later') and text()!=concat('c.',' She said that Lucy shall come later') and text()!=concat('d.',' She said that Lucy shall come later')]
+Getting answer 0 for question q668245:4_answer
+Filling # 4 question: q668245:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:5_answer') and text()!=concat('a.',' He say that he has been going to the party') and text()!=concat('b.',' He say that he has been going to the party') and text()!=concat('c.',' He say that he has been going to the party') and text()!=concat('d.',' He say that he has been going to the party')]
+Getting answer 0 for question q668245:5_answer
+Filling # 5 question: q668245:5_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:6_answer') and text()!=concat('a.',' He say that he had been been here before') and text()!=concat('b.',' He say that he had been been here before') and text()!=concat('c.',' He say that he had been been here before') and text()!=concat('d.',' He say that he had been been here before')]
+Getting answer 1 for question q668245:6_answer
+Filling # 6 question: q668245:6_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668245:7_answer') and contains(text(), ' She said that she had been waiting for the bus when he arrived')]
+Getting answer 1 for question q668245:7_answer
+Filling # 7 question: q668245:7_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668245:8_answer') and contains(text(), ' She said that she was coming')]
+Getting answer 1 for question q668245:8_answer
+Filling # 8 question: q668245:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668245:9_answer') and contains(text(), ' He said that they had gone out last night')]
+Getting answer 1 for question q668245:9_answer
+Filling # 9 question: q668245:9_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668245:10_answer') and text()!=concat('a.',' She tells that he works in a bank') and text()!=concat('b.',' She tells that he works in a bank') and text()!=concat('c.',' She tells that he works in a bank') and text()!=concat('d.',' She tells that he works in a bank')]
+Getting answer 0 for question q668245:10_answer
+Filling # 10 question: q668245:10_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:11_answer') and text()!=concat('a.',' He says that she didn’t eat sushi before') and text()!=concat('b.',' He says that she didn’t eat sushi before') and text()!=concat('c.',' He says that she didn’t eat sushi before') and text()!=concat('d.',' He says that she didn’t eat sushi before')]
+Getting answer 0 for question q668245:11_answer
+Filling # 11 question: q668245:11_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:12_answer') and text()!=concat('a.',' She said that she visit her parents at the weekend') and text()!=concat('b.',' She said that she visit her parents at the weekend') and text()!=concat('c.',' She said that she visit her parents at the weekend') and text()!=concat('d.',' She said that she visit her parents at the weekend')]
+Getting answer 0 for question q668245:12_answer
+Filling # 12 question: q668245:12_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:13_answer') and text()!=concat('a.',' She says that she is living in Paris for a few months') and text()!=concat('b.',' She says that she is living in Paris for a few months') and text()!=concat('c.',' She says that she is living in Paris for a few months') and text()!=concat('d.',' She says that she is living in Paris for a few months')]
+Getting answer 1 for question q668245:13_answer
+Filling # 13 question: q668245:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668245:14_answer') and text()!=concat('a.',' He says that he would sees me tomorrow') and text()!=concat('b.',' He says that he would sees me tomorrow') and text()!=concat('c.',' He says that he would sees me tomorrow') and text()!=concat('d.',' He says that he would sees me tomorrow')]
+Getting answer 0 for question q668245:14_answer
+Filling # 14 question: q668245:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668245:15_answer') and text()!=concat('a.',concat(' She said that she did',"'",'nt like chocolatte')) and text()!=concat('b.',concat(' She said that she did',"'",'nt like chocolatte')) and text()!=concat('c.',concat(' She said that she did',"'",'nt like chocolatte')) and text()!=concat('d.',concat(' She said that she did',"'",'nt like chocolatte'))]
+Getting answer 0 for question q668245:15_answer
+Filling # 15 question: q668245:15_answer with answer: 0
+
+Finishing attempt #2
+
+Saving answer (2:  He said that she could help me tomorrow)
+Saving answer (6:  He said that she had never been there before)
+Saving answer (7:  She said that she had been waiting for the bus when he arrived)
+Saving answer (8:  She said that she was coming)
+Saving answer (9:  He said that they had gone out last night)
+Saving answer (11:  He said that she hadn't eaten sushi before)
+Saving answer (12:  She said that she had visited her parents at the weekend)
+Saving answer (15:  She said that she didn't like chocolate)
+{'11': " He said that she hadn't eaten sushi before", '12': ' She said that she had visited her parents at the weekend', '15': " She said that she didn't like chocolate", '2': ' He said that she could help me tomorrow', '7': ' She said that she had been waiting for the bus when he arrived', '6': ' He said that she had never been there before', '9': ' He said that they had gone out last night', '8': ' She said that she was coming'}
+{'11': [u' He says that she didn\u2019t eat sushi before'], '10': [' She tells that he works in a bank', ' She say that he worked in a bank'], '13': [' She says that she is living in Paris for a few months', ' She says that she living in Paris for a few months'], '12': [' She said that she visit her parents at the weekend'], '15': [" She said that she did'nt like chocolatte"], '14': [' He says that he would sees me tomorrow', ' He said that he will not see me tomorrow'], '1': [' She said that he could go to bed early', ' She say that I could go to bed early'], '3': [' She said that he did not eaten breakfast', ' She says that he has not eaten breakfast'], '2': [' He say that he could help me tomorrow'], '5': [' He say that he has been going to the party', u' He says that he had\u2019t gone to the party'], '4': [' She said that Lucy shall come later', ' She said that Lucy wil come later'], '6': [' He say that he had been been here before']}
+
+Starting attempt #3 for M9: KA 2nd-1
+Getting with expr: //label[contains(@for, 'q668246:1_answer') and text()!=concat('a.',' She said that he could go to bed early') and text()!=concat('b.',' She said that he could go to bed early') and text()!=concat('c.',' She said that he could go to bed early') and text()!=concat('d.',' She said that he could go to bed early') and text()!=concat('a.',' She say that I could go to bed early') and text()!=concat('b.',' She say that I could go to bed early') and text()!=concat('c.',' She say that I could go to bed early') and text()!=concat('d.',' She say that I could go to bed early')]
+Getting answer 0 for question q668246:1_answer
+Filling # 1 question: q668246:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668246:2_answer') and contains(text(), ' He said that she could help me tomorrow')]
+Getting answer 2 for question q668246:2_answer
+Filling # 2 question: q668246:2_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668246:3_answer') and text()!=concat('a.',' She said that he did not eaten breakfast') and text()!=concat('b.',' She said that he did not eaten breakfast') and text()!=concat('c.',' She said that he did not eaten breakfast') and text()!=concat('d.',' She said that he did not eaten breakfast') and text()!=concat('a.',' She says that he has not eaten breakfast') and text()!=concat('b.',' She says that he has not eaten breakfast') and text()!=concat('c.',' She says that he has not eaten breakfast') and text()!=concat('d.',' She says that he has not eaten breakfast')]
+Getting answer 1 for question q668246:3_answer
+Filling # 3 question: q668246:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668246:4_answer') and text()!=concat('a.',' She said that Lucy shall come later') and text()!=concat('b.',' She said that Lucy shall come later') and text()!=concat('c.',' She said that Lucy shall come later') and text()!=concat('d.',' She said that Lucy shall come later') and text()!=concat('a.',' She said that Lucy wil come later') and text()!=concat('b.',' She said that Lucy wil come later') and text()!=concat('c.',' She said that Lucy wil come later') and text()!=concat('d.',' She said that Lucy wil come later')]
+Getting answer 0 for question q668246:4_answer
+Filling # 4 question: q668246:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668246:5_answer') and text()!=concat('a.',' He say that he has been going to the party') and text()!=concat('b.',' He say that he has been going to the party') and text()!=concat('c.',' He say that he has been going to the party') and text()!=concat('d.',' He say that he has been going to the party') and text()!=concat('a.',' He says that he had’t gone to the party') and text()!=concat('b.',' He says that he had’t gone to the party') and text()!=concat('c.',' He says that he had’t gone to the party') and text()!=concat('d.',' He says that he had’t gone to the party')]
+Getting answer 1 for question q668246:5_answer
+Filling # 5 question: q668246:5_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668246:6_answer') and contains(text(), ' He said that she had never been there before')]
+Getting answer 2 for question q668246:6_answer
+Filling # 6 question: q668246:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668246:7_answer') and contains(text(), ' She said that she had been waiting for the bus when he arrived')]
+Getting answer 3 for question q668246:7_answer
+Filling # 7 question: q668246:7_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668246:8_answer') and contains(text(), ' She said that she was coming')]
+Getting answer 0 for question q668246:8_answer
+Filling # 8 question: q668246:8_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668246:9_answer') and contains(text(), ' He said that they had gone out last night')]
+Getting answer 2 for question q668246:9_answer
+Filling # 9 question: q668246:9_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668246:10_answer') and text()!=concat('a.',' She tells that he works in a bank') and text()!=concat('b.',' She tells that he works in a bank') and text()!=concat('c.',' She tells that he works in a bank') and text()!=concat('d.',' She tells that he works in a bank') and text()!=concat('a.',' She say that he worked in a bank') and text()!=concat('b.',' She say that he worked in a bank') and text()!=concat('c.',' She say that he worked in a bank') and text()!=concat('d.',' She say that he worked in a bank')]
+Getting answer 2 for question q668246:10_answer
+Filling # 10 question: q668246:10_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668246:11_answer') and contains(text(), concat(' He said that she hadn',"'",'t eaten sushi before'))]
+Getting answer 3 for question q668246:11_answer
+Filling # 11 question: q668246:11_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668246:12_answer') and contains(text(), ' She said that she had visited her parents at the weekend')]
+Getting answer 2 for question q668246:12_answer
+Filling # 12 question: q668246:12_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668246:13_answer') and text()!=concat('a.',' She says that she is living in Paris for a few months') and text()!=concat('b.',' She says that she is living in Paris for a few months') and text()!=concat('c.',' She says that she is living in Paris for a few months') and text()!=concat('d.',' She says that she is living in Paris for a few months') and text()!=concat('a.',' She says that she living in Paris for a few months') and text()!=concat('b.',' She says that she living in Paris for a few months') and text()!=concat('c.',' She says that she living in Paris for a few months') and text()!=concat('d.',' She says that she living in Paris for a few months')]
+Getting answer 1 for question q668246:13_answer
+Filling # 13 question: q668246:13_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668246:14_answer') and text()!=concat('a.',' He says that he would sees me tomorrow') and text()!=concat('b.',' He says that he would sees me tomorrow') and text()!=concat('c.',' He says that he would sees me tomorrow') and text()!=concat('d.',' He says that he would sees me tomorrow') and text()!=concat('a.',' He said that he will not see me tomorrow') and text()!=concat('b.',' He said that he will not see me tomorrow') and text()!=concat('c.',' He said that he will not see me tomorrow') and text()!=concat('d.',' He said that he will not see me tomorrow')]
+Getting answer 2 for question q668246:14_answer
+Filling # 14 question: q668246:14_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668246:15_answer') and contains(text(), concat(' She said that she didn',"'",'t like chocolate'))]
+Getting answer 0 for question q668246:15_answer
+Filling # 15 question: q668246:15_answer with answer: 0
+
+Finishing attempt #3
+
+Saving answer (1:  She said that I should go to bed early)
+Saving answer (2:  He said that she could help me tomorrow)
+Saving answer (3:  She said that he hadn't eaten breakfast)
+Saving answer (4:  She said that Lucy would come later)
+Saving answer (5:  He said that he hadn't gone to the party)
+Saving answer (6:  He said that she had never been there before)
+Saving answer (7:  She said that she had been waiting for the bus when he arrived)
+Saving answer (8:  She said that she was coming)
+Saving answer (9:  He said that they had gone out last night)
+Saving answer (10:  She said that he worked in a bank)
+Saving answer (11:  He said that she hadn't eaten sushi before)
+Saving answer (12:  She said that she had visited her parents at the weekend)
+Saving answer (13:  She said that she was living in Paris for a few months)
+Saving answer (15:  She said that she didn't like chocolate)
+{'11': " He said that she hadn't eaten sushi before", '10': ' She said that he worked in a bank', '13': ' She said that she was living in Paris for a few months', '12': ' She said that she had visited her parents at the weekend', '15': " She said that she didn't like chocolate", '1': ' She said that I should go to bed early', '3': " She said that he hadn't eaten breakfast", '2': ' He said that she could help me tomorrow', '5': " He said that he hadn't gone to the party", '4': ' She said that Lucy would come later', '7': ' She said that she had been waiting for the bus when he arrived', '6': ' He said that she had never been there before', '9': ' He said that they had gone out last night', '8': ' She said that she was coming'}
+{'11': [u' He says that she didn\u2019t eat sushi before'], '10': [' She tells that he works in a bank', ' She say that he worked in a bank'], '13': [' She says that she is living in Paris for a few months', ' She says that she living in Paris for a few months'], '12': [' She said that she visit her parents at the weekend'], '15': [" She said that she did'nt like chocolatte"], '14': [' He says that he would sees me tomorrow', ' He said that he will not see me tomorrow', ' He says that he would see me tomorrow'], '1': [' She said that he could go to bed early', ' She say that I could go to bed early'], '3': [' She said that he did not eaten breakfast', ' She says that he has not eaten breakfast'], '2': [' He say that he could help me tomorrow'], '5': [' He say that he has been going to the party', u' He says that he had\u2019t gone to the party'], '4': [' She said that Lucy shall come later', ' She said that Lucy wil come later'], '6': [' He say that he had been been here before']}
+
+Starting attempt #4 for M9: KA 2nd-1
+Getting with expr: //label[contains(@for, 'q668248:1_answer') and contains(text(), ' She said that I should go to bed early')]
+Getting answer 0 for question q668248:1_answer
+Filling # 1 question: q668248:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668248:2_answer') and contains(text(), ' He said that she could help me tomorrow')]
+Getting answer 3 for question q668248:2_answer
+Filling # 2 question: q668248:2_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668248:3_answer') and contains(text(), concat(' She said that he hadn',"'",'t eaten breakfast'))]
+Getting answer 1 for question q668248:3_answer
+Filling # 3 question: q668248:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668248:4_answer') and contains(text(), ' She said that Lucy would come later')]
+Getting answer 1 for question q668248:4_answer
+Filling # 4 question: q668248:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668248:5_answer') and contains(text(), concat(' He said that he hadn',"'",'t gone to the party'))]
+Getting answer 3 for question q668248:5_answer
+Filling # 5 question: q668248:5_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668248:6_answer') and contains(text(), ' He said that she had never been there before')]
+Getting answer 0 for question q668248:6_answer
+Filling # 6 question: q668248:6_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668248:7_answer') and contains(text(), ' She said that she had been waiting for the bus when he arrived')]
+Getting answer 1 for question q668248:7_answer
+Filling # 7 question: q668248:7_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668248:8_answer') and contains(text(), ' She said that she was coming')]
+Getting answer 1 for question q668248:8_answer
+Filling # 8 question: q668248:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668248:9_answer') and contains(text(), ' He said that they had gone out last night')]
+Getting answer 3 for question q668248:9_answer
+Filling # 9 question: q668248:9_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668248:10_answer') and contains(text(), ' She said that he worked in a bank')]
+Getting answer 1 for question q668248:10_answer
+Filling # 10 question: q668248:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668248:11_answer') and contains(text(), concat(' He said that she hadn',"'",'t eaten sushi before'))]
+Getting answer 3 for question q668248:11_answer
+Filling # 11 question: q668248:11_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668248:12_answer') and contains(text(), ' She said that she had visited her parents at the weekend')]
+Getting answer 2 for question q668248:12_answer
+Filling # 12 question: q668248:12_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668248:13_answer') and contains(text(), ' She said that she was living in Paris for a few months')]
+Getting answer 3 for question q668248:13_answer
+Filling # 13 question: q668248:13_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668248:14_answer') and text()!=concat('a.',' He says that he would sees me tomorrow') and text()!=concat('b.',' He says that he would sees me tomorrow') and text()!=concat('c.',' He says that he would sees me tomorrow') and text()!=concat('d.',' He says that he would sees me tomorrow') and text()!=concat('a.',' He said that he will not see me tomorrow') and text()!=concat('b.',' He said that he will not see me tomorrow') and text()!=concat('c.',' He said that he will not see me tomorrow') and text()!=concat('d.',' He said that he will not see me tomorrow') and text()!=concat('a.',' He says that he would see me tomorrow') and text()!=concat('b.',' He says that he would see me tomorrow') and text()!=concat('c.',' He says that he would see me tomorrow') and text()!=concat('d.',' He says that he would see me tomorrow')]
+Getting answer 1 for question q668248:14_answer
+Filling # 14 question: q668248:14_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668248:15_answer') and contains(text(), concat(' She said that she didn',"'",'t like chocolate'))]
+Getting answer 1 for question q668248:15_answer
+Filling # 15 question: q668248:15_answer with answer: 1
+
+Finishing attempt #4
+
+Saving answer (1:  She said that I should go to bed early)
+Saving answer (2:  He said that she could help me tomorrow)
+Saving answer (3:  She said that he hadn't eaten breakfast)
+Saving answer (4:  She said that Lucy would come later)
+Saving answer (5:  He said that he hadn't gone to the party)
+Saving answer (6:  He said that she had never been there before)
+Saving answer (7:  She said that she had been waiting for the bus when he arrived)
+Saving answer (8:  She said that she was coming)
+Saving answer (9:  He said that they had gone out last night)
+Saving answer (10:  She said that he worked in a bank)
+Saving answer (11:  He said that she hadn't eaten sushi before)
+Saving answer (12:  She said that she had visited her parents at the weekend)
+Saving answer (13:  She said that she was living in Paris for a few months)
+Saving answer (14:  He said that he wouldn't see me tomorrow)
+Saving answer (15:  She said that she didn't like chocolate)
+{'11': " He said that she hadn't eaten sushi before", '10': ' She said that he worked in a bank', '13': ' She said that she was living in Paris for a few months', '12': ' She said that she had visited her parents at the weekend', '15': " She said that she didn't like chocolate", '14': " He said that he wouldn't see me tomorrow", '1': ' She said that I should go to bed early', '3': " She said that he hadn't eaten breakfast", '2': ' He said that she could help me tomorrow', '5': " He said that he hadn't gone to the party", '4': ' She said that Lucy would come later', '7': ' She said that she had been waiting for the bus when he arrived', '6': ' He said that she had never been there before', '9': ' He said that they had gone out last night', '8': ' She said that she was coming'}
+{'11': [u' He says that she didn\u2019t eat sushi before'], '10': [' She tells that he works in a bank', ' She say that he worked in a bank'], '13': [' She says that she is living in Paris for a few months', ' She says that she living in Paris for a few months'], '12': [' She said that she visit her parents at the weekend'], '15': [" She said that she did'nt like chocolatte"], '14': [' He says that he would sees me tomorrow', ' He said that he will not see me tomorrow', ' He says that he would see me tomorrow'], '1': [' She said that he could go to bed early', ' She say that I could go to bed early'], '3': [' She said that he did not eaten breakfast', ' She says that he has not eaten breakfast'], '2': [' He say that he could help me tomorrow'], '5': [' He say that he has been going to the party', u' He says that he had\u2019t gone to the party'], '4': [' She said that Lucy shall come later', ' She said that Lucy wil come later'], '6': [' He say that he had been been here before']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/M9__KA_2nd_1.html
+
+Starting attempt #1 for M9: KA 2nd-2
+Getting answer 0 for question q668250:1_answer
+Filling # 1 question: q668250:1_answer with answer: 0
+
+Getting answer 0 for question q668250:2_answer
+Filling # 2 question: q668250:2_answer with answer: 0
+
+Getting answer 0 for question q668250:3_answer
+Filling # 3 question: q668250:3_answer with answer: 0
+
+Getting answer 0 for question q668250:4_answer
+Filling # 4 question: q668250:4_answer with answer: 0
+
+Getting answer 0 for question q668250:5_answer
+Filling # 5 question: q668250:5_answer with answer: 0
+
+Getting answer 0 for question q668250:6_answer
+Filling # 6 question: q668250:6_answer with answer: 0
+
+Getting answer 0 for question q668250:7_answer
+Filling # 7 question: q668250:7_answer with answer: 0
+
+Getting answer 0 for question q668250:8_answer
+Filling # 8 question: q668250:8_answer with answer: 0
+
+Getting answer 0 for question q668250:9_answer
+Filling # 9 question: q668250:9_answer with answer: 0
+
+Getting answer 0 for question q668250:10_answer
+Filling # 10 question: q668250:10_answer with answer: 0
+
+Getting answer 0 for question q668250:11_answer
+Filling # 11 question: q668250:11_answer with answer: 0
+
+Getting answer 0 for question q668250:12_answer
+Filling # 12 question: q668250:12_answer with answer: 0
+
+Getting answer 0 for question q668250:13_answer
+Filling # 13 question: q668250:13_answer with answer: 0
+
+Getting answer 0 for question q668250:14_answer
+Filling # 14 question: q668250:14_answer with answer: 0
+
+Getting answer 0 for question q668250:15_answer
+Filling # 15 question: q668250:15_answer with answer: 0
+
+Finishing attempt #1
+
+Saving answer (6:  Estates)
+Saving answer (10:  bruise)
+Saving answer (11:  fell down)
+Saving answer (12:  fell off of)
+{'11': ' fell down', '10': ' bruise', '12': ' fell off of', '6': ' Estates'}
+{'13': [' bruised'], '15': [' trip'], '14': [' bit'], '1': [' fell out of'], '3': [' On'], '2': [' Accidents'], '5': [' exceeds'], '4': [' fast'], '7': [' eaten'], '9': [' falled'], '8': [' ripped']}
+
+Starting attempt #2 for M9: KA 2nd-2
+Getting with expr: //label[contains(@for, 'q668251:1_answer') and text()!=concat('a.',' fell out of') and text()!=concat('b.',' fell out of') and text()!=concat('c.',' fell out of') and text()!=concat('d.',' fell out of')]
+Getting answer 0 for question q668251:1_answer
+Filling # 1 question: q668251:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668251:2_answer') and text()!=concat('a.',' Accidents') and text()!=concat('b.',' Accidents') and text()!=concat('c.',' Accidents') and text()!=concat('d.',' Accidents')]
+Getting answer 1 for question q668251:2_answer
+Filling # 2 question: q668251:2_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668251:3_answer') and text()!=concat('a.',' On') and text()!=concat('b.',' On') and text()!=concat('c.',' On') and text()!=concat('d.',' On')]
+Getting answer 1 for question q668251:3_answer
+Filling # 3 question: q668251:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668251:4_answer') and text()!=concat('a.',' fast') and text()!=concat('b.',' fast') and text()!=concat('c.',' fast') and text()!=concat('d.',' fast')]
+Getting answer 0 for question q668251:4_answer
+Filling # 4 question: q668251:4_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668251:5_answer') and text()!=concat('a.',' exceeds') and text()!=concat('b.',' exceeds') and text()!=concat('c.',' exceeds') and text()!=concat('d.',' exceeds')]
+Getting answer 0 for question q668251:5_answer
+Filling # 5 question: q668251:5_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668251:6_answer') and contains(text(), ' Estates')]
+Getting answer 3 for question q668251:6_answer
+Filling # 6 question: q668251:6_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668251:7_answer') and text()!=concat('a.',' eaten') and text()!=concat('b.',' eaten') and text()!=concat('c.',' eaten') and text()!=concat('d.',' eaten')]
+Getting answer 1 for question q668251:7_answer
+Filling # 7 question: q668251:7_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668251:8_answer') and text()!=concat('a.',' ripped') and text()!=concat('b.',' ripped') and text()!=concat('c.',' ripped') and text()!=concat('d.',' ripped')]
+Getting answer 1 for question q668251:8_answer
+Filling # 8 question: q668251:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668251:9_answer') and text()!=concat('a.',' falled') and text()!=concat('b.',' falled') and text()!=concat('c.',' falled') and text()!=concat('d.',' falled')]
+Getting answer 1 for question q668251:9_answer
+Filling # 9 question: q668251:9_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668251:10_answer') and contains(text(), ' bruise')]
+Getting answer 3 for question q668251:10_answer
+Filling # 10 question: q668251:10_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668251:11_answer') and contains(text(), ' fell down')]
+Getting answer 1 for question q668251:11_answer
+Filling # 11 question: q668251:11_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668251:12_answer') and contains(text(), ' fell off of')]
+Getting answer 3 for question q668251:12_answer
+Filling # 12 question: q668251:12_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668251:13_answer') and text()!=concat('a.',' bruised') and text()!=concat('b.',' bruised') and text()!=concat('c.',' bruised') and text()!=concat('d.',' bruised')]
+Getting answer 0 for question q668251:13_answer
+Filling # 13 question: q668251:13_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668251:14_answer') and text()!=concat('a.',' bit') and text()!=concat('b.',' bit') and text()!=concat('c.',' bit') and text()!=concat('d.',' bit')]
+Getting answer 0 for question q668251:14_answer
+Filling # 14 question: q668251:14_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668251:15_answer') and text()!=concat('a.',' trip') and text()!=concat('b.',' trip') and text()!=concat('c.',' trip') and text()!=concat('d.',' trip')]
+Getting answer 0 for question q668251:15_answer
+Filling # 15 question: q668251:15_answer with answer: 0
+
+Finishing attempt #2
+
+Saving answer (6:  Estates)
+Saving answer (7:  bitten)
+Saving answer (8:  broken)
+Saving answer (10:  bruise)
+Saving answer (11:  fell down)
+Saving answer (12:  fell off of)
+Saving answer (15:  slip)
+{'11': ' fell down', '10': ' bruise', '12': ' fell off of', '15': ' slip', '7': ' bitten', '6': ' Estates', '8': ' broken'}
+{'13': [' bruised', ' toasted'], '15': [' trip'], '14': [' bit', ' sting'], '1': [' fell out of', ' fell down'], '3': [' On', ' because'], '2': [' Accidents', ' often'], '5': [' exceeds', ' cost'], '4': [' fast', ' Wrecked'], '7': [' eaten'], '9': [' falled', ' flip'], '8': [' ripped']}
+
+Starting attempt #3 for M9: KA 2nd-2
+Getting with expr: //label[contains(@for, 'q668252:1_answer') and text()!=concat('a.',' fell out of') and text()!=concat('b.',' fell out of') and text()!=concat('c.',' fell out of') and text()!=concat('d.',' fell out of') and text()!=concat('a.',' fell down') and text()!=concat('b.',' fell down') and text()!=concat('c.',' fell down') and text()!=concat('d.',' fell down')]
+Getting answer 0 for question q668252:1_answer
+Filling # 1 question: q668252:1_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668252:2_answer') and text()!=concat('a.',' Accidents') and text()!=concat('b.',' Accidents') and text()!=concat('c.',' Accidents') and text()!=concat('d.',' Accidents') and text()!=concat('a.',' often') and text()!=concat('b.',' often') and text()!=concat('c.',' often') and text()!=concat('d.',' often')]
+Getting answer 1 for question q668252:2_answer
+Filling # 2 question: q668252:2_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:3_answer') and text()!=concat('a.',' On') and text()!=concat('b.',' On') and text()!=concat('c.',' On') and text()!=concat('d.',' On') and text()!=concat('a.',' because') and text()!=concat('b.',' because') and text()!=concat('c.',' because') and text()!=concat('d.',' because')]
+Getting answer 0 for question q668252:3_answer
+Filling # 3 question: q668252:3_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668252:4_answer') and text()!=concat('a.',' fast') and text()!=concat('b.',' fast') and text()!=concat('c.',' fast') and text()!=concat('d.',' fast') and text()!=concat('a.',' Wrecked') and text()!=concat('b.',' Wrecked') and text()!=concat('c.',' Wrecked') and text()!=concat('d.',' Wrecked')]
+Getting answer 1 for question q668252:4_answer
+Filling # 4 question: q668252:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:5_answer') and text()!=concat('a.',' exceeds') and text()!=concat('b.',' exceeds') and text()!=concat('c.',' exceeds') and text()!=concat('d.',' exceeds') and text()!=concat('a.',' cost') and text()!=concat('b.',' cost') and text()!=concat('c.',' cost') and text()!=concat('d.',' cost')]
+Getting answer 1 for question q668252:5_answer
+Filling # 5 question: q668252:5_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:6_answer') and contains(text(), ' Estates')]
+Getting answer 2 for question q668252:6_answer
+Filling # 6 question: q668252:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668252:7_answer') and contains(text(), ' bitten')]
+Getting answer 1 for question q668252:7_answer
+Filling # 7 question: q668252:7_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:8_answer') and contains(text(), ' broken')]
+Getting answer 1 for question q668252:8_answer
+Filling # 8 question: q668252:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:9_answer') and text()!=concat('a.',' falled') and text()!=concat('b.',' falled') and text()!=concat('c.',' falled') and text()!=concat('d.',' falled') and text()!=concat('a.',' flip') and text()!=concat('b.',' flip') and text()!=concat('c.',' flip') and text()!=concat('d.',' flip')]
+Getting answer 1 for question q668252:9_answer
+Filling # 9 question: q668252:9_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:10_answer') and contains(text(), ' bruise')]
+Getting answer 1 for question q668252:10_answer
+Filling # 10 question: q668252:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:11_answer') and contains(text(), ' fell down')]
+Getting answer 1 for question q668252:11_answer
+Filling # 11 question: q668252:11_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668252:12_answer') and contains(text(), ' fell off of')]
+Getting answer 2 for question q668252:12_answer
+Filling # 12 question: q668252:12_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668252:13_answer') and text()!=concat('a.',' bruised') and text()!=concat('b.',' bruised') and text()!=concat('c.',' bruised') and text()!=concat('d.',' bruised') and text()!=concat('a.',' toasted') and text()!=concat('b.',' toasted') and text()!=concat('c.',' toasted') and text()!=concat('d.',' toasted')]
+Getting answer 2 for question q668252:13_answer
+Filling # 13 question: q668252:13_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668252:14_answer') and text()!=concat('a.',' bit') and text()!=concat('b.',' bit') and text()!=concat('c.',' bit') and text()!=concat('d.',' bit') and text()!=concat('a.',' sting') and text()!=concat('b.',' sting') and text()!=concat('c.',' sting') and text()!=concat('d.',' sting')]
+Getting answer 2 for question q668252:14_answer
+Filling # 14 question: q668252:14_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668252:15_answer') and contains(text(), ' slip')]
+Getting answer 1 for question q668252:15_answer
+Filling # 15 question: q668252:15_answer with answer: 1
+
+Finishing attempt #3
+
+Saving answer (2:  Combinacion)
+Saving answer (5:  Stimated)
+Saving answer (6:  Estates)
+Saving answer (7:  bitten)
+Saving answer (8:  broken)
+Saving answer (10:  bruise)
+Saving answer (11:  fell down)
+Saving answer (12:  fell off of)
+Saving answer (13:  burned)
+Saving answer (14:  stung)
+Saving answer (15:  slip)
+{'11': ' fell down', '10': ' bruise', '13': ' burned', '12': ' fell off of', '15': ' slip', '14': ' stung', '2': ' Combinacion', '5': ' Stimated', '7': ' bitten', '6': ' Estates', '8': ' broken'}
+{'13': [' bruised', ' toasted'], '15': [' trip'], '14': [' bit', ' sting'], '1': [' fell out of', ' fell down', ' fell over'], '3': [' On', ' because', ' wrecked'], '2': [' Accidents', ' often'], '5': [' exceeds', ' cost'], '4': [' fast', ' Wrecked', ' Fortunately'], '7': [' eaten'], '9': [' falled', ' flip', ' fallen'], '8': [' ripped']}
+
+Starting attempt #4 for M9: KA 2nd-2
+Getting with expr: //label[contains(@for, 'q668253:1_answer') and text()!=concat('a.',' fell out of') and text()!=concat('b.',' fell out of') and text()!=concat('c.',' fell out of') and text()!=concat('d.',' fell out of') and text()!=concat('a.',' fell down') and text()!=concat('b.',' fell down') and text()!=concat('c.',' fell down') and text()!=concat('d.',' fell down') and text()!=concat('a.',' fell over') and text()!=concat('b.',' fell over') and text()!=concat('c.',' fell over') and text()!=concat('d.',' fell over')]
+Getting answer 1 for question q668253:1_answer
+Filling # 1 question: q668253:1_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668253:2_answer') and contains(text(), ' Combinacion')]
+Getting answer 3 for question q668253:2_answer
+Filling # 2 question: q668253:2_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668253:3_answer') and text()!=concat('a.',' On') and text()!=concat('b.',' On') and text()!=concat('c.',' On') and text()!=concat('d.',' On') and text()!=concat('a.',' because') and text()!=concat('b.',' because') and text()!=concat('c.',' because') and text()!=concat('d.',' because') and text()!=concat('a.',' wrecked') and text()!=concat('b.',' wrecked') and text()!=concat('c.',' wrecked') and text()!=concat('d.',' wrecked')]
+Getting answer 1 for question q668253:3_answer
+Filling # 3 question: q668253:3_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668253:4_answer') and text()!=concat('a.',' fast') and text()!=concat('b.',' fast') and text()!=concat('c.',' fast') and text()!=concat('d.',' fast') and text()!=concat('a.',' Wrecked') and text()!=concat('b.',' Wrecked') and text()!=concat('c.',' Wrecked') and text()!=concat('d.',' Wrecked') and text()!=concat('a.',' Fortunately') and text()!=concat('b.',' Fortunately') and text()!=concat('c.',' Fortunately') and text()!=concat('d.',' Fortunately')]
+Getting answer 1 for question q668253:4_answer
+Filling # 4 question: q668253:4_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668253:5_answer') and contains(text(), ' Stimated')]
+Getting answer 3 for question q668253:5_answer
+Filling # 5 question: q668253:5_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668253:6_answer') and contains(text(), ' Estates')]
+Getting answer 2 for question q668253:6_answer
+Filling # 6 question: q668253:6_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668253:7_answer') and contains(text(), ' bitten')]
+Getting answer 0 for question q668253:7_answer
+Filling # 7 question: q668253:7_answer with answer: 0
+
+Getting with expr: //label[contains(@for, 'q668253:8_answer') and contains(text(), ' broken')]
+Getting answer 1 for question q668253:8_answer
+Filling # 8 question: q668253:8_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668253:9_answer') and text()!=concat('a.',' falled') and text()!=concat('b.',' falled') and text()!=concat('c.',' falled') and text()!=concat('d.',' falled') and text()!=concat('a.',' flip') and text()!=concat('b.',' flip') and text()!=concat('c.',' flip') and text()!=concat('d.',' flip') and text()!=concat('a.',' fallen') and text()!=concat('b.',' fallen') and text()!=concat('c.',' fallen') and text()!=concat('d.',' fallen')]
+Getting answer 2 for question q668253:9_answer
+Filling # 9 question: q668253:9_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668253:10_answer') and contains(text(), ' bruise')]
+Getting answer 1 for question q668253:10_answer
+Filling # 10 question: q668253:10_answer with answer: 1
+
+Getting with expr: //label[contains(@for, 'q668253:11_answer') and contains(text(), ' fell down')]
+Getting answer 2 for question q668253:11_answer
+Filling # 11 question: q668253:11_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668253:12_answer') and contains(text(), ' fell off of')]
+Getting answer 2 for question q668253:12_answer
+Filling # 12 question: q668253:12_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668253:13_answer') and contains(text(), ' burned')]
+Getting answer 2 for question q668253:13_answer
+Filling # 13 question: q668253:13_answer with answer: 2
+
+Getting with expr: //label[contains(@for, 'q668253:14_answer') and contains(text(), ' stung')]
+Getting answer 3 for question q668253:14_answer
+Filling # 14 question: q668253:14_answer with answer: 3
+
+Getting with expr: //label[contains(@for, 'q668253:15_answer') and contains(text(), ' slip')]
+Getting answer 2 for question q668253:15_answer
+Filling # 15 question: q668253:15_answer with answer: 2
+
+Finishing attempt #4
+
+Saving answer (1:  fell off)
+Saving answer (2:  Combinacion)
+Saving answer (3:  Is)
+Saving answer (4:  Run into)
+Saving answer (5:  Stimated)
+Saving answer (6:  Estates)
+Saving answer (7:  bitten)
+Saving answer (8:  broken)
+Saving answer (9:  trip)
+Saving answer (10:  bruise)
+Saving answer (11:  fell down)
+Saving answer (12:  fell off of)
+Saving answer (13:  burned)
+Saving answer (14:  stung)
+Saving answer (15:  slip)
+{'11': ' fell down', '10': ' bruise', '13': ' burned', '12': ' fell off of', '15': ' slip', '14': ' stung', '1': ' fell off', '3': ' Is', '2': ' Combinacion', '5': ' Stimated', '4': ' Run into', '7': ' bitten', '6': ' Estates', '9': ' trip', '8': ' broken'}
+{'13': [' bruised', ' toasted'], '15': [' trip'], '14': [' bit', ' sting'], '1': [' fell out of', ' fell down', ' fell over'], '3': [' On', ' because', ' wrecked'], '2': [' Accidents', ' often'], '5': [' exceeds', ' cost'], '4': [' fast', ' Wrecked', ' Fortunately'], '7': [' eaten'], '9': [' falled', ' flip', ' fallen'], '8': [' ripped']}
+Saving answers to: /media/f/Workspace/Personal/Python/b-actividades/actividades/M9__KA_2nd_2.html

@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title>P2A1</title>
+    <link rel="shortcut icon" href="https://b-learning.utcv.edu.mx/theme/image.php/eguru/theme/1467063803/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, P2A1" />
+<link rel="stylesheet" type="text/css" href="https://b-learning.utcv.edu.mx/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://b-learning.utcv.edu.mx/theme/styles.php/eguru/1467063803/all" />
+<script type="text/javascript">
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/b-learning.utcv.edu.mx","sesskey":"J7sLzppnSO","loadingicon":"https:\/\/b-learning.utcv.edu.mx\/theme\/image.php\/eguru\/core\/1467063803\/i\/loading_small","themerev":"1467063803","slasharguments":1,"theme":"eguru","jsrev":"1464700795","admin":"admin","svgicons":true};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''};if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else me.path=component+'/'+component+'.'+me.type};
+YUI_config = {"debug":false,"base":"https:\/\/b-learning.utcv.edu.mx\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/b-learning.utcv.edu.mx\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/b-learning.utcv.edu.mx\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/b-learning.utcv.edu.mx\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/b-learning.utcv.edu.mx\/theme\/yui_combo.php?m\/1464700795\/","combine":true,"comboBase":"https:\/\/b-learning.utcv.edu.mx\/theme\/yui_combo.php?","ext":false,"root":"m\/1464700795\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-checknet":{"requires":["base-base","moodle-core-notification-alert","io-base"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-dock":{"requires":["base","node","event-custom","event-mouseenter","event-resize","escape","moodle-core-dock-loader"]},"moodle-core-dock-loader":{"requires":["escape"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-formautosubmit":{"requires":["base","event-key"]},"moodle-core-formchangechecker":{"requires":["base","event-focus"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core_availability-form":{"requires":["base","node","event","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-calendar-info":{"requires":["base","node","event-mouseenter","event-key","overlay","moodle-calendar-info-skin"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-modchooser":{"requires":["moodle-core-chooserdialogue","moodle-course-coursebase"]},"moodle-course-toolboxes":{"requires":["node","base","event-key","node","io","moodle-course-coursebase","moodle-course-util"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":["node","base"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-showadvanced":{"requires":["node","base","selector-css3"]},"moodle-core_message-messenger":{"requires":["escape","handlebars","io-base","moodle-core-notification-ajaxexception","moodle-core-notification-alert","moodle-core-notification-dialogue","moodle-core-notification-exception"]},"moodle-core_message-deletemessage":{"requires":["node","event"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-question-qbankmanager":{"requires":["node","selector-css3"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-qtype_ddimageortext-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-qtype_ddimageortext-form":{"requires":["moodle-qtype_ddimageortext-dd","form_filepicker"]},"moodle-qtype_ddmarker-dd":{"requires":["node","event-resize","dd","dd-drop","dd-constrain","graphics"]},"moodle-qtype_ddmarker-form":{"requires":["moodle-qtype_ddmarker-dd","form_filepicker","graphics","escape"]},"moodle-qtype_ddwtos-dd":{"requires":["node","dd","dd-drop","dd-constrain"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_forum-subscriptiontoggle":{"requires":["base-base","io-base"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-quizquestionbank":{"requires":["base","event","node","io","io-form","yui-later","moodle-question-qbankmanager","moodle-core-notification-dialogue"]},"moodle-mod_quiz-randomquestion":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-repaginate":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-util":{"requires":["node"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-block_navigation-navigation":{"requires":["base","io-base","node","event-synthetic","event-delegate","json-parse"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_html-button":{"requires":["moodle-editor_atto-plugin","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/b-learning.utcv.edu.mx\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/b-learning.utcv.edu.mx\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1464700795\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/b-learning.utcv.edu.mx\/lib\/javascript.php\/1464700795\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker"]},"core_question_flags":{"name":"core_question_flags","fullpath":"https:\/\/b-learning.utcv.edu.mx\/lib\/javascript.php\/1464700795\/question\/flags.js","requires":["base","dom","event-delegate","io-base"]},"core_question_engine":{"name":"core_question_engine","fullpath":"https:\/\/b-learning.utcv.edu.mx\/lib\/javascript.php\/1464700795\/question\/qengine.js","requires":["node","event"]},"mod_quiz":{"name":"mod_quiz","fullpath":"https:\/\/b-learning.utcv.edu.mx\/lib\/javascript.php\/1464700795\/mod\/quiz\/module.js","requires":["base","dom","event-delegate","event-key","core_question_engine","moodle-core-formchangechecker"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdn.mathjax.org\/mathjax\/2.5-latest\/MathJax.js?delayStartupUntil=configured"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body  id="page-mod-quiz-review" class="format-onetopic  path-mod path-mod-quiz dir-ltr lang-en yui-skin-sam yui3-skin-sam b-learning-utcv-edu-mx pagelayout-incourse course-272 context-33964 cmid-11803 category-7 has-region-side-pre used-region-side-pre has-region-side-post empty-region-side-post side-pre-only">
+
+<div class="skiplinks"><a class="skip" href="#maincontent">Skip to main content</a></div>
+<script type="text/javascript" src="https://b-learning.utcv.edu.mx/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js&amp;rollup/1464700795/mcore-min.js"></script><script type="text/javascript" src="https://b-learning.utcv.edu.mx/theme/jquery.php/core/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="https://b-learning.utcv.edu.mx/theme/jquery.php/core/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://b-learning.utcv.edu.mx/lib/javascript.php/1464700795/lib/javascript-static.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+<!--Add the following script at the bottom of the web page (before </body></html>)-->
+<script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=10789435"></script>
+<!--[if gte IE 9]>
+  <style type="text/css">
+    * {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+<header id="header">
+
+	<div class="header-main">
+    	<div class="container-fluid">
+	    	<div class="header-logo">
+              <a href="https://b-learning.utcv.edu.mx">
+              <img src="//b-learning.utcv.edu.mx/pluginfile.php/1/theme_eguru/logo/1467063803/logo3.png" width="100" height="67" alt="Eguru">
+              </a>
+            </div>
+<div class="usermenu"><div id="action-menu-0" class="moodle-actionmenu nowrap-items" data-enhance="moodle-core-actionmenu"><ul id="action-menu-0-menubar" class="menubar" role="menubar"><li role="presentation"><a class="toggle-display textmenu" title="" id="action-menu-toggle-0" role="menuitem" href="#"><span class="userbutton"><span class="usertext">ITICU-ESC_9A_MA2016 MOLINA PEREZ ANTONIO ADONAI</span><span class="avatars"><span class="avatar current"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/u/f2" alt="Picture of ITICU-ESC_9A_MA2016 MOLINA PEREZ ANTONIO ADONAI" title="Picture of ITICU-ESC_9A_MA2016 MOLINA PEREZ ANTONIO ADONAI" class="userpicture defaultuserpic" width="35" height="35" role="presentation" /></span></span></span><b class="caret"></b></a></li></ul><ul id="action-menu-0-menu" class="menu  align-tr-br" data-rel="menu-content" aria-labelledby="action-menu-toggle-0" role="menu" data-align="tr-br"><li role="presentation"><a class="icon menu-action" role="menuitem" href="https://b-learning.utcv.edu.mx/my/" aria-labelledby="actionmenuaction-1"><img class="iconsmall" alt="" src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/course" /><span class="menu-action-text" id="actionmenuaction-1">Dashboard</span></a></li><li role="presentation"><span class="filler">&nbsp;</span></li><li role="presentation"><a class="icon menu-action" role="menuitem" href="https://b-learning.utcv.edu.mx/user/profile.php?id=6067" aria-labelledby="actionmenuaction-2"><img class="iconsmall" alt="" src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/user" /><span class="menu-action-text" id="actionmenuaction-2">Profile</span></a></li><li role="presentation"><a class="icon menu-action" role="menuitem" href="https://b-learning.utcv.edu.mx/grade/report/overview/index.php" aria-labelledby="actionmenuaction-3"><img class="iconsmall" alt="" src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/t/grades" /><span class="menu-action-text" id="actionmenuaction-3">Grades</span></a></li><li role="presentation"><a class="icon menu-action" role="menuitem" href="https://b-learning.utcv.edu.mx/message/index.php" aria-labelledby="actionmenuaction-4"><img class="iconsmall" alt="" src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/t/message" /><span class="menu-action-text" id="actionmenuaction-4">Messages</span></a></li><li role="presentation"><a class="icon menu-action" role="menuitem" href="https://b-learning.utcv.edu.mx/user/preferences.php" aria-labelledby="actionmenuaction-5"><img class="iconsmall" alt="" src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/t/preferences" /><span class="menu-action-text" id="actionmenuaction-5">Preferences</span></a></li><li role="presentation"><span class="filler">&nbsp;</span></li><li role="presentation"><a class="icon menu-action" role="menuitem" href="https://b-learning.utcv.edu.mx/login/logout.php?sesskey=J7sLzppnSO" aria-labelledby="actionmenuaction-6"><img class="iconsmall" alt="" src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/a/logout" /><span class="menu-action-text" id="actionmenuaction-6">Log out</span></a></li></ul></div></div>            
+    	    <div class="custom-menu visible-desktop">
+            	<ul>
+                	<li><a href="https://b-learning.utcv.edu.mx">Home</a></li>
+               	
+                </ul>
+            </div>
+	        <div class="clearfix"></div>
+        </div>
+    </div>
+    
+    <div class="header-menubar">
+        <div class="navbar">
+          <div class="navbar-inner">
+            <div class="container-fluid">
+              <a data-target="#Mainmenu" data-toggle="collapse" class="btn btn-navbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </a>
+              <a href="#" class="brand" style="display: none;">Eguru</a>
+              <div id="Mainmenu" class="nav-collapse collapse navbar-responsive-collapse">
+                <ul class="nav"><li class="dropdown"><a href="#cm_submenu_1" class="dropdown-toggle" data-toggle="dropdown" title="Manuales">Manuales<b class="caret"></b></a><ul class="dropdown-menu"><li><a title="¿Cuál es mi cuenta y contraseña?" href="https://drive.google.com/a/utcv.edu.mx/file/d/0B5PeVBCP96pXckwyLUhlci1PVUk/view">¿Cuál es mi cuenta y contraseña?</a></li><li><a title="¿Como activo mi cuenta de correo institucional?" href="https://drive.google.com/file/d/0B5PeVBCP96pXNWVLUmtPclZfUUk/view?pref=2&amp;pli=1">¿Como activo mi cuenta de correo institucional?</a></li><li><a title="¿Como configuro mi cuenta de correo para entrar a la plataforma institucional?" href="https://drive.google.com/file/d/0BwHc8ySyREQoYWdVVmdkYWpBa0F2WWpNQ0pSX1g4SjdaZGRR/view?pli=1">¿Como configuro mi cuenta de correo para entrar a la plataforma institucional?</a></li><li><a title="¿Qué hago si no recuerdo mi contraseña?" href="https://drive.google.com/file/d/0B5PeVBCP96pXQjU4YS0xeEx2VFk/view?pref=2&amp;pli=1">¿Qué hago si no recuerdo mi contraseña?</a></li></ul><li class="dropdown"><a href="#cm_submenu_2" class="dropdown-toggle" data-toggle="dropdown" title="Biblioteca Virtual">Biblioteca Virtual<b class="caret"></b></a><ul class="dropdown-menu"><li><a title="Bases de Datos" href="http://www.utcv.edu.mx/index.php/biblioteca-virtual-423">Bases de Datos</a></li><li><a title="Repositorio Académica Telmex" href="http://repositoriodigital.academica.mx/jspui/simple-search?query">Repositorio Académica Telmex</a></li></ul><li class="dropdown"><a href="#cm_submenu_3" class="dropdown-toggle" data-toggle="dropdown" title="Google Apps">Google Apps<b class="caret"></b></a><ul class="dropdown-menu"><li><a title="Gmail" href="https://mail.google.com">Gmail</a></li><li><a title="Google Drive" href="https://drive.google.com/drive/#my-drive">Google Drive</a></li><li><a title="Calendar" href="http://moodle.com/support">Calendar</a></li><li><a title="Docs" href="https://https//docs.google.com/document">Docs</a></li><li><a title="Sheets" href="https://docs.google.com/spreadsheets">Sheets</a></li><li><a title="Slides" href="https://docs.google.com/presentation">Slides</a></li><li><a title="Sites" href="https://sites.google.com/a/utcv.edu.mx?pli=1">Sites</a></li></ul><li class="dropdown"><a href="#cm_submenu_4" class="dropdown-toggle" data-toggle="dropdown" title="Sistemas UTCV">Sistemas UTCV<b class="caret"></b></a><ul class="dropdown-menu"><li><a title="SIUT" href="http://siut.utcv.edu.mx/siut/">SIUT</a></li><li><a title="SIEA" href="http://siea.utcv.edu.mx/utcvsiea/">SIEA</a></li></ul><li class="dropdown langmenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" title="Language">English ‎(en)‎<b class="caret"></b></a><ul class="dropdown-menu"><li><a title="English ‎(en)‎" href="https://b-learning.utcv.edu.mx/mod/quiz/review.php?attempt=656830&amp;lang=en">English ‎(en)‎</a></li><li><a title="Español - México ‎(es_mx)‎" href="https://b-learning.utcv.edu.mx/mod/quiz/review.php?attempt=656830&amp;lang=es_mx">Español - México ‎(es_mx)‎</a></li></ul></ul>                <div class="custom-nav-search">
+					<form action="https://b-learning.utcv.edu.mx/course/search.php" method="get">
+                		<div class="fields-wrap">
+                        	<input type="text" placeholder="Search courses" name="search">
+                            <div class="btn-search fa fa-search"><input type="submit" value="Search"></div>
+                        </div>
+                    </form> 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+    
+</header>
+<!--E.O.Header-->
+
+<div id="page">
+
+    <header id="page-header" class="clearfix">
+	    <div class="container-fluid">
+			<a title="Home" class="logo" href="https://b-learning.utcv.edu.mx"></a>            <div id="page-navbar" class="clearfix">
+                <nav class="breadcrumb-nav"><span class="accesshide">Page path</span><ul class="breadcrumb"><li><a href="https://b-learning.utcv.edu.mx/">Home</a> <span class="divider"> <span class="accesshide " ><span class="arrow_text">/</span>&nbsp;</span><span class="arrow sep">&#x25BA;</span> </span></li><li><a title="ITI DESARROLLO DE APLICACIONES WEB" href="https://b-learning.utcv.edu.mx/course/view.php?id=272">ITIDAW</a> <span class="divider"> <span class="accesshide " ><span class="arrow_text">/</span>&nbsp;</span><span class="arrow sep">&#x25BA;</span> </span></li><li><a href="https://b-learning.utcv.edu.mx/course/view.php?id=272&amp;section=2">Parcial II</a> <span class="divider"> <span class="accesshide " ><span class="arrow_text">/</span>&nbsp;</span><span class="arrow sep">&#x25BA;</span> </span></li><li><a title="Quiz" href="https://b-learning.utcv.edu.mx/mod/quiz/view.php?id=11803">P2A1</a></li></ul></nav>
+                <div class="breadcrumb-button"></div>
+            </div>
+            <div id="course-header">
+                            </div>
+		</div>
+	</header>
+
+    <div class="container-fluid">
+        <div id="page-content" class="row-fluid">
+            <div id="region-bs-main-and-pre" class="span9">
+                <div class="row-fluid">
+                    <section id="region-main" class="span8 pull-right">
+            <div role="main"><span id="maincontent"></span><table class="generaltable generalbox quizreviewsummary"><tbody><tr><th class="cell" scope="row">Started on</th><td class="cell">Friday, 1 July 2016, 1:25 am</td></tr><tr><th class="cell" scope="row">State</th><td class="cell">Finished</td></tr><tr><th class="cell" scope="row">Completed on</th><td class="cell">Friday, 1 July 2016, 1:25 am</td></tr><tr><th class="cell" scope="row">Time taken</th><td class="cell">16 secs</td></tr><tr><th class="cell" scope="row">Marks</th><td class="cell">14.00/15.00</td></tr><tr><th class="cell" scope="row">Grade</th><td class="cell"><b>93.33</b> out of 100.00</td></tr></tbody></table><form action="https://b-learning.utcv.edu.mx/mod/quiz/review.php?attempt=656830" method="post" class="questionflagsaveform"><div><div id="q1" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">1</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:1_:flagged" value="0" /><input type="checkbox" id="q668238:1_:flaggedcheckbox" name="q668238:1_:flagged" value="1" /><input type="hidden" value="qaid=8177151&amp;qubaid=668238&amp;qid=112497&amp;slot=1&amp;checksum=d61b226acf2d07ebc9138881b263093c&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:1_:flaggedlabel" for="q668238:1_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:1_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:1_:sequencecheck" value="3" /><div class="qtext"><p>Componente de RichFaces que permite subir un archivo al servidor.</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:1_answer" disabled="disabled" value="0" id="q668238:1_answer0" /><label for="q668238:1_answer0">a. &lt; rich:listShuttle &gt;</label> </div>
+<div class="r1 correct"><input type="radio" name="q668238:1_answer" disabled="disabled" value="1" id="q668238:1_answer1" checked="checked" /><label for="q668238:1_answer1">b. &lt; rich:fileUpload &gt;<br /><a href="http://livedemo.exadel.com/richfaces-demo/richfaces/fileUpload.jsf?c=fileUpload">Demo</a><br /><br />&lt; rich:inplaceInput &gt; : Este componente nos permite desplegar y editar información. <a href="http://livedemo.exadel.com/richfaces-demo/richfaces/inplaceInput.jsf?c=inplaceInput">Demo</a><br /><br />&lt; rich:inplaceSelect &gt; : Muy parecido al anterior. se utiliza para seleccionar algo asi como un dropDown. <a href="http://livedemo.exadel.com/richfaces-demo/richfaces/inplaceSelect.jsf?c=inplaceSelect">Demo</a><br /><br />&lt; rich:listShuttle &gt; : Este componente se utiliza para mover los temas elegidos de una lista a otra con su facultativo reordenamiento. <a href="http://livedemo.exadel.com/richfaces-demo/richfaces/listShuttle.jsf?c=listShuttle">Demo</a><br /><br />&lt; rich:message &gt; : El componente se utiliza para hacer un solo mensaje a un componente específico. <a href="http://livedemo.exadel.com/richfaces-demo/richfaces/message.jsf?c=message">Demo</a><br /><br />Para conocer mucho más sobre:<br /><a href="http://www.jboss.org/file-access/default/members/jbossrichfaces/freezone/docs/devguide/en/html_single/index.html">RichFaves</a>documentación oficial.<br /><a href="http://livedemo.exadel.com/richfaces-demo/richfaces/actionparam.jsf">Ejemplos</a><br /><br />paginas de referencia..<br />http://www.jboss.org/jbossajax4jsf/docs/devguide/en/html/index.html<br />http://www.adictosaltrabajo.com/tutoriales/tutoriales.php?pagina=Ajax4Jsf<br /><br /><br />Un Excelente Manual de RichFaces.<br /><br />http://www.jboss.org/file-access/default/members/jbossrichfaces/freezone/docs/devguide/en/html/index.html<br /><div class="post-footer">
+<div class="post-footer-line post-footer-line-1"><span class="post-icons"> <span class="item-action"> <a title="Enviar entrada por correo electrónico" href="http://www.blogger.com/email-post.g?blogID=2252954891373542254&amp;postID=8651415812052712957"> <img class="icon-action" src="http://img1.blogblog.com/img/icon18_email.gif" alt="" width="18" height="13" /> </a> </span> </span>
+<div class="post-share-buttons"><a class="goog-inline-block share-button sb-email" title="Enviar por correo electrónico" href="http://www.blogger.com/share-post.g?blogID=2252954891373542254&amp;postID=8651415812052712957&amp;target=email" target="_blank"><span class="share-button-link-text">Enviar por correo electrónico</span></a><a class="goog-inline-block share-button sb-blog" title="Escribe un blog" href="http://www.blogger.com/share-post.g?blogID=2252954891373542254&amp;postID=8651415812052712957&amp;target=blog" target="_blank"><span class="share-button-link-text">Escribe un blog</span></a><a class="goog-inline-block share-button sb-twitter" title="Compartir con Twitter" href="http://www.blogger.com/share-post.g?blogID=2252954891373542254&amp;postID=8651415812052712957&amp;target=twitter" target="_blank"><span class="share-button-link-text">Compartir con Twitter</span></a><a class="goog-inline-block share-button sb-facebook" title="Compartir con Facebook" href="http://www.blogger.com/share-post.g?blogID=2252954891373542254&amp;postID=8651415812052712957&amp;target=facebook" target="_blank"><span class="share-button-link-text">Compartir con Facebook</span></a></div>
+</div>
+</div>
+<div id="comments" class="comments"><a name="comments"></a>
+<div id="backlinks-container"> </div>
+</div>
+<div id="blog-pager" class="blog-pager"><span id="blog-pager-newer-link"> <a id="Blog1_blog-pager-newer-link" class="blog-pager-newer-link" title="Entrada más reciente" href="http://frankseguel.blogspot.mx/2008/05/instalacin-de-javaserver-face-y.html">Entrada más reciente</a> </span> <span id="blog-pager-older-link"> <a id="Blog1_blog-pager-older-link" class="blog-pager-older-link" title="Entrada antigua" href="http://frankseguel.blogspot.mx/2008/04/lo-que-todo-informtico-debe-saber.html">Entrada antigua</a> </span> <a class="home-link" href="http://frankseguel.blogspot.mx/">Página principal</a></div>
+<div class="post-feeds"> </div>
+<div class="column-left-outer"> </div>
+<div class="column-right-outer">
+<div class="column-right-inner">
+<div id="sidebar-right-1" class="sidebar section">
+<div id="Image1" class="widget Image">
+<h2>No más de J2ee</h2>
+<div class="widget-content"><img id="Image1_img" src="http://bp0.blogger.com/_Z8YagPErb08/RvM8kixdX6I/AAAAAAAAABA/rte3Se6dvy4/s1600/teclas.gif" alt="No más de J2ee" width="150" height="107" /> <br /> <span class="caption">Haaaa J2EE, JSF, JSP, XHTML, EJB, Entity, DWR. Ajax</span></div>
+</div>
+<div id="LinkList4" class="widget LinkList">
+<h2>API's</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://directwebremoting.org/dwr-javadoc/">DWR</a></li>
+<li><a href="http://java.sun.com/j2se/1.4.2/docs/api/">J2SE 1.4.2</a></li>
+<li><a href="http://java.sun.com/j2se/1.5.0/docs/api/">J2SE 1.5.0</a></li>
+<li><a href="http://java.sun.com/javase/6/docs/index.html#api">J2SE 1.6.0</a></li>
+<li><a href="http://java.sun.com/javaee/javaserverfaces/1.2/docs/tlddocs/index.html">JavaServer Faces 1.2 (JSF)</a></li>
+<li><a href="http://www.primefaces.org/">Primefaces</a></li>
+<li><a href="http://teamdev.com/quipukit/documentation/tagReference/index.html">Quipukit (JSF)</a></li>
+<li><a href="http://www.jboss.org/file-access/default/members/jbossrichfaces/freezone/docs/tlddoc/index.html">RichFaces (JSF)</a></li>
+<li><a href="http://myfaces.apache.org/trinidad/trinidad-api/apidocs/index.html">Trinidad (JSF)</a></li>
+</ul>
+</div>
+</div>
+<div id="LinkList3" class="widget LinkList">
+<h2>Tecnologías J2EE</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://ant.apache.org/manual/index.html">Apache Ant Doc</a></li>
+<li><a href="http://ant.apache.org/index.html">Apache Ant Home</a></li>
+<li><a href="http://dozer.sourceforge.net/">Dozer</a></li>
+<li><a href="http://getahead.org/dwr/">Dwr</a></li>
+<li><a href="https://facelets.dev.java.net/nonav/docs/dev/docbook.html">Facelets</a></li>
+<li><a href="http://freetts.sourceforge.net/docs/index.php">Freetts</a></li>
+<li><a href="http://code.google.com/webtoolkit/">Google Web Toolkit</a></li>
+<li><a href="http://www.hibernate.org/">Hibernate</a></li>
+<li><a href="http://code.google.com/p/jmesa/">JMesa</a></li>
+<li><a href="http://maven.apache.org/">Maven</a></li>
+<li><a href="http://mootools.net/">Mootools</a></li>
+<li><a href="http://teamdev.com/quipukit/documentation.jsf">Quipukit doc. (JSF)</a></li>
+<li><a href="http://livedemo.exadel.com/richfaces-demo/richfaces/actionparam.jsf;jsessionid=320FEA339B44935ABE69F5EA23F512C8?c=actionparam">Richfaces doc. (JSF)</a></li>
+<li><a href="http://www.springframework.org/">Spring</a></li>
+<li><a href="http://struts.apache.org/">Struts</a></li>
+<li><a href="http://struts.apache.org/2.x/">Struts 2</a></li>
+<li><a href="http://www.oracle.com/technology/products/ias/toplink/index.html">TopLink</a></li>
+<li><a href="http://myfaces.apache.org/trinidad/index.html">Trinidad doc. (JSF)</a></li>
+</ul>
+</div>
+</div>
+<div id="LinkList1" class="widget LinkList">
+<h2>Link de intéres</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://exadel.com/web/portal/openSourceProducts">Exadel - Enterprise Web 2.0 (RichFaces, Flamingo. etc.)</a></li>
+<li><a href="http://openlaszlo.net/">Manuales Openlaszlo</a></li>
+<li><a href="https://www.amiando.com/">Gupo Java</a></li>
+<li><a href="http://spanish.osstrans.net/">OpenSource Translative Español</a></li>
+<li><a href="http://www.programacion.net/java/tutorial/jsf_intro/">Introducción a JavaServer Faces</a></li>
+<li><a href="http://blogs.sun.com/theaquarium_es/">The Aquarium (En Español)</a></li>
+<li><a href="http://blogs.sun.com/theaquarium/">The Aquarium (Info sobre Java)</a></li>
+<li><a href="http://www.uberbin.net/">Tecnología, Estrategias y cosas de internet.</a></li>
+<li><a href="http://www.javapassion.com/netbeans/masterindex.html">Netbeans Tutoriales</a></li>
+<li><a href="http://www.jug.cl/display/pri/Home">Comunidad Java de Chile versión 2.0</a></li>
+<li><a href="http://oness.sourceforge.net/proyecto/html/ch03s02.html#three_layers">Aplicaciones en capas (3 y 4)</a></li>
+<li><a href="http://oness.sourceforge.net/proyecto/html/ch05s02.html#xpciclos">Ciclo de vida de un proyecto XP(eXtreme Programming)</a></li>
+<li><a href="http://www.itstudy8.org/">Descarga tus libros de Informática</a></li>
+<li><a href="http://www.javacertificate.com/">Ensayos de Certificación J2EE</a></li>
+<li><a href="http://developers.sun.com/jscreator/es/learning/tutorials/index.jsp#Work_With_AJAX_Components">Manuales Sun Studio Creator</a></li>
+<li><a href="http://weblogs.javahispano.org/jlmonteagudo/entry/spring_aop">Spring AOP</a></li>
+<li><a href="http://www.illasaron.com/html/index.php">Video Tutoriales</a></li>
+<li><a href="http://www.dofactory.com/Patterns/Patterns.aspx">Design Patterns</a></li>
+<li><a href="http://www.allapplabs.com/java_design_patterns/creational_patterns.htm">JAVA DESIGN PATTERNS</a></li>
+<li><a href="http://www.fluffycat.com/Java-Design-Patterns/">Java Design Patterns Reference and Examples</a></li>
+<li><a href="http://winstonprakash.com/links/links.html">Link de interes Recomendados por Winston Prakash</a></li>
+<li><a href="http://www.adictosaltrabajo.com/">Adictos Altrabajo</a></li>
+</ul>
+</div>
+</div>
+<div id="LinkList2" class="widget LinkList">
+<h2>Maestros J2EE</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://www.kaner.com/books.html">Cem Kaner</a></li>
+<li><a href="http://www.javapolis.com/confluence/display/JP04/Rod+Johnson">Rod Johnson</a></li>
+<li><a href="http://blogs.sun.com/jag/">James Gosling. Padre de Java</a></li>
+<li><a href="http://winstonprakash.com/index.html">Winston Prakash's (Page)</a></li>
+<li><a href="http://blogs.sun.com/winston/">Winston Prakash's (blogs)</a></li>
+<li><a href="http://www.javapassion.com/">Sang Shin</a></li>
+<li><a href="http://www.martinfowler.com/">Martin Fowler</a></li>
+</ul>
+</div>
+</div>
+<div id="LinkList5" class="widget LinkList">
+<h2>Entornos de Desarrollo</h2>
+<div class="widget-content">
+<ul>
+<li><a href="http://www.jetbrains.com/idea/?java_chile">IntelleijIdea</a></li>
+<li><a href="http://www.eclipse.org/">Eclipse</a></li>
+<li><a href="http://www.netbeans.org/">Netbeans</a></li>
+<li><a href="http://web.fccj.org/%7Erjanson/COP2252/RAD7ZipFiles/">Rad 7 (WebsPhere 7)</a></li>
+</ul>
+</div>
+</div>
+<div id="BlogArchive1" class="widget BlogArchive">
+<h2>Archivo del blog</h2>
+<div class="widget-content">
+<div id="ArchiveList">
+<div id="BlogArchive1_ArchiveList">
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2011-01-01T00:00:00-08:00&amp;updated-max=2012-01-01T00:00:00-08:00&amp;max-results=2">2011</a> <span class="post-count" dir="ltr">(2)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2010-01-01T00:00:00-08:00&amp;updated-max=2011-01-01T00:00:00-08:00&amp;max-results=3">2010</a> <span class="post-count" dir="ltr">(3)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate expanded"><a class="toggle"> <span class="zippy toggle-open">▼ </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-01-01T00:00:00-08:00&amp;updated-max=2009-01-01T00:00:00-08:00&amp;max-results=22">2008</a> <span class="post-count" dir="ltr">(22)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-09-01T00:00:00-07:00&amp;updated-max=2008-10-01T00:00:00-07:00&amp;max-results=1">septiembre</a> <span class="post-count" dir="ltr">(1)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-08-01T00:00:00-07:00&amp;updated-max=2008-09-01T00:00:00-07:00&amp;max-results=1">agosto</a> <span class="post-count" dir="ltr">(1)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-06-01T00:00:00-07:00&amp;updated-max=2008-07-01T00:00:00-07:00&amp;max-results=1">junio</a> <span class="post-count" dir="ltr">(1)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate expanded"><a class="toggle"> <span class="zippy toggle-open">▼ </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-05-01T00:00:00-07:00&amp;updated-max=2008-06-01T00:00:00-07:00&amp;max-results=4">mayo</a> <span class="post-count" dir="ltr">(4)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/2008_05_30_archive.html">may 30</a> <span class="post-count" dir="ltr">(1)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/2008_05_25_archive.html">may 25</a> <span class="post-count" dir="ltr">(2)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate expanded"><a class="toggle"> <span class="zippy toggle-open">▼ </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/2008_05_22_archive.html">may 22</a> <span class="post-count" dir="ltr">(1)</span>
+<ul class="posts">
+<li><a href="http://frankseguel.blogspot.mx/2008/05/introduccin-richfaces.html">Introducción a RichFaces</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-04-01T00:00:00-07:00&amp;updated-max=2008-05-01T00:00:00-07:00&amp;max-results=5">abril</a> <span class="post-count" dir="ltr">(5)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-03-01T00:00:00-08:00&amp;updated-max=2008-04-01T00:00:00-07:00&amp;max-results=4">marzo</a> <span class="post-count" dir="ltr">(4)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-02-01T00:00:00-08:00&amp;updated-max=2008-03-01T00:00:00-08:00&amp;max-results=3">febrero</a> <span class="post-count" dir="ltr">(3)</span></li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2008-01-01T00:00:00-08:00&amp;updated-max=2008-02-01T00:00:00-08:00&amp;max-results=3">enero</a> <span class="post-count" dir="ltr">(3)</span></li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed"><a class="toggle"> <span class="zippy"> ►  </span> </a> <a class="post-count-link" href="http://frankseguel.blogspot.mx/search?updated-min=2007-01-01T00:00:00-08:00&amp;updated-max=2008-01-01T00:00:00-08:00&amp;max-results=7">2007</a> <span class="post-count" dir="ltr">(7)</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<table class="section-columns columns-2" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="first columns-cell">
+<div id="sidebar-right-2-1" class="sidebar section">
+<div id="HTML2" class="widget HTML">
+<h2 class="title">Live Traffic Map</h2>
+<div class="widget-content">
+<div id="FJ_MP_Cont">
+<table id="FJ_MapC" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table id="FJ_Map" class="FJ_TopTable" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="FJ_Line">
+<div class="FJ_MapParent">
+<div>
+<div id="FJTITLE1_map" class="FJ_Heading" style="padding: 0px;">Recent Visitors</div>
+</div>
+<div class="FJ_MapCont"> </div>
+<div id="FJ_TrafFoot_map" class="FJ_MapFoot"><center><a href="http://feedjit.com/id/"><img style="padding: 0pt; margin: 0pt;" title="Click to Get a Live Map for your Blog or Website" src="http://feedjit.com/images/clickToGetFeedjit.png" alt="" width="160" height="20" border="0" /></a></center></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+<td class="columns-cell"> </td>
+</tr>
+</tbody>
+</table>
+<div id="sidebar-right-3" class="sidebar section">
+<div id="BlogList1" class="widget BlogList">
+<h2 class="title">Blogs de Interes</h2>
+<div class="widget-content">
+<div id="BlogList1_container" class="blog-list-container">
+<ul id="BlogList1_blogs">
+<li style="display: block;">
+<div class="blog-icon"> </div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://www.uberbin.net/" target="_blank"> Denken Über</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://feedproxy.google.com/%7Er/uberbin/%7E3/KB4ylDJ0pOo/twitter-censura-parodias-anunciantes.php" target="_blank"> ¿Twitter complace a sus anunciantes con censura?</a> </span>
+<div class="item-time">Hace 19 horas</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"><img src="http://www.java.net/favicon.ico" alt="" width="16" height="16" /></div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://www.java.net/pub/q/java_net_rss" target="_blank"> Editor's Daily Blog</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://www.java.net/story/linda-demichiel-java-ee-7-roadmap" target="_blank"> Linda DeMichiel: Java EE 7 Roadmap</a> </span>
+<div class="item-time">Hace 1 día</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"> </div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://www.manuelrecena.com/blog" target="_blank"> Mi espacio</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://www.manuelrecena.com/blog/archives/1314" target="_blank"> Foro de Inversión First Tuesday – M2M</a> </span>
+<div class="item-time">Hace 3 meses</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"><img src="http://internna.blogspot.com/favicon.ico" alt="" width="16" height="16" /></div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://internna.blogspot.com/" target="_blank"> Internna - Geared towards Open Source</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://feedproxy.google.com/%7Er/InternnaOSS/%7E3/_PgVCK9uz0A/step-by-step-executable-war-files.html" target="_blank"> Step by step: Executable WAR files</a> </span>
+<div class="item-time">Hace 1 año.</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"><img src="http://www.jroller.com/favicon.ico" alt="" width="16" height="16" /></div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://www.jroller.com/afuentes/" target="_blank"> Alex Fuentes [CL]</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://www.jroller.com/afuentes/entry/dsl_on_groovy" target="_blank"> DSL on Groovy</a> </span>
+<div class="item-time">Hace 1 año.</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"> </div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://alumnos.cadcc.cl/%7Earaguayo/" target="_blank"> El blog de Ariel Aguayo</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://alumnos.cadcc.cl/%7Earaguayo/index.php?/archives/38-Spring,-JMX-y-Log4J.html" target="_blank"> Spring, JMX y Log4J</a> </span>
+<div class="item-time">Hace 3 años</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"> </div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://www.joseselman.com/" target="_blank"> Jose M. Selman</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://feedproxy.google.com/%7Er/joseselman/%7E3/qvPDVC0Pa-8/" target="_blank"> El tráfico gracias a la contribución de muchos usuarios móviles de Google Maps</a> </span>
+<div class="item-time">Hace 3 años</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"> </div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://www.jug.cl/" target="_blank"> Grupo de Usuarios Java de Chile RSS Feed</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://feedproxy.google.com/%7Er/jugcl/%7E3/NIaamPyRFBk/Podcast+La+Agilidad+en+Chile" target="_blank"> Podcast La Agilidad en Chile</a> </span>
+<div class="item-time">Hace 3 años</div>
+</div>
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon"><img src="http://dukechile.blogspot.com/favicon.ico" alt="" width="16" height="16" /></div>
+<div class="blog-content">
+<div class="blog-title"><a href="http://dukechile.blogspot.com/" target="_blank"> Duke Chile</a></div>
+<div class="item-content"><span class="item-title"> <a href="http://dukechile.blogspot.com/2008/08/jquery.html" target="_blank"> JQuery</a> </span>
+<div class="item-time">Hace 4 años</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r0"><input type="radio" name="q668238:1_answer" disabled="disabled" value="2" id="q668238:1_answer2" /><label for="q668238:1_answer2">c. &lt; rich:message &gt;</label> </div>
+<div class="r1"><input type="radio" name="q668238:1_answer" disabled="disabled" value="3" id="q668238:1_answer3" /><label for="q668238:1_answer3">d. &lt; rich:inplaceSelect &gt;</label> </div>
+</div></div></div></div></div><div id="q2" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">2</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:2_:flagged" value="0" /><input type="checkbox" id="q668238:2_:flaggedcheckbox" name="q668238:2_:flagged" value="1" /><input type="hidden" value="qaid=8177152&amp;qubaid=668238&amp;qid=112474&amp;slot=2&amp;checksum=a1c2b3ab12bee54e8edf7cf6cfdbd7c0&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:2_:flaggedlabel" for="q668238:2_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:2_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:2_:sequencecheck" value="3" /><div class="qtext"><p>Un managed bean es considerado un: _________.</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q668238:2_answer" disabled="disabled" value="0" id="q668238:2_answer0" checked="checked" /><label for="q668238:2_answer0">a. POJO</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:2_answer" disabled="disabled" value="1" id="q668238:2_answer1" /><label for="q668238:2_answer1">b. JavaBeans</label> </div>
+<div class="r0"><input type="radio" name="q668238:2_answer" disabled="disabled" value="2" id="q668238:2_answer2" /><label for="q668238:2_answer2">c. Nested Class</label> </div>
+<div class="r1"><input type="radio" name="q668238:2_answer" disabled="disabled" value="3" id="q668238:2_answer3" /><label for="q668238:2_answer3">d. Beans</label> </div>
+</div></div></div></div></div><div id="q3" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">3</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:3_:flagged" value="0" /><input type="checkbox" id="q668238:3_:flaggedcheckbox" name="q668238:3_:flagged" value="1" /><input type="hidden" value="qaid=8177153&amp;qubaid=668238&amp;qid=112496&amp;slot=3&amp;checksum=c7a376459b5dc32f2578b4c743f07f91&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:3_:flaggedlabel" for="q668238:3_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:3_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:3_:sequencecheck" value="3" /><div class="qtext"><p>El RichFaces incluye un ciclo de vida, validación, conversión de facilidades y manejo de:________________________.</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:3_answer" disabled="disabled" value="0" id="q668238:3_answer0" /><label for="q668238:3_answer0">a. <br />Clases</label> </div>
+<div class="r1"><input type="radio" name="q668238:3_answer" disabled="disabled" value="1" id="q668238:3_answer1" /><label for="q668238:3_answer1">b. Instancias</label> </div>
+<div class="r0 correct"><input type="radio" name="q668238:3_answer" disabled="disabled" value="2" id="q668238:3_answer2" checked="checked" /><label for="q668238:3_answer2">c. Recursos</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:3_answer" disabled="disabled" value="3" id="q668238:3_answer3" /><label for="q668238:3_answer3">d. <br />Librerias</label> </div>
+</div></div></div></div></div><div id="q4" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">4</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:4_:flagged" value="0" /><input type="checkbox" id="q668238:4_:flaggedcheckbox" name="q668238:4_:flagged" value="1" /><input type="hidden" value="qaid=8177154&amp;qubaid=668238&amp;qid=112495&amp;slot=4&amp;checksum=2fd4867a1b0847b53ba96698271a6edd&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:4_:flaggedlabel" for="q668238:4_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:4_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:4_:sequencecheck" value="3" /><div class="qtext"><p>Los siguientes elementos son parte de la arquitectura de RichFaces, excepto:</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q668238:4_answer" disabled="disabled" value="0" id="q668238:4_answer0" checked="checked" /><label for="q668238:4_answer0">a. Ajax Component</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:4_answer" disabled="disabled" value="1" id="q668238:4_answer1" /><label for="q668238:4_answer1">b. Ajax Action Component</label> </div>
+<div class="r0"><input type="radio" name="q668238:4_answer" disabled="disabled" value="2" id="q668238:4_answer2" /><label for="q668238:4_answer2">c. Ajax Containers</label> </div>
+<div class="r1"><input type="radio" name="q668238:4_answer" disabled="disabled" value="3" id="q668238:4_answer3" /><label for="q668238:4_answer3">d. Ajax Filter</label> </div>
+</div></div></div></div></div><div id="q5" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">5</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:5_:flagged" value="0" /><input type="checkbox" id="q668238:5_:flaggedcheckbox" name="q668238:5_:flagged" value="1" /><input type="hidden" value="qaid=8177155&amp;qubaid=668238&amp;qid=112493&amp;slot=5&amp;checksum=624d29bf57291a3f29dde13016dd99e6&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:5_:flaggedlabel" for="q668238:5_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:5_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:5_:sequencecheck" value="3" /><div class="qtext"><p>Para referirse a un bean se utiliza un:______.</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:5_answer" disabled="disabled" value="0" id="q668238:5_answer0" /><label for="q668238:5_answer0">a. $</label> </div>
+<div class="r1 correct"><input type="radio" name="q668238:5_answer" disabled="disabled" value="1" id="q668238:5_answer1" checked="checked" /><label for="q668238:5_answer1">b. #</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r0"><input type="radio" name="q668238:5_answer" disabled="disabled" value="2" id="q668238:5_answer2" /><label for="q668238:5_answer2">c. %</label> </div>
+<div class="r1"><input type="radio" name="q668238:5_answer" disabled="disabled" value="3" id="q668238:5_answer3" /><label for="q668238:5_answer3">d. &amp;</label> </div>
+</div></div></div></div></div><div id="q6" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">6</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:6_:flagged" value="0" /><input type="checkbox" id="q668238:6_:flaggedcheckbox" name="q668238:6_:flagged" value="1" /><input type="hidden" value="qaid=8177156&amp;qubaid=668238&amp;qid=112494&amp;slot=6&amp;checksum=5e8a495c4bc27144077fd490ed2d0713&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:6_:flaggedlabel" for="q668238:6_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:6_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:6_:sequencecheck" value="3" /><div class="qtext"><p>___________: Es una interfaz que describe un área dela página JSFque debe ser decoficada durante una solicitud Ajax.</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q668238:6_answer" disabled="disabled" value="0" id="q668238:6_answer0" checked="checked" /><label for="q668238:6_answer0">a. AjaxContainer</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:6_answer" disabled="disabled" value="1" id="q668238:6_answer1" /><label for="q668238:6_answer1">b. AjaxFilter</label> </div>
+<div class="r0"><input type="radio" name="q668238:6_answer" disabled="disabled" value="2" id="q668238:6_answer2" /><label for="q668238:6_answer2">c. AjaxComponent</label> </div>
+<div class="r1"><input type="radio" name="q668238:6_answer" disabled="disabled" value="3" id="q668238:6_answer3" /><label for="q668238:6_answer3">d. AjaxForm</label> </div>
+</div></div></div></div></div><div id="q7" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">7</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:7_:flagged" value="0" /><input type="checkbox" id="q668238:7_:flaggedcheckbox" name="q668238:7_:flagged" value="1" /><input type="hidden" value="qaid=8177157&amp;qubaid=668238&amp;qid=112492&amp;slot=7&amp;checksum=98a3de63b6eeda45e87b2e0a98065e8e&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:7_:flaggedlabel" for="q668238:7_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:7_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:7_:sequencecheck" value="3" /><div class="qtext"><p>Todos los siguiente son ámbitos en JSF 2.0, excepto:</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:7_answer" disabled="disabled" value="0" id="q668238:7_answer0" /><label for="q668238:7_answer0">a. custom</label> </div>
+<div class="r1 correct"><input type="radio" name="q668238:7_answer" disabled="disabled" value="1" id="q668238:7_answer1" checked="checked" /><label for="q668238:7_answer1">b. response</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r0"><input type="radio" name="q668238:7_answer" disabled="disabled" value="2" id="q668238:7_answer2" /><label for="q668238:7_answer2">c. request</label> </div>
+<div class="r1"><input type="radio" name="q668238:7_answer" disabled="disabled" value="3" id="q668238:7_answer3" /><label for="q668238:7_answer3">d. session</label> </div>
+</div></div></div></div></div><div id="q8" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">8</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:8_:flagged" value="0" /><input type="checkbox" id="q668238:8_:flaggedcheckbox" name="q668238:8_:flagged" value="1" /><input type="hidden" value="qaid=8177158&amp;qubaid=668238&amp;qid=112491&amp;slot=8&amp;checksum=df6b20060f1889a3f1202caa6480c9ac&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:8_:flaggedlabel" for="q668238:8_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:8_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:8_:sequencecheck" value="3" /><div class="qtext"><p>Es conocido como el scope por default en JSF 2.0</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:8_answer" disabled="disabled" value="0" id="q668238:8_answer0" /><label for="q668238:8_answer0">a. session</label> </div>
+<div class="r1"><input type="radio" name="q668238:8_answer" disabled="disabled" value="1" id="q668238:8_answer1" /><label for="q668238:8_answer1">b. none</label> </div>
+<div class="r0"><input type="radio" name="q668238:8_answer" disabled="disabled" value="2" id="q668238:8_answer2" /><label for="q668238:8_answer2">c. response</label> </div>
+<div class="r1 correct"><input type="radio" name="q668238:8_answer" disabled="disabled" value="3" id="q668238:8_answer3" checked="checked" /><label for="q668238:8_answer3">d. request</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+</div></div></div></div></div><div id="q9" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">9</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:9_:flagged" value="0" /><input type="checkbox" id="q668238:9_:flaggedcheckbox" name="q668238:9_:flagged" value="1" /><input type="hidden" value="qaid=8177159&amp;qubaid=668238&amp;qid=112490&amp;slot=9&amp;checksum=046f548616601052402b4df26e2118f9&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:9_:flaggedlabel" for="q668238:9_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:9_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:9_:sequencecheck" value="3" /><div class="qtext"><p>___________: Este ámbito permite compartir al bean con todos los usuarios.<br /><br /></p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:9_answer" disabled="disabled" value="0" id="q668238:9_answer0" /><label for="q668238:9_answer0">a. Session</label> </div>
+<div class="r1 correct"><input type="radio" name="q668238:9_answer" disabled="disabled" value="1" id="q668238:9_answer1" checked="checked" /><label for="q668238:9_answer1">b. Application</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r0"><input type="radio" name="q668238:9_answer" disabled="disabled" value="2" id="q668238:9_answer2" /><label for="q668238:9_answer2">c. Request</label> </div>
+<div class="r1"><input type="radio" name="q668238:9_answer" disabled="disabled" value="3" id="q668238:9_answer3" /><label for="q668238:9_answer3">d. Custom</label> </div>
+</div></div></div></div></div><div id="q10" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">10</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:10_:flagged" value="0" /><input type="checkbox" id="q668238:10_:flaggedcheckbox" name="q668238:10_:flagged" value="1" /><input type="hidden" value="qaid=8177160&amp;qubaid=668238&amp;qid=112472&amp;slot=10&amp;checksum=d2955dbb0fcf0b8a190c4c53df8dd199&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:10_:flaggedlabel" for="q668238:10_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:10_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:10_:sequencecheck" value="3" /><div class="qtext"><p>Uno de los tipos de datos que se trabajan en JDBC es el bit y su equivalente en java es:</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:10_answer" disabled="disabled" value="0" id="q668238:10_answer0" /><label for="q668238:10_answer0">a. byte</label> </div>
+<div class="r1"><input type="radio" name="q668238:10_answer" disabled="disabled" value="1" id="q668238:10_answer1" /><label for="q668238:10_answer1">b. clob</label> </div>
+<div class="r0 correct"><input type="radio" name="q668238:10_answer" disabled="disabled" value="2" id="q668238:10_answer2" checked="checked" /><label for="q668238:10_answer2">c. boolean</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:10_answer" disabled="disabled" value="3" id="q668238:10_answer3" /><label for="q668238:10_answer3">d. long</label> </div>
+</div></div></div></div></div><div id="q11" class="que multichoice deferredfeedback incorrect"><div class="info"><h3 class="no">Question <span class="qno">11</span></h3><div class="state">Incorrect</div><div class="grade">Mark 0.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:11_:flagged" value="0" /><input type="checkbox" id="q668238:11_:flaggedcheckbox" name="q668238:11_:flagged" value="1" /><input type="hidden" value="qaid=8177161&amp;qubaid=668238&amp;qid=112470&amp;slot=11&amp;checksum=1df530272ea4faf02cc4d084f7f6806f&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:11_:flaggedlabel" for="q668238:11_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:11_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:11_:sequencecheck" value="3" /><div class="qtext"><p>Es la línea de código encargada de cargar el Driver JDBC en la aplicación en Java:</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 incorrect"><input type="radio" name="q668238:11_answer" disabled="disabled" value="0" id="q668238:11_answer0" checked="checked" /><label for="q668238:11_answer0">a. Class.forName("connect.microsoft.MicrosoftDriver")</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_incorrect" alt="Incorrect" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:11_answer" disabled="disabled" value="1" id="q668238:11_answer1" /><label for="q668238:11_answer1">b. Class.forName("oracle.jdbc.driver.OracleDriver")</label> </div>
+<div class="r0"><input type="radio" name="q668238:11_answer" disabled="disabled" value="2" id="q668238:11_answer2" /><label for="q668238:11_answer2">c. Class.forName("org.postgres.Driver")</label> </div>
+<div class="r1"><input type="radio" name="q668238:11_answer" disabled="disabled" value="3" id="q668238:11_answer3" /><label for="q668238:11_answer3">d. Class.forName("org.postgresql.Driver")</label> </div>
+</div></div></div></div></div><div id="q12" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">12</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:12_:flagged" value="0" /><input type="checkbox" id="q668238:12_:flaggedcheckbox" name="q668238:12_:flagged" value="1" /><input type="hidden" value="qaid=8177162&amp;qubaid=668238&amp;qid=112471&amp;slot=12&amp;checksum=be8360780336e39e53d31663863ccbab&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:12_:flaggedlabel" for="q668238:12_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:12_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:12_:sequencecheck" value="3" /><div class="qtext"><p>Uno de los tipos de datos manejados en Java es el SHORT, su equivalente en JDBC es:</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:12_answer" disabled="disabled" value="0" id="q668238:12_answer0" /><label for="q668238:12_answer0">a. bigint</label> </div>
+<div class="r1"><input type="radio" name="q668238:12_answer" disabled="disabled" value="1" id="q668238:12_answer1" /><label for="q668238:12_answer1">b. real</label> </div>
+<div class="r0"><input type="radio" name="q668238:12_answer" disabled="disabled" value="2" id="q668238:12_answer2" /><label for="q668238:12_answer2">c. integer</label> </div>
+<div class="r1 correct"><input type="radio" name="q668238:12_answer" disabled="disabled" value="3" id="q668238:12_answer3" checked="checked" /><label for="q668238:12_answer3">d. smallint</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+</div></div></div></div></div><div id="q13" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">13</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:13_:flagged" value="0" /><input type="checkbox" id="q668238:13_:flaggedcheckbox" name="q668238:13_:flagged" value="1" /><input type="hidden" value="qaid=8177163&amp;qubaid=668238&amp;qid=112473&amp;slot=13&amp;checksum=761dc8a5eeb76adcfe1371db2935cb63&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:13_:flaggedlabel" for="q668238:13_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:13_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:13_:sequencecheck" value="3" /><div class="qtext"><p>JDBC consiste de dos partes, las cuales son:</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:13_answer" disabled="disabled" value="0" id="q668238:13_answer0" /><label for="q668238:13_answer0">a. Java.SQL y JDBC Driver Manager</label> </div>
+<div class="r1"><input type="radio" name="q668238:13_answer" disabled="disabled" value="1" id="q668238:13_answer1" /><label for="q668238:13_answer1">b. Java.SQL y JDBC API</label> </div>
+<div class="r0 correct"><input type="radio" name="q668238:13_answer" disabled="disabled" value="2" id="q668238:13_answer2" checked="checked" /><label for="q668238:13_answer2">c. JDBC API y JDBC Driver Manager</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:13_answer" disabled="disabled" value="3" id="q668238:13_answer3" /><label for="q668238:13_answer3">d. JDBC Basic Samples y JDBC API</label> </div>
+</div></div></div></div></div><div id="q14" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">14</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:14_:flagged" value="0" /><input type="checkbox" id="q668238:14_:flaggedcheckbox" name="q668238:14_:flagged" value="1" /><input type="hidden" value="qaid=8177164&amp;qubaid=668238&amp;qid=112163&amp;slot=14&amp;checksum=406914a1e148e010cfb733b3db8e2f54&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:14_:flaggedlabel" for="q668238:14_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:14_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:14_:sequencecheck" value="3" /><div class="qtext"><p>Los siguientes parametros son los que necesita el método getConnection del DriverManager para establecer la conexión, excepto:</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0 correct"><input type="radio" name="q668238:14_answer" disabled="disabled" value="0" id="q668238:14_answer0" checked="checked" /><label for="q668238:14_answer0">a. Driver</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:14_answer" disabled="disabled" value="1" id="q668238:14_answer1" /><label for="q668238:14_answer1">b. username</label> </div>
+<div class="r0"><input type="radio" name="q668238:14_answer" disabled="disabled" value="2" id="q668238:14_answer2" /><label for="q668238:14_answer2">c. password</label> </div>
+<div class="r1"><input type="radio" name="q668238:14_answer" disabled="disabled" value="3" id="q668238:14_answer3" /><label for="q668238:14_answer3">d. serverURL</label> </div>
+</div></div></div></div></div><div id="q15" class="que multichoice deferredfeedback correct"><div class="info"><h3 class="no">Question <span class="qno">15</span></h3><div class="state">Correct</div><div class="grade">Mark 1.00 out of 1.00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive"><input type="hidden" name="q668238:15_:flagged" value="0" /><input type="checkbox" id="q668238:15_:flaggedcheckbox" name="q668238:15_:flagged" value="1" /><input type="hidden" value="qaid=8177165&amp;qubaid=668238&amp;qid=112469&amp;slot=15&amp;checksum=3b1261dd7aa6e185b1f6979b9882e65c&amp;sesskey=J7sLzppnSO&amp;newstate=" class="questionflagpostdata" /><label id="q668238:15_:flaggedlabel" for="q668238:15_:flaggedcheckbox"><img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/unflagged" alt="Not flagged" id="q668238:15_:flaggedimg" /></label>
+</div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Question text</h4><input type="hidden" name="q668238:15_:sequencecheck" value="3" /><div class="qtext"><p>¿Cuál es la clase que cacha el error en caso de que no se encuentre en Driver especificado en la aplicación?</p></div><div class="ablock"><div class="prompt">Select one:</div><div class="answer"><div class="r0"><input type="radio" name="q668238:15_answer" disabled="disabled" value="0" id="q668238:15_answer0" /><label for="q668238:15_answer0">a. SqlException</label> </div>
+<div class="r1"><input type="radio" name="q668238:15_answer" disabled="disabled" value="1" id="q668238:15_answer1" /><label for="q668238:15_answer1">b. BadLocationException</label> </div>
+<div class="r0 correct"><input type="radio" name="q668238:15_answer" disabled="disabled" value="2" id="q668238:15_answer2" checked="checked" /><label for="q668238:15_answer2">c. ClassNotFoundException</label> <img src="https://b-learning.utcv.edu.mx/theme/image.php/eguru/core/1467063803/i/grade_correct" alt="Correct" class="questioncorrectnessicon" /></div>
+<div class="r1"><input type="radio" name="q668238:15_answer" disabled="disabled" value="3" id="q668238:15_answer3" /><label for="q668238:15_answer3">d. IOException</label> </div>
+</div></div></div></div></div><input type="hidden" name="sesskey" value="J7sLzppnSO" /><div class="submitbtns"><input type="submit" class="questionflagsavebutton" name="savingflags" value="Save the state of the flags" /></div></div></form><div class="submitbtns"><a href="https://b-learning.utcv.edu.mx/mod/quiz/view.php?id=11803">Finish review</a></div></div>                    </section>
+	                <aside id="block-region-side-pre" class="span4 desktop-first-column block-region" data-blockregion="side-pre" data-droptarget="1"><a class="skip skip-block" id="fsb-1" href="#sb-1">Skip Quiz navigation</a><div class="block block_fake" id="mod_quiz_navblock" data-block="_fake"><div class="header"><div class="title"><div class="block_action"></div><h2>Quiz navigation</h2></div></div><div class="content"><div class="qn_buttons clearfix allquestionsononepage"><a class="qnbutton correct free thispage" id="quiznavbutton1" title="Correct" data-quiz-page="0" href="#"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>1<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton2" title="Correct" data-quiz-page="0" href="#q2"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>2<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton3" title="Correct" data-quiz-page="0" href="#q3"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>3<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton4" title="Correct" data-quiz-page="0" href="#q4"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>4<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton5" title="Correct" data-quiz-page="0" href="#q5"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>5<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton6" title="Correct" data-quiz-page="0" href="#q6"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>6<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton7" title="Correct" data-quiz-page="0" href="#q7"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>7<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton8" title="Correct" data-quiz-page="0" href="#q8"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>8<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton9" title="Correct" data-quiz-page="0" href="#q9"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>9<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton10" title="Correct" data-quiz-page="1" href="#q10"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>10<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton incorrect free thispage" id="quiznavbutton11" title="Incorrect" data-quiz-page="2" href="#q11"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>11<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton12" title="Correct" data-quiz-page="3" href="#q12"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>12<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton13" title="Correct" data-quiz-page="4" href="#q13"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>13<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton14" title="Correct" data-quiz-page="5" href="#q14"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>14<span class="accesshide"> This page <span class="flagstate"></span></span></a><a class="qnbutton correct free thispage" id="quiznavbutton15" title="Correct" data-quiz-page="6" href="#q15"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>15<span class="accesshide"> This page <span class="flagstate"></span></span></a></div><div class="othernav"><a href="https://b-learning.utcv.edu.mx/mod/quiz/review.php?attempt=656830&amp;showall=0">Show one page at a time</a><a href="https://b-learning.utcv.edu.mx/mod/quiz/view.php?id=11803">Finish review</a></div></div></div><span class="skip-block-to" id="sb-1"></span></aside>                </div>
+            </div>
+        	<aside id="block-region-side-post" class="span3 block-region" data-blockregion="side-post" data-droptarget="1"></aside>        </div>
+    </div>
+</div>
+
+
+<footer id="footer">
+
+	<div class="footer-main">
+    	<div class="container-fluid">
+	    	<div class="row-fluid">
+            	<div class="span4">
+                	<div class="footer-desc">
+                    	<div class="logo-footer">
+                        	<a href="https://b-learning.utcv.edu.mx">
+                            	<img src="http://www.utcv.edu.mx/images/logoutcv10SEVparapag.jpg" width="183" height="67" alt="Eguru">
+                            </a>
+                        </div>
+                        <p>Plataforma B-learning de la Universidad Tecnológica del Centro de Veracruz.</p>                    </div>
+                </div>
+            	<div class="span2">
+                	<div class="footer-nav">
+                    	<h4></h4>
+                        <ul>                        	
+                             
+                        </ul>
+                    </div>
+                </div>
+            	<div class="span3">
+                	<div class="social-media">
+                    	<h4>Síguenos</h4>
+                    	<ul>
+                                                 	<li class="smedia-01">
+                            	<a href="https://www.facebook.com/UTCV-B-Learning-412602148781342" target="_blank">
+                                	<span class="media-icon">
+                                    <i class="fa fa-facebook-f"></i>
+                                    </span>
+                                    <span class="media-name">Facebook</span>
+                                </a>
+                            </li>
+                          
+						                              
+                                                    	<li class="smedia-03">
+    	                        <a href="https://www.google.com/u/0/111153968548413869101" target="_blank">
+                                	<span class="media-icon">
+                                    <i class="fa fa-google-plus"></i>
+                                    </span>
+                                    <span class="media-name">Google Plus</span>
+                                </a>
+                            </li>
+                            
+                                                    </ul>
+                    </div>
+                </div>
+            	<div class="span3">
+                	<div class="footer-contact">
+                    	<h4>Contacto</h4>
+						<p>Av. Universidad No.350, Carretera Federal Cuitláhuac-La Tinaja, Localidad Dos Caminos, Cuitláhuac, Ver. C.P 94910</p>
+                                                <p><i class="fa fa-phone-square"></i>Phone: 01 (278) 73 2 20 50 ext. 260</p>
+                                                <p><i class="fa fa-envelope"></i>
+                        E-mail: <a class="mail-link" href="mailto:rafael.espinoza@utcv.edu.mx, armando.esparza@utcv.edu.mx">rafael.espinoza@utcv.edu.mx, armando.esparza@utcv.edu.mx</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>    	
+    </div>
+    
+	<div class="footer-foot">
+    	<div class="container-fluid">
+<p class="text-center">Copyright &copy; 2015 - Developed by 
+            <a href="http://www.nephzat.com/">Nephzat.com</a>.Powered by <a href="https://moodle.org">Moodle</a></p>        </div>
+    </div>
+
+</footer>
+<!--E.O.Footer-->
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//b-learning.utcv.edu.mx/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//b-learning.utcv.edu.mx/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code --><script type="text/javascript">
+//<![CDATA[
+var require = {
+    baseUrl : 'https://b-learning.utcv.edu.mx/lib/requirejs.php/1464700795/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+
+    paths: {
+        jquery: 'https://b-learning.utcv.edu.mx/lib/javascript.php/1464700795/lib/jquery/jquery-1.11.3.min',
+        jqueryui: 'https://b-learning.utcv.edu.mx/lib/javascript.php/1464700795/lib/jquery/ui-1.11.4/jquery-ui.min',
+        jqueryprivate: 'https://b-learning.utcv.edu.mx/lib/javascript.php/1464700795/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script type="text/javascript" src="https://b-learning.utcv.edu.mx/lib/javascript.php/1464700795/lib/requirejs/require.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+require(['core/first'], function() {
+;
+require(["core/log"], function(amd) { amd.setConfig({"level":"warn"}); });
+});
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+M.yui.add_module({"core_question_engine":{"name":"core_question_engine","fullpath":"https:\/\/b-learning.utcv.edu.mx\/lib\/javascript.php\/1464700795\/question\/qengine.js","requires":["node","event"]},"mod_quiz":{"name":"mod_quiz","fullpath":"https:\/\/b-learning.utcv.edu.mx\/lib\/javascript.php\/1464700795\/mod\/quiz\/module.js","requires":["base","dom","event-delegate","event-key","core_question_engine","moodle-core-formchangechecker"]}});
+
+//]]>
+</script>
+<script type="text/javascript" src="https://b-learning.utcv.edu.mx/lib/javascript.php/1464700795/theme/eguru/javascript/theme.js"></script>
+<script type="text/javascript" src="https://b-learning.utcv.edu.mx/theme/javascript.php/eguru/1467063803/footer"></script>
+<script type="text/javascript">
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","cancel":"Cancel","changesmadereallygoaway":"You have made changes. Are you sure you want to navigate away and lose your changes?","morehelp":"More help","loadinghelp":"Loading...","yes":"Yes","confirm":"Confirm","no":"No","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} alias\/shortcut files that use this file as their source","select":"Select"},"block":{"addtodock":"Move this to the dock","undockitem":"Undock this item","dockblock":"Dock {$a} block","undockblock":"Undock {$a} block","undockall":"Undock all","hidedockpanel":"Hide the dock panel","hidepanel":"Hide panel"},"langconfig":{"thisdirectionvertical":"btt"},"question":{"flagged":"Flagged"},"quiz":{"functiondisabledbysecuremode":"That functionality is currently disabled","startattempt":"Start attempt","timesup":"Time is up!"},"admin":{"confirmation":"Confirmation"}};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {M.util.load_flowplayer();
+setTimeout("fix_column_widths()", 20);
+Y.use("moodle-core-dock-loader",function() {M.core.dock.loader.initLoader();
+});
+ M.util.js_pending('random57760ceb3b0931'); Y.use('core_question_flags', function(Y) { M.core_question_flags.init(Y, "https:\/\/b-learning.utcv.edu.mx\/question\/toggleflag.php", [{"src":"https:\/\/b-learning.utcv.edu.mx\/theme\/image.php\/eguru\/core\/1467063803\/i\/unflagged","title":"Flag this question for future reference","alt":"Not flagged"},{"src":"https:\/\/b-learning.utcv.edu.mx\/theme\/image.php\/eguru\/core\/1467063803\/i\/flagged","title":"Remove flag","alt":"Flagged"}], ["Flag question","Remove flag"]);  M.util.js_complete('random57760ceb3b0931'); });
+ M.util.js_pending('random57760ceb3b0932'); Y.use('mod_quiz', function(Y) { M.mod_quiz.nav.init(Y);  M.util.js_complete('random57760ceb3b0932'); });
+Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"en"});
+});
+M.util.help_popups.setup(Y);
+Y.use("moodle-core-popuphelp",function() {M.core.init_popuphelp();
+});
+M.util.init_skiplink(Y);
+Y.use("moodle-core-actionmenu",function() {M.core.actionmenu.init();
+});
+Y.use("moodle-core-formautosubmit",function() {M.core.init_formautosubmit({"selectid":"single_select57760ceb3b0936","nothing":false});
+});
+ M.util.js_pending('random57760ceb3b0937'); Y.use('mod_quiz', function(Y) { M.mod_quiz.init_review_form(Y);  M.util.js_complete('random57760ceb3b0937'); });
+ M.util.js_pending('random57760ceb3b0938'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random57760ceb3b0938'); });
+})();
+//]]>
+</script>
+
+</body>
+</html>
